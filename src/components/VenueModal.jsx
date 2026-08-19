@@ -1,10 +1,107 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { X, Heart, Star, Clock, Banknote, Phone, MapPin, Share2, Info, Utensils, Image as ImageIcon, ChevronLeft, ChevronRight, Layers } from 'lucide-react';
+import { X, Heart, Star, Clock, Banknote, Phone, MapPin, Share2, Info, Utensils, Image as ImageIcon, ChevronLeft, ChevronRight, Layers, ZoomIn, ZoomOut, RotateCcw, Car, CalendarCheck, Shirt, Wine, Sparkles, Sun } from 'lucide-react';
+
+function getQuickActionIcon(qaText) {
+  if (!qaText) return <Sparkles style={{ width: '14px', height: '14px' }} />;
+  const lower = qaText.toLowerCase();
+  if (lower.includes('bãi xe') || lower.includes('đỗ xe') || lower.includes('giữ xe') || lower.includes('ô tô') || lower.includes('xe máy')) {
+    return <Car style={{ width: '14px', height: '14px' }} />;
+  }
+  if (lower.includes('đặt bàn') || lower.includes('đặt chỗ') || lower.includes('book') || lower.includes('lưu ý')) {
+    return <CalendarCheck style={{ width: '14px', height: '14px' }} />;
+  }
+  if (lower.includes('trang phục') || lower.includes('dress') || lower.includes('casual') || lower.includes('áo')) {
+    return <Shirt style={{ width: '14px', height: '14px' }} />;
+  }
+  if (lower.includes('rượu') || lower.includes('phòng riêng') || lower.includes('bar') || lower.includes('vip')) {
+    return <Wine style={{ width: '14px', height: '14px' }} />;
+  }
+  if (lower.includes('view') || lower.includes('ban công') || lower.includes('sân vườn') || lower.includes('ngoài trời') || lower.includes('hoàng hôn')) {
+    return <Sun style={{ width: '14px', height: '14px' }} />;
+  }
+  if (lower.includes('món') || lower.includes('ăn') || lower.includes('thực đơn') || lower.includes('menu')) {
+    return <Utensils style={{ width: '14px', height: '14px' }} />;
+  }
+  return <Sparkles style={{ width: '14px', height: '14px' }} />;
+}
+
+function formatPriceDisplay(priceStr) {
+  if (!priceStr) return '80k–250k';
+  let clean = priceStr.replace(/\/người/g, '').trim();
+
+  const parseNum = (valStr) => {
+    let numVal = parseInt(valStr.replace(/[^\d]/g, ''), 10);
+    if (isNaN(numVal)) return valStr.trim();
+    if (numVal >= 1000000) {
+      let millions = numVal / 1000000;
+      let formatted = Number.isInteger(millions) ? millions : parseFloat(millions.toFixed(1));
+      return `${formatted}tr`;
+    }
+    if (numVal >= 1000) {
+      let thousands = numVal / 1000;
+      let formatted = Number.isInteger(thousands) ? thousands : parseFloat(thousands.toFixed(1));
+      return `${formatted}k`;
+    }
+    return `${numVal}`;
+  };
+
+  if (clean.includes('-') || clean.includes('–')) {
+    const parts = clean.split(/[-–]/);
+    if (parts.length === 2) {
+      const left = parseNum(parts[0]);
+      const right = parseNum(parts[1]);
+      return `${left} – ${right}`;
+    }
+  }
+
+  if (/\d{4,}/.test(clean)) {
+    return parseNum(clean);
+  }
+
+  return clean;
+}
+
+function formatModalHours(hoursStr) {
+  if (!hoursStr) return { val: '10:00 - 22:00', lbl: 'Giờ mở cửa hàng ngày' };
+  if (hoursStr.includes('|')) {
+    return {
+      val: 'Phục vụ Trưa & Tối',
+      lbl: hoursStr.replace(/\s*\|\s*/g, ' • ')
+    };
+  }
+  return {
+    val: hoursStr,
+    lbl: 'Giờ mở cửa hàng ngày'
+  };
+}
 
 export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorite, onShare }) {
   const [activeTab, setActiveTab] = useState(0);
   const [activeImgIndex, setActiveImgIndex] = useState(0);
   const thumbsRef = useRef(null);
+
+  // Drag to scroll state for Quick Action badges
+  const qaRef = useRef(null);
+  const [isMouseDown, setIsMouseDown] = useState(false);
+  const [startX, setStartX] = useState(0);
+  const [scrollLeft, setScrollLeft] = useState(0);
+
+  const handleMouseDown = (e) => {
+    if (!qaRef.current) return;
+    setIsMouseDown(true);
+    setStartX(e.pageX - qaRef.current.offsetLeft);
+    setScrollLeft(qaRef.current.scrollLeft);
+  };
+  const handleMouseLeaveOrUp = () => {
+    setIsMouseDown(false);
+  };
+  const handleMouseMove = (e) => {
+    if (!isMouseDown || !qaRef.current) return;
+    e.preventDefault();
+    const x = e.pageX - qaRef.current.offsetLeft;
+    const walk = (x - startX) * 1.5;
+    qaRef.current.scrollLeft = scrollLeft - walk;
+  };
 
   const images = venue?.images && venue.images.length > 0 ? venue.images : [
     'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=80',
@@ -12,9 +109,38 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
     'https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=1000&q=80'
   ];
 
+  const [isZoomed, setIsZoomed] = useState(false);
+  const [zoomScale, setZoomScale] = useState(1);
+
+  // Reset zoom scale whenever image index changes or lightbox toggles
+  useEffect(() => {
+    setZoomScale(1);
+  }, [activeImgIndex, isZoomed]);
+
+  const handleZoomIn = (e) => {
+    e?.stopPropagation();
+    setZoomScale((prev) => Math.min(3, +(prev + 0.25).toFixed(2)));
+  };
+
+  const handleZoomOut = (e) => {
+    e?.stopPropagation();
+    setZoomScale((prev) => Math.max(0.5, +(prev - 0.25).toFixed(2)));
+  };
+
+  const handleResetZoom = (e) => {
+    e?.stopPropagation();
+    setZoomScale(1);
+  };
+
   useEffect(() => {
     const handleKeyDown = (e) => {
-      if (e.key === 'Escape') onClose();
+      if (e.key === 'Escape') {
+        if (isZoomed) {
+          setIsZoomed(false);
+        } else {
+          onClose();
+        }
+      }
       if (e.key === 'ArrowLeft') {
         setActiveImgIndex((prev) => (prev === 0 ? images.length - 1 : prev - 1));
       }
@@ -28,17 +154,28 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
       window.removeEventListener('keydown', handleKeyDown);
       document.body.style.overflow = '';
     };
-  }, [onClose, images.length]);
+  }, [onClose, isZoomed, images.length]);
 
-  // Auto-scroll active thumbnail into view
+  // Sliding window state for showing max 3 thumbnails
+  const [thumbStartIndex, setThumbStartIndex] = useState(0);
+
   useEffect(() => {
-    if (thumbsRef.current) {
-      const activeEl = thumbsRef.current.children[activeImgIndex];
-      if (activeEl) {
-        activeEl.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-      }
+    if (images.length <= 3) {
+      setThumbStartIndex(0);
+      return;
     }
-  }, [activeImgIndex]);
+    setThumbStartIndex((prevStart) => {
+      let newStart = prevStart;
+      if (activeImgIndex > prevStart + 2) {
+        newStart = activeImgIndex - 2;
+      } else if (activeImgIndex < prevStart) {
+        newStart = activeImgIndex;
+      }
+      return Math.max(0, Math.min(newStart, images.length - 3));
+    });
+  }, [activeImgIndex, images.length]);
+
+  const visibleThumbs = images.slice(thumbStartIndex, thumbStartIndex + 3);
 
   if (!venue) return null;
 
@@ -57,8 +194,15 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
       <div className="modal" onClick={(e) => e.stopPropagation()}>
         {/* Modal Hero Image */}
         <div className="modal-hero">
-          <img src={images[activeImgIndex]} className="modal-hero-img" alt={venue.name} />
-          <div className="modal-hero-overlay"></div>
+          <img
+            src={images[activeImgIndex]}
+            className="modal-hero-img"
+            alt={venue.name}
+            onClick={() => setIsZoomed(true)}
+            title="Bấm để phóng to hình ảnh"
+            referrerPolicy="no-referrer"
+          />
+          <div className="modal-hero-overlay" onClick={() => setIsZoomed(true)}></div>
 
           {/* Image Counter Badge */}
           {images.length > 1 && (
@@ -95,26 +239,38 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
           )}
 
           {/* Quick Action Badges */}
-          <div className="modal-quick-actions">
-            {(venue.quickActions || ['Ảnh món nổi bật', 'Góc riêng tư']).map((qa, i) => (
-              <button key={i} className="modal-qa-btn">
-                <ImageIcon style={{ width: '14px', height: '14px' }} />
-                {qa}
-              </button>
-            ))}
-          </div>
+          {venue.quickActions && venue.quickActions.length > 0 && (
+            <div
+              className="modal-quick-actions"
+              ref={qaRef}
+              onMouseDown={handleMouseDown}
+              onMouseLeave={handleMouseLeaveOrUp}
+              onMouseUp={handleMouseLeaveOrUp}
+              onMouseMove={handleMouseMove}
+            >
+              {venue.quickActions.map((qa, i) => (
+                <button key={i} className="modal-qa-btn">
+                  {getQuickActionIcon(qa)}
+                  {qa}
+                </button>
+              ))}
+            </div>
+          )}
 
-          {/* Scrollable Thumbnails Bar */}
-          <div className="modal-thumbs" ref={thumbsRef}>
-            {images.map((img, idx) => (
-              <div
-                key={idx}
-                className={`modal-thumb ${activeImgIndex === idx ? 'active' : ''}`}
-                onClick={() => setActiveImgIndex(idx)}
-              >
-                <img src={img} alt={`Thumb ${idx + 1}`} />
-              </div>
-            ))}
+          {/* 3-Item Sliding Thumbnails Bar */}
+          <div className={`modal-thumbs ${(!venue.quickActions || venue.quickActions.length === 0) ? 'no-qa' : ''}`} ref={thumbsRef}>
+            {visibleThumbs.map((img, relativeIdx) => {
+              const actualIdx = thumbStartIndex + relativeIdx;
+              return (
+                <div
+                  key={actualIdx}
+                  className={`modal-thumb ${activeImgIndex === actualIdx ? 'active' : ''}`}
+                  onClick={() => setActiveImgIndex(actualIdx)}
+                >
+                  <img src={img} alt={`Thumb ${actualIdx + 1}`} referrerPolicy="no-referrer" />
+                </div>
+              );
+            })}
           </div>
         </div>
 
@@ -127,28 +283,34 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
           </div>
 
           {/* Info Grid Cards */}
-          <div className="modal-info-grid">
-            <div className="modal-info-card">
-              <Star className="ic" style={{ fill: '#E85D5D' }} />
-              <div className="val">{venue.rating}</div>
-              <div className="lbl">{venue.reviews} đánh giá</div>
-            </div>
-            <div className="modal-info-card">
-              <Clock className="ic" />
-              <div className="val">{venue.hours.split('–')[0].trim()}</div>
-              <div className="lbl">Mở cửa • {venue.hours}</div>
-            </div>
-            <div className="modal-info-card">
-              <Banknote className="ic" />
-              <div className="val">{venue.priceFrom || 80}k</div>
-              <div className="lbl">Từ {venue.priceFrom || 80}k – {venue.priceTo || 250}k/người</div>
-            </div>
-            <div className="modal-info-card">
-              <Phone className="ic" />
-              <div className="val" style={{ fontSize: '13px' }}>{venue.phone || 'Chưa cập nhật'}</div>
-              <div className="lbl">Liên hệ trực tiếp</div>
-            </div>
-          </div>
+          {(() => {
+            const hoursInfo = formatModalHours(venue.hours);
+            const priceInfo = formatPriceDisplay(venue.price);
+            return (
+              <div className="modal-info-grid">
+                <div className="modal-info-card">
+                  <Star className="ic" style={{ fill: '#E85D5D' }} />
+                  <div className="val">{venue.rating}</div>
+                  <div className="lbl">{venue.reviews} đánh giá</div>
+                </div>
+                <div className="modal-info-card">
+                  <Clock className="ic" />
+                  <div className="val" style={{ fontSize: hoursInfo.val.length > 14 ? '13px' : '14px' }}>{hoursInfo.val}</div>
+                  <div className="lbl" style={{ fontSize: '11px' }}>{hoursInfo.lbl}</div>
+                </div>
+                <div className="modal-info-card">
+                  <Banknote className="ic" />
+                  <div className="val" style={{ fontSize: '14px' }}>{priceInfo}</div>
+                  <div className="lbl">Chi phí / người</div>
+                </div>
+                <div className="modal-info-card">
+                  <Phone className="ic" />
+                  <div className="val" style={{ fontSize: '13px' }}>{venue.phone || 'Chưa cập nhật'}</div>
+                  <div className="lbl">Liên hệ trực tiếp</div>
+                </div>
+              </div>
+            );
+          })()}
 
           {/* Modal Tabs */}
           <div className="modal-tabs">
@@ -271,7 +433,13 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
           <button
             className="btn-primary"
             style={{ flex: 1, justifyContent: 'center' }}
-            onClick={() => window.open(`https://maps.google.com/?q=${encodeURIComponent(venue.fullAddress || venue.name)}`, '_blank')}
+            onClick={() => {
+              const targetUrl = venue.mapUrl || venue.googleMapUrl || venue.mapLink ||
+                (venue.geo?.lat && venue.geo?.lng
+                  ? `https://www.google.com/maps?q=${venue.geo.lat},${venue.geo.lng}`
+                  : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(venue.fullAddress || venue.address || venue.name)}`);
+              window.open(targetUrl, '_blank');
+            }}
           >
             <MapPin style={{ width: '16px', height: '16px' }} />
             Mở Google Maps
@@ -291,6 +459,102 @@ export default function VenueModal({ venue, onClose, isFavorite, onToggleFavorit
           </button>
         </div>
       </div>
+
+      {/* Fullscreen Lightbox Zoom Overlay */}
+      {isZoomed && (
+        <div
+          className="lightbox-overlay"
+          onClick={() => setIsZoomed(false)}
+          onWheel={(e) => {
+            if (e.deltaY < 0) handleZoomIn(e);
+            else if (e.deltaY > 0) handleZoomOut(e);
+          }}
+        >
+          {/* Floating Toolbar with Zoom In/Out & Close */}
+          <div className="lightbox-toolbar" onClick={(e) => e.stopPropagation()}>
+            <button
+              className="lightbox-tool-btn"
+              onClick={handleZoomOut}
+              disabled={zoomScale <= 0.5}
+              title="Thu nhỏ (-)"
+            >
+              <ZoomOut style={{ width: '18px', height: '18px' }} />
+            </button>
+
+            <span className="lightbox-zoom-badge">{Math.round(zoomScale * 100)}%</span>
+
+            <button
+              className="lightbox-tool-btn"
+              onClick={handleZoomIn}
+              disabled={zoomScale >= 3}
+              title="Phóng to (+)"
+            >
+              <ZoomIn style={{ width: '18px', height: '18px' }} />
+            </button>
+
+            {zoomScale !== 1 && (
+              <button
+                className="lightbox-tool-btn"
+                onClick={handleResetZoom}
+                title="Đặt lại kích thước gốc (100%)"
+              >
+                <RotateCcw style={{ width: '15px', height: '15px' }} />
+              </button>
+            )}
+
+            <div className="lightbox-divider"></div>
+
+            <button
+              className="lightbox-tool-btn close-btn"
+              onClick={() => setIsZoomed(false)}
+              title="Đóng phóng to (ESC)"
+            >
+              <X style={{ width: '20px', height: '20px' }} />
+            </button>
+          </div>
+
+          {/* Lightbox Carousel Arrows */}
+          {images.length > 1 && (
+            <>
+              <button
+                className="lightbox-arrow left"
+                onClick={(e) => { e.stopPropagation(); handlePrevImage(); }}
+                title="Ảnh trước (←)"
+              >
+                <ChevronLeft style={{ width: '28px', height: '28px' }} />
+              </button>
+              <button
+                className="lightbox-arrow right"
+                onClick={(e) => { e.stopPropagation(); handleNextImage(); }}
+                title="Ảnh sau (→)"
+              >
+                <ChevronRight style={{ width: '28px', height: '28px' }} />
+              </button>
+            </>
+          )}
+
+          {/* Lightbox Image Container */}
+          <div
+            className="lightbox-content"
+            onClick={(e) => e.stopPropagation()}
+            style={{
+              transform: `scale(${zoomScale})`,
+              transition: 'transform 0.25s cubic-bezier(0.16, 1, 0.3, 1)',
+              transformOrigin: 'center center'
+            }}
+          >
+            <img
+              src={images[activeImgIndex]}
+              alt={venue.name}
+              className="lightbox-img"
+              referrerPolicy="no-referrer"
+            />
+            <div className="lightbox-caption">
+              <span>{venue.name} • Ảnh {activeImgIndex + 1} / {images.length} • {Math.round(zoomScale * 100)}%</span>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

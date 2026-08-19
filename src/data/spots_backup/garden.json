@@ -1,0 +1,3141 @@
+[
+  {
+    "id": 38,
+    "name": "Quan Bui Q1",
+    "district": "Q1",
+    "group": "Q1-Q3 trung tâm",
+    "address": "78 Đồng Khởi, Q1",
+    "fullAddress": "78 Đồng Khởi, Q1, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "278k-488k",
+    "rating": 4.4,
+    "reviews": 200,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4066 366",
+    "goodReview": "Ốc bươu nướng tiêu xanh đỉnh, nước chấm xuất sắc",
+    "badReview": "Đường vào hơi tối, Grab khó tìm ban đêm",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Yên tĩnh",
+      "Cocktail ngon"
+    ],
+    "desc": "Quan Bui Q1 là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Không gian mở nhưng yên tĩnh"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "71k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "206k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "61k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 5,
+        "text": "Ốc bươu nướng tiêu xanh đỉnh, nước chấm xuất sắc"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4.5,
+        "text": "Không gian acoustic ấm, nhạc hay, đèn vàng ấm cúng"
+      },
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 3,
+        "text": "Bãi xe chật, cuối tuần phải gửi xa 100m"
+      },
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 3,
+        "text": "Giá hơi cao so với khẩu phần, nước 70k ly"
+      },
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 3,
+        "text": "Nhạc hơi to, nói chuyện phải ghé sát"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 3,
+        "text": "Điều hòa hơi yếu tầng 2, hơi nóng lúc 7h tối"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 62,
+    "name": "Quan Bui Garden",
+    "district": "Thảo Điền",
+    "group": "Thủ Đức-Thảo Điền",
+    "address": "46 Xuân Thủy, Thảo Điền",
+    "fullAddress": "46 Nguyễn Văn Linh, Thảo Điền, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "222k-472k",
+    "rating": 4.4,
+    "reviews": 184,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4234 534",
+    "goodReview": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện",
+    "badReview": "Nhân viên quên order món tráng miệng, phải nhắc",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Yên tĩnh",
+      "Cocktail ngon"
+    ],
+    "desc": "Quan Bui Garden là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Không gian mở nhưng yên tĩnh"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "119k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "194k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "49k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 5,
+        "text": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4.5,
+        "text": "Sân vườn mát mẻ như miền Tây thu nhỏ, hợp cho cặp đôi thích yên tĩnh"
+      },
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 3,
+        "text": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi"
+      },
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 3,
+        "text": "Đông, lên món hơi chậm, đợi 20-25p mới có đồ"
+      },
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 3,
+        "text": "Bãi xe chật, cuối tuần phải gửi xa 100m"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 3,
+        "text": "Giá hơi cao so với khẩu phần, nước 70k ly"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 71,
+    "name": "Home Garden Cafe TĐ",
+    "district": "Thảo Điền",
+    "group": "Thủ Đức-Thảo Điền",
+    "address": "109 Xuân Thủy, Thảo Điền",
+    "fullAddress": "109 Nguyễn Văn Linh, Thảo Điền, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "171k-336k",
+    "rating": 4.3,
+    "reviews": 123,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4297 597",
+    "goodReview": "Không gian acoustic ấm, nhạc hay, đèn vàng ấm cúng",
+    "badReview": "Cuối tuần đông, phải đặt trước 1 ngày không thì hết bàn view đẹp",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Acoustic",
+      "Đồ ăn ngon"
+    ],
+    "desc": "Home Garden Cafe TĐ là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Bãi xe nhỏ, nên đi Grab",
+      "Không gian mở nhưng yên tĩnh"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "62k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "257k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "52k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 5,
+        "text": "Không gian acoustic ấm, nhạc hay, đèn vàng ấm cúng"
+      },
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 4,
+        "text": "Bàn riêng có rèm, rất riêng tư, phục vụ nhanh"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4,
+        "text": "Giá hơi cao so với khẩu phần, nước 70k ly"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 4,
+        "text": "Nhạc hơi to, nói chuyện phải ghé sát"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4,
+        "text": "Điều hòa hơi yếu tầng 2, hơi nóng lúc 7h tối"
+      },
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 4,
+        "text": "Nhân viên quên order món tráng miệng, phải nhắc"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 78,
+    "name": "La Villa French Garden",
+    "district": "Thủ Đức",
+    "group": "Thủ Đức-Thảo Điền",
+    "address": "158 Xuân Thủy, Thủ Đức",
+    "fullAddress": "158 Xuân Thủy, Thảo Điền, Thủ Đức, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "198k-408k",
+    "rating": 4.4,
+    "reviews": 100,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4346 646",
+    "goodReview": "Ốc bươu nướng tiêu xanh đỉnh, nước chấm xuất sắc",
+    "badReview": "Đường vào hơi tối, Grab khó tìm ban đêm",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "View đẹp",
+      "Sân vườn",
+      "Lãng mạn"
+    ],
+    "desc": "La Villa French Garden là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Có bàn riêng 2 người, rèm che"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "111k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "126k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "41k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Ốc bươu nướng tiêu xanh đỉnh, nước chấm xuất sắc"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4.5,
+        "text": "Không gian acoustic ấm, nhạc hay, đèn vàng ấm cúng"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 3,
+        "text": "Bãi xe chật, cuối tuần phải gửi xa 100m"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 3,
+        "text": "Giá hơi cao so với khẩu phần, nước 70k ly"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 79,
+    "name": "Cuc Gach Garden",
+    "district": "Thủ Đức",
+    "group": "Thủ Đức-Thảo Điền",
+    "address": "165 Xuân Thủy, Thủ Đức",
+    "fullAddress": "165 Xuân Thủy, Thảo Điền, Thủ Đức, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "219k-464k",
+    "rating": 4.3,
+    "reviews": 191,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4353 653",
+    "goodReview": "Đồ ăn ngon hơn mong đợi, giá hợp lý cho chất lượng",
+    "badReview": "Điều hòa hơi yếu tầng 2, hơi nóng lúc 7h tối",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Riêng tư",
+      "Đồ ăn ngon"
+    ],
+    "desc": "Cuc Gach Garden là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Bãi xe nhỏ, nên đi Grab",
+      "Có góc ban công riêng"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "118k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "133k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "48k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 5,
+        "text": "Đồ ăn ngon hơn mong đợi, giá hợp lý cho chất lượng"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 4,
+        "text": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4,
+        "text": "Cuối tuần đông, phải đặt trước 1 ngày không thì hết bàn view đẹp"
+      },
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 4,
+        "text": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi"
+      },
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 4,
+        "text": "Đông, lên món hơi chậm, đợi 20-25p mới có đồ"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 93,
+    "name": "Thảo Điền Village Q7",
+    "district": "Q7",
+    "group": "Q7 Phú Mỹ Hưng",
+    "address": "63 Nguyễn Văn Linh, Q7",
+    "fullAddress": "63 Nguyễn Văn Linh, Q7, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "133k-268k",
+    "rating": 4.5,
+    "reviews": 145,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4451 751",
+    "goodReview": "View đẹp xỉu, hoàng hôn lên ảnh cực tình, đồ uống ổn áp",
+    "badReview": "Giá hơi cao so với khẩu phần, nước 70k ly",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "View đẹp",
+      "Sân vườn",
+      "Sang chảnh"
+    ],
+    "desc": "Thảo Điền Village Q7 là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Bãi xe nhỏ, nên đi Grab",
+      "Có bàn riêng 2 người, rèm che"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "96k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "231k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "86k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 5,
+        "text": "View đẹp xỉu, hoàng hôn lên ảnh cực tình, đồ uống ổn áp"
+      },
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 4,
+        "text": "Nhân viên tinh tế, để ý cặp đôi, không làm phiền nhiều"
+      },
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 4,
+        "text": "View bị cây che bớt, không thoáng như ảnh quảng cáo"
+      },
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 4,
+        "text": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 94,
+    "name": "Quan Bui Q7",
+    "district": "Q7",
+    "group": "Q7 Phú Mỹ Hưng",
+    "address": "70 Nguyễn Văn Linh, Q7",
+    "fullAddress": "70 Nguyễn Văn Linh, Q7, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "154k-324k",
+    "rating": 4.4,
+    "reviews": 236,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4458 758",
+    "goodReview": "Bàn riêng có rèm, rất riêng tư, phục vụ nhanh",
+    "badReview": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Nến",
+      "Cocktail ngon"
+    ],
+    "desc": "Quan Bui Q7 là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Có góc ban công riêng"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "103k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "238k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "93k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 5,
+        "text": "Bàn riêng có rèm, rất riêng tư, phục vụ nhanh"
+      },
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 4.5,
+        "text": "Check-in sống ảo đẹp, góc nào cũng có ảnh xinh"
+      },
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 3,
+        "text": "Nhạc hơi to, nói chuyện phải ghé sát"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 3,
+        "text": "Điều hòa hơi yếu tầng 2, hơi nóng lúc 7h tối"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 3,
+        "text": "Nhân viên quên order món tráng miệng, phải nhắc"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 102,
+    "name": "Quan Bui Garden Q7",
+    "district": "Q7",
+    "group": "Q7 Phú Mỹ Hưng",
+    "address": "126 Nguyễn Văn Linh, Q7",
+    "fullAddress": "126 Nguyễn Văn Linh, Q7, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "202k-452k",
+    "rating": 4.4,
+    "reviews": 84,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4514 814",
+    "goodReview": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện",
+    "badReview": "Nhân viên quên order món tráng miệng, phải nhắc",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "View đẹp",
+      "Sân vườn",
+      "Lãng mạn"
+    ],
+    "desc": "Quan Bui Garden Q7 là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Có bàn riêng 2 người, rèm che"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "159k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "294k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "89k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4.5,
+        "text": "Sân vườn mát mẻ như miền Tây thu nhỏ, hợp cho cặp đôi thích yên tĩnh"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 3,
+        "text": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 3,
+        "text": "Đông, lên món hơi chậm, đợi 20-25p mới có đồ"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 107,
+    "name": "Home Garden Cafe Q7",
+    "district": "Phú Mỹ Hưng",
+    "group": "Q7 Phú Mỹ Hưng",
+    "address": "161 Nguyễn Văn Linh, Phú Mỹ Hưng",
+    "fullAddress": "161 Nguyễn Văn Linh, Phú Mỹ Hưng, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "187k-412k",
+    "rating": 4.7,
+    "reviews": 99,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4549 849",
+    "goodReview": "Check-in sống ảo đẹp, góc nào cũng có ảnh xinh",
+    "badReview": "Đông, lên món hơi chậm, đợi 20-25p mới có đồ",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Acoustic",
+      "Đồ ăn ngon"
+    ],
+    "desc": "Home Garden Cafe Q7 là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích không gian xanh mát, riêng tư dưới tán cây. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Bãi xe nhỏ, nên đi Grab",
+      "Không gian mở nhưng yên tĩnh"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Beef Steak sốt tiêu",
+            "p": "74k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "149k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "64k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Đạt Đạt",
+        "date": "2 tháng trước",
+        "r": 5,
+        "text": "Check-in sống ảo đẹp, góc nào cũng có ảnh xinh"
+      },
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 4,
+        "text": "Không gian siêu lãng mạn, nhân viên decor miễn phí cho anniversary, đồ ăn ngon"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4,
+        "text": "Điều hòa hơi yếu tầng 2, hơi nóng lúc 7h tối"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 4,
+        "text": "Nhân viên tinh tế, để ý cặp đôi, không làm phiền nhiều"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4,
+        "text": "Đồ ăn ngon hơn mong đợi, giá hợp lý cho chất lượng"
+      },
+      {
+        "name": "Giang Giang",
+        "date": "5 ngày trước",
+        "r": 4,
+        "text": "Đường vào hơi tối, Grab khó tìm ban đêm"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 111,
+    "name": "Vườn Ẩm Thực Bình Chánh",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Vườn Ẩm Thực Bình Chánh, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "120k-250k",
+    "rating": 4.5,
+    "reviews": 89,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Không gian mát mẻ như miền Tây thu nhỏ, hợp cho cặp đôi thích yên tĩnh",
+    "badReview": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Không gian mát mẻ như miền Tây thu nhỏ, hợp cho cặp đôi thích yên tĩnh",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "120k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 112,
+    "name": "Quán Ốc Lẩu Nướng 768",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Quán Ốc Lẩu Nướng 768, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "100k-200k",
+    "rating": 4.3,
+    "reviews": 67,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Ốc bươu nướng tiêu xanh đỉnh",
+    "badReview": "Đông, lên món hơi chậm",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Ốc bươu nướng tiêu xanh đỉnh",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "100k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 113,
+    "name": "Quán Lẩu Gà Nướng A Lợi",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Quán Lẩu Gà Nướng A Lợi, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "150k-280k",
+    "rating": 4.4,
+    "reviews": 73,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Gà nướng lu thơm, lẩu lá é chua thanh rất hợp date tối",
+    "badReview": "Quán hơi nóng nếu ngồi gần bếp nướng",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Gà nướng lu thơm, lẩu lá é chua thanh rất hợp date tối",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "150k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 114,
+    "name": "Nhà Hàng Làng Ta",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Nhà Hàng Làng Ta, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "100k-220k",
+    "rating": 4.6,
+    "reviews": 94,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Ao cá, chòi lá riêng tư cho 2 người, rất lãng mạn",
+    "badReview": "Đường vào hơi vắng buổi tối",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Ao cá, chòi lá riêng tư cho 2 người, rất lãng mạn",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "100k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 115,
+    "name": "Làng Nướng Nam Bộ Bình Chánh",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Làng Nướng Nam Bộ Bình Chánh, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "150k-300k",
+    "rating": 4.5,
+    "reviews": 88,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Sân vườn rộng, có võng nằm chill sau ăn",
+    "badReview": "Cuối tuần phải đặt trước không hết chòi",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Sân vườn rộng, có võng nằm chill sau ăn",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "150k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 116,
+    "name": "Sân Vườn Hai Lúa Bình Chánh",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Sân Vườn Hai Lúa Bình Chánh, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "100k-200k",
+    "rating": 4.4,
+    "reviews": 61,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Món đồng quê ngon, không gian tre trúc mát",
+    "badReview": "Menu ít món chay",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Món đồng quê ngon, không gian tre trúc mát",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "100k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 117,
+    "name": "Quán Ăn 86",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Quán Ăn 86, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "30k-70k",
+    "rating": 4,
+    "reviews": 52,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Hủ tiếu bún mọc sáng ngon, rẻ, hợp date sớm",
+    "badReview": "Quán nhỏ, hơi ồn buổi sáng",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Hủ tiếu bún mọc sáng ngon, rẻ, hợp date sớm",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "30k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 119,
+    "name": "Nhà Hàng Cánh Đồng Lúa Bình Chánh",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Nhà Hàng Cánh Đồng Lúa Bình Chánh, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "80k-150k",
+    "rating": 4.3,
+    "reviews": 58,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "View đồng lúa xanh, gió mát, ảnh đẹp",
+    "badReview": "Mùa gặt thì hơi bụi",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "View đồng lúa xanh, gió mát, ảnh đẹp",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "80k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 120,
+    "name": "Cafe Sân Vườn Miền Tây Bình Chánh",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "Cafe Sân Vườn Miền Tây Bình Chánh, Bình Chánh",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-80k",
+    "rating": 4.5,
+    "reviews": 71,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Võng, dừa nước, yên tĩnh, giá sinh viên",
+    "badReview": "Nước hơi ngọt, ít đá",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Võng, dừa nước, yên tĩnh, giá sinh viên",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 121,
+    "name": "Quân Bình Tân - Cafe Sân Vườn",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Quân Bình Tân - Cafe Sân Vườn, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-90k",
+    "rating": 4.2,
+    "reviews": 66,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Cafe sân vườn rộng, thoáng, nhiều cây xanh",
+    "badReview": "Tối hơi thiếu đèn chỗ ngồi xa",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Cafe sân vườn rộng, thoáng, nhiều cây xanh",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 122,
+    "name": "ÚT LẬP Coffee & Cream",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "ÚT LẬP Coffee & Cream, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-110k",
+    "rating": 4.4,
+    "reviews": 82,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "View đẹp, có máy lạnh, bánh ngon",
+    "badReview": "Giữ xe 10k hơi cao",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "View đẹp, có máy lạnh, bánh ngon",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "50k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 123,
+    "name": "Aeon Mall Bình Tân - Khu Ẩm Thực",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Aeon Mall Bình Tân - Khu Ẩm Thực, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "80k-200k",
+    "rating": 4.3,
+    "reviews": 134,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Texas Chicken, Hotpot Story, King BBQ - hợp date mua sắm",
+    "badReview": "Cuối tuần đông nghẹt, ồn",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Texas Chicken, Hotpot Story, King BBQ - hợp date mua sắm",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "80k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 124,
+    "name": "Lẩu Bò Giáo Toàn",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Lẩu Bò Giáo Toàn, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "120k-220k",
+    "rating": 4.5,
+    "reviews": 91,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Lẩu bò 7 món, thịt tươi, nước lẩu đậm đà",
+    "badReview": "Quán hơi ám khói nếu ngồi gần bếp",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Lẩu bò 7 món, thịt tươi, nước lẩu đậm đà",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "120k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 125,
+    "name": "Nhà Hàng Hương Cau Bình Tân",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Nhà Hàng Hương Cau Bình Tân, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "150k-300k",
+    "rating": 4.4,
+    "reviews": 77,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Sân vườn cau xanh, không gian thoáng mát",
+    "badReview": "Giá hơi cao ngày lễ",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Sân vườn cau xanh, không gian thoáng mát",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "150k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 126,
+    "name": "The Coffee House Aeon Bình Tân",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "The Coffee House Aeon Bình Tân, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "70k-130k",
+    "rating": 4.5,
+    "reviews": 98,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Chỗ ngồi êm, làm việc hẹn hò đều ổn",
+    "badReview": "WiFi chập chờn lúc đông",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Chỗ ngồi êm, làm việc hẹn hò đều ổn",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "70k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 127,
+    "name": "GoGi House Aeon Bình Tân",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "GoGi House Aeon Bình Tân, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "200k-350k",
+    "rating": 4.6,
+    "reviews": 121,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Nướng Hàn Quốc ngon, panchan đầy đủ",
+    "badReview": "Đặt bàn trước không thì đợi 30p",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Nướng Hàn Quốc ngon, panchan đầy đủ",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "200k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 128,
+    "name": "Bún Đậu Mắm Tôm Tiến Hải",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Bún Đậu Mắm Tôm Tiến Hải, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-90k",
+    "rating": 4.3,
+    "reviews": 64,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Date bình dân vui, bún đậu đầy đặn",
+    "badReview": "Mắm tôm hơi mặn với người mới ăn",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Date bình dân vui, bún đậu đầy đặn",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "50k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 129,
+    "name": "Cafe Sân Vườn Thỏ Trắng Bình Tân",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Cafe Sân Vườn Thỏ Trắng Bình Tân, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-80k",
+    "rating": 4.4,
+    "reviews": 59,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Có thỏ, cây xanh, cặp đôi thích thú cưng mê",
+    "badReview": "Có mùi thỏ nhẹ nếu ngồi gần chuồng",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Có thỏ, cây xanh, cặp đôi thích thú cưng mê",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 130,
+    "name": "Lẩu Cua Đất Mũi Bình Tân",
+    "district": "Bình Tân",
+    "group": "Bình Tân",
+    "address": "Bình Tân, TP.HCM",
+    "fullAddress": "Lẩu Cua Đất Mũi Bình Tân, Bình Tân",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "150k-250k",
+    "rating": 4.5,
+    "reviews": 86,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Cua Cà Mau chắc thịt, nước lẩu ngọt tự nhiên",
+    "badReview": "Giá cua biến động theo mùa",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Cua Cà Mau chắc thịt, nước lẩu ngọt tự nhiên",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "150k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 131,
+    "name": "Nhà Hàng Tân Phú Gia",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Nhà Hàng Tân Phú Gia, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "150k-300k",
+    "rating": 4.3,
+    "reviews": 72,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Có phòng riêng cho couple, yên tĩnh",
+    "badReview": "Trang trí hơi kiểu gia đình, ít lãng mạn",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Có phòng riêng cho couple, yên tĩnh",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "150k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 132,
+    "name": "Tân Kỳ Tân Quý Food Street",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Tân Kỳ Tân Quý Food Street, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-150k",
+    "rating": 4.4,
+    "reviews": 105,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Phố ăn vặt tối đa dạng, đi bộ ăn vặt vui",
+    "badReview": "Đông xe, khói bụi",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Phố ăn vặt tối đa dạng, đi bộ ăn vặt vui",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "50k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 133,
+    "name": "Cafe Cỏ May Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Cafe Cỏ May Tân Phú, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-80k",
+    "rating": 4.5,
+    "reviews": 68,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Acoustic tối thứ 7, không gian ấm",
+    "badReview": "Ghế gỗ hơi cứng",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Acoustic tối thứ 7, không gian ấm",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 134,
+    "name": "Pink Hour Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Pink Hour Tân Phú, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "45k-90k",
+    "rating": 4.7,
+    "reviews": 119,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Neon pink, bánh croissant dâu, lên ảnh siêu xinh",
+    "badReview": "Quán nhỏ, hết chỗ nhanh tối thứ 7",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Neon pink, bánh croissant dâu, lên ảnh siêu xinh",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "45k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 135,
+    "name": "The Coffee House Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "The Coffee House Tân Phú, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "70k-120k",
+    "rating": 4.4,
+    "reviews": 81,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Ổn định, dễ hẹn, có chỗ sạc laptop",
+    "badReview": "Nhạc hơi to buổi tối",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Ổn định, dễ hẹn, có chỗ sạc laptop",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "70k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 136,
+    "name": "Chè Thái Ý Phương Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Chè Thái Ý Phương Tân Phú, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "30k-50k",
+    "rating": 4.6,
+    "reviews": 93,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Tráng miệng sau date, chè thái sầu riêng ngon",
+    "badReview": "Ngọt gắt nếu không dặn ít đường",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Tráng miệng sau date, chè thái sầu riêng ngon",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "30k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 137,
+    "name": "Quán Chay An Lạc Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Quán Chay An Lạc Tân Phú, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "80k-150k",
+    "rating": 4.5,
+    "reviews": 57,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Yên tĩnh, thanh đạm, hợp date nhẹ nhàng",
+    "badReview": "Món ra hơi chậm",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Yên tĩnh, thanh đạm, hợp date nhẹ nhàng",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "80k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 138,
+    "name": "Bò Né 3 Ngon Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Bò Né 3 Ngon Tân Phú, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-90k",
+    "rating": 4.3,
+    "reviews": 62,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Date sáng, bò né nóng hổi, bánh mì giòn",
+    "badReview": "Dầu bắn hơi nhiều",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Date sáng, bò né nóng hổi, bánh mì giòn",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "50k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 139,
+    "name": "Lẩu Nướng Tự Chọn Hana",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Lẩu Nướng Tự Chọn Hana, Tân Phú",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "150k-220k",
+    "rating": 4.4,
+    "reviews": 79,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Buffet 189k, đồ tươi, sốt ngon",
+    "badReview": "Cuối tuần đông, phải đặt trước",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Buffet 189k, đồ tươi, sốt ngon",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "150k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 141,
+    "name": "Quán Ăn Hóc Môn - Cơm Quê",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Quán Ăn Hóc Môn - Cơm Quê, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "70k-150k",
+    "rating": 4.2,
+    "reviews": 55,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Cơm quê, gà ta ngon, không gian mộc mạc",
+    "badReview": "Đường hơi xa trung tâm",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Cơm quê, gà ta ngon, không gian mộc mạc",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "70k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 142,
+    "name": "Vườn Cau Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Vườn Cau Hóc Môn, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "80k-180k",
+    "rating": 4.5,
+    "reviews": 69,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Vườn cau vua, chòi lá riêng tư cực chill",
+    "badReview": "Muỗi chiều tối, nhớ mang xịt",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Vườn cau vua, chòi lá riêng tư cực chill",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "80k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 144,
+    "name": "Quán Dê Tươi Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Quán Dê Tươi Hóc Môn, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "120k-250k",
+    "rating": 4.4,
+    "reviews": 63,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Dê nướng tảng, mềm, thơm",
+    "badReview": "Quán hơi ám mùi dê với người không quen",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Dê nướng tảng, mềm, thơm",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "120k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 145,
+    "name": "Cafe Sân Vườn Hương Cau Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Cafe Sân Vườn Hương Cau Hóc Môn, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "30k-60k",
+    "rating": 4.3,
+    "reviews": 51,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Võng, ao cá, gió mát, yên tĩnh",
+    "badReview": "Nước pha hơi nhạt",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Võng, ao cá, gió mát, yên tĩnh",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "30k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 146,
+    "name": "Nhà Hàng Sinh Thái Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Nhà Hàng Sinh Thái Hóc Môn, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "100k-200k",
+    "rating": 4.4,
+    "reviews": 60,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Cá lóc nướng trui, gà nướng lu ngon",
+    "badReview": "Phục vụ chậm lúc đông",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Cá lóc nướng trui, gà nướng lu ngon",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "100k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 147,
+    "name": "Lẩu Bò Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Lẩu Bò Hóc Môn, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "100k-180k",
+    "rating": 4.3,
+    "reviews": 54,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Lẩu bò nóng, rau nhiều, giá ổn",
+    "badReview": "Quán hơi ồn buổi tối",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Lẩu bò nóng, rau nhiều, giá ổn",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "100k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 148,
+    "name": "Bánh Canh Cua Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Bánh Canh Cua Hóc Môn, Hóc Môn",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-70k",
+    "rating": 4.4,
+    "reviews": 58,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Bánh canh cua đặc, nhiều thịt cua",
+    "badReview": "Hết sớm, 8h tối thường hết",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Bánh canh cua đặc, nhiều thịt cua",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 151,
+    "name": "Vườn Lan Coffee",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Đường Rạch Cầu Suối, Tân Vĩnh Lộc",
+    "fullAddress": "Đường Rạch Cầu Suối Ấp 3, Tân Vĩnh Lộc, Bình Chánh, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "30k-65k",
+    "rating": 4.3,
+    "reviews": 120,
+    "hours": "06:30 - 21:00",
+    "phone": "0937 562 542",
+    "goodReview": "Không gian sân vườn thoáng mát, nhiều hoa lan đẹp",
+    "badReview": "Quán hơi đông vào buổi sáng cuối tuần",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Hoa lan",
+      "Thoáng mát"
+    ],
+    "desc": "Vườn Lan Coffee là điểm đến lý tưởng tại Bình Chánh với không gian xanh mát, nhiều loại hoa lan rực rỡ, thích hợp để thư giãn.",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy",
+      "Có bàn dưới tán cây, yên tĩnh"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Cà phê sữa đá",
+            "p": "30k"
+          },
+          {
+            "n": "Sinh tố dâu",
+            "p": "45k"
+          },
+          {
+            "n": "Trà đào cam sả",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Nam Nam",
+        "date": "1 tuần trước",
+        "r": 5,
+        "text": "Không gian rộng rãi, cà phê ngon, ngắm hoa lan rất thích."
+      },
+      {
+        "name": "Trâm Trâm",
+        "date": "3 tuần trước",
+        "r": 4,
+        "text": "Giá cả hợp lý, mát mẻ nhưng phục vụ hơi chậm lúc đông."
+      },
+      {
+        "name": "Bách Bách",
+        "date": "1 tháng trước",
+        "r": 3,
+        "text": "Buổi sáng khá ồn ào."
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 152,
+    "name": "Cà phê Sân vườn Chợt Nhớ",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "D5/9A, Ấp 4, Vĩnh Lộc",
+    "fullAddress": "D5/9A, Ấp 4, Liên Ấp 234, Vĩnh Lộc, Bình Chánh, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "25k-55k",
+    "rating": 4.4,
+    "reviews": 88,
+    "hours": "06:30 - 21:00",
+    "phone": "0918 671 797",
+    "goodReview": "Yên tĩnh, thích hợp đọc sách hoặc làm việc",
+    "badReview": "Menu nước chưa đa dạng",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Yên tĩnh",
+      "Bình dân"
+    ],
+    "desc": "Quán cafe sân vườn mang phong cách mộc mạc, gần gũi, là nơi tụ tập quen thuộc của người dân địa phương.",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có chỗ để xe máy miễn phí",
+      "Không gian mở rộng rãi"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Cà phê đen",
+            "p": "25k"
+          },
+          {
+            "n": "Nước ép cà chua",
+            "p": "40k"
+          },
+          {
+            "n": "Trà vải",
+            "p": "35k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Tuấn Tuấn",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Yên tĩnh, mát mẻ, cà phê pha phin truyền thống rất ngon."
+      },
+      {
+        "name": "Anh Anh",
+        "date": "1 tháng trước",
+        "r": 4,
+        "text": "Nhân viên dễ thương, tuy nhiên wifi thỉnh thoảng hơi chậm."
+      },
+      {
+        "name": "Tâm Tâm",
+        "date": "2 tháng trước",
+        "r": 3,
+        "text": "Chỉ có các món cơ bản, không có nhiều bánh ngọt."
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 157,
+    "name": "Coffee House Nguyễn Thị Trọn",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "B6 Nguyễn Thị Trọn, Vĩnh Lộc",
+    "fullAddress": "B6 Đ. Nguyễn Thị Trọn, Ấp 2A, Vĩnh Lộc, Bình Chánh, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "25k-60k",
+    "rating": 4.5,
+    "reviews": 112,
+    "hours": "06:00 - 18:30",
+    "phone": "Đang cập nhật",
+    "goodReview": "Không gian đẹp, nhiều cây xanh",
+    "badReview": "Nghỉ Chủ Nhật hơi bất tiện",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "Yên tĩnh",
+      "Thiên nhiên"
+    ],
+    "desc": "Quán cafe xanh mát ẩn mình trên đường Nguyễn Thị Trọn, phù hợp cho ai thích sự bình yên giữa thiên nhiên.",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy",
+      "Nhiều góc ngồi chill"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Bạc xỉu",
+            "p": "35k"
+          },
+          {
+            "n": "Lipton đào",
+            "p": "30k"
+          },
+          {
+            "n": "Sinh tố xoài",
+            "p": "40k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Nam Nam",
+        "date": "1 tháng trước",
+        "r": 5,
+        "text": "Rất nhiều cây xanh mát mẻ, ngồi nhâm nhi ly trà thật tuyệt."
+      },
+      {
+        "name": "Hiền Hiền",
+        "date": "2 tuần trước",
+        "r": 4,
+        "text": "Đồ uống ổn, không khí thanh bình."
+      },
+      {
+        "name": "Minh Minh",
+        "date": "1 tuần trước",
+        "r": 4,
+        "text": "Khá tiếc vì quán nghỉ Chủ Nhật nên cuối tuần không ghé được."
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 168,
+    "name": "Cafe Sân Vườn Góc Nhỏ",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "14c Lại Hùng Cường, Tân Vĩnh Lộc",
+    "fullAddress": "14c Lại Hùng Cường, Tân Vĩnh Lộc, Bình Chánh, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "25k-50k",
+    "rating": 4.2,
+    "reviews": 67,
+    "hours": "06:00 - 21:00",
+    "phone": "0902 707 168",
+    "goodReview": "Không gian xanh mướt, cảm giác thư giãn",
+    "badReview": "Nhiều muỗi vào lúc chạng vạng",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Bình dân",
+      "Xanh mát"
+    ],
+    "desc": "Góc Nhỏ mang đến không gian vườn tược miệt vườn, mộc mạc, rất hợp để tìm kiếm sự bình yên trốn khói bụi thành phố.",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy rộng",
+      "Chòi lá nhỏ riêng tư"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Cà phê đá",
+            "p": "25k"
+          },
+          {
+            "n": "Cam vắt",
+            "p": "35k"
+          },
+          {
+            "n": "Trà chanh",
+            "p": "20k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Long Long",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Mình rất thích các quán có nhiều cây cối thế này, mát mẻ."
+      },
+      {
+        "name": "Ngọc Ngọc",
+        "date": "1 tháng trước",
+        "r": 4,
+        "text": "Cà phê ngon, giá bình dân."
+      },
+      {
+        "name": "Ánh Ánh",
+        "date": "1 tháng trước",
+        "r": 3,
+        "text": "Tối khá nhiều muỗi, mọi người nên mặc quần dài hoặc đem theo xịt muỗi."
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 169,
+    "name": "Quán ăn bình dân Sân Vườn Cỏ Xanh",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Tổ 16, Ấp 6B, Vĩnh Lộc A",
+    "fullAddress": "Tổ 16, Ấp 6B, Xã Vĩnh Lộc A, Huyện Bình Chánh, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-100k",
+    "rating": 4.7,
+    "reviews": 156,
+    "hours": "08:00 - 22:00",
+    "phone": "0938 153 628",
+    "goodReview": "Không gian sinh thái cực đỉnh, có hồ nước và phục vụ cả đồ ăn lẫn nước uống",
+    "badReview": "Nằm hơi sâu trong hẻm nên hơi khó tìm",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "Sinh thái",
+      "Đồ ăn ngon",
+      "Gia đình"
+    ],
+    "desc": "Khu tổ hợp sân vườn Cỏ Xanh với chòi lá, ao cá, lý tưởng cho những buổi ăn uống, cà phê gặp gỡ dịp cuối tuần.",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Bãi giữ xe rộng rãi",
+      "Có các chòi quanh hồ"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Cà phê sữa",
+            "p": "30k"
+          },
+          {
+            "n": "Nước ép dưa hấu",
+            "p": "40k"
+          },
+          {
+            "n": "Trái cây dĩa",
+            "p": "80k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Tiến Tiến",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Ăn trưa và uống nước ở đây rất sảng khoái, không khí trong lành."
+      },
+      {
+        "name": "Hà Hà",
+        "date": "3 tuần trước",
+        "r": 4,
+        "text": "Món ăn ngon, nước uống ổn. Mình rất thích ngồi chòi."
+      },
+      {
+        "name": "Cường Cường",
+        "date": "1 tháng trước",
+        "r": 4,
+        "text": "Map chỉ đường hơi lằng nhằng, ai đi lần đầu nên hỏi thêm dân quanh đó."
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 170,
+    "name": "Quán cafe sân vườn Tân Nhựt",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Tân Nhựt, Bình Chánh",
+    "fullAddress": "MHM6+4PC, Tân Nhựt, Bình Chánh, TP.HCM",
+    "tag": "Sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "20k-45k",
+    "rating": 4.1,
+    "reviews": 45,
+    "hours": "Mở cửa cả ngày",
+    "phone": "Đang cập nhật",
+    "goodReview": "Không khí miệt vườn chân chất, cafe rẻ",
+    "badReview": "Cơ sở vật chất hơi cũ",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "Bình dân",
+      "Miệt vườn"
+    ],
+    "desc": "Quán cafe sân vườn đậm chất miệt vườn Nam Bộ ở Tân Nhựt, nơi các cô chú và thanh niên thường ghé nghỉ trưa, đánh cờ.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Chỗ đậu xe rộng",
+      "Võng nằm nghỉ trưa"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Cà phê đá",
+            "p": "20k"
+          },
+          {
+            "n": "Cà phê sữa",
+            "p": "25k"
+          },
+          {
+            "n": "Nước ngọt các loại",
+            "p": "15k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Sơn Sơn",
+        "date": "3 tuần trước",
+        "r": 5,
+        "text": "Cà phê ngon bổ rẻ, nằm võng đung đưa rất sướng."
+      },
+      {
+        "name": "Thủy Thủy",
+        "date": "1 tháng trước",
+        "r": 4,
+        "text": "Chủ quán nhiệt tình, không khí quê mát mẻ."
+      },
+      {
+        "name": "Khang Khang",
+        "date": "2 tháng trước",
+        "r": 3,
+        "text": "Bàn ghế hơi xập xệ cũ kỹ."
+      }
+    ],
+    "mapUrl": ""
+  }
+]

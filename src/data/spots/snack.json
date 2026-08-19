@@ -1,0 +1,480 @@
+[
+  {
+    "id": 1,
+    "name": "Ăn vặt Cô Py",
+    "district": "Bà Điểm",
+    "group": "Hóc Môn",
+    "address": "83/1 Đ. Lê Lợi, Trung Chánh, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "83/1 Đ. Lê Lợi, Trung Chánh, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 4.8,
+    "reviews": 706,
+    "hours": "14:30 - 22:30",
+    "phone": "0366888968",
+    "goodReview": "Quán được đánh giá cao, nổi bật với các món ăn vặt và món Hàn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Món Hàn",
+      "Giá hợp lý"
+    ],
+    "desc": "Quán ăn vặt tại khu vực Trung Chánh, Bà Điểm, Hóc Môn, nổi bật với các món ăn vặt và món Hàn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150733/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/qppvb58gfsfzcv7juddz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150734/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/mdqgebl7kmryf0nyt6dg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150735/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/ojwqecn9xoxbxohlxsfe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150736/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/uicq0id9i56kbchbipk4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150736/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/k7qkwg0geboh6zg4at2a.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150737/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/xt34vhgrnmya4eiptrwh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150738/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/uclo0iflyrkhc63pasvf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150739/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20C%C3%B4%20Py/ccsitwn7f2lueyaptl8c.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp đi nhóm",
+      "Mở cửa buổi chiều và tối"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8621533,
+      "lng": 106.6098201
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/%C4%82n+v%E1%BA%B7t+C%C3%B4+Py/@10.8621533,106.6098201,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bd3e801013d:0x4c3a1d8eb2ddba40!8m2!3d10.8621533!4d106.6098201!16s%2Fg%2F11rn78zh2f?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Ăn Vặt Nhung Phan",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "3/72 Đ. Song Hành, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "3/72 Đ. Song Hành, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 5,
+    "reviews": 52,
+    "hours": "16:30 - 22:30",
+    "phone": "0908923873",
+    "goodReview": "Được đánh giá 5 sao với hơn 50 lượt đánh giá.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Giá hợp lý",
+      "Buổi tối"
+    ],
+    "desc": "Ăn Vặt Nhung Phan nằm trên đường Song Hành, Hóc Môn, phục vụ các món ăn vặt với mức giá phổ thông.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150758/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/d4kg7wcrhytug5gvaur4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150759/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/fcwtnok0tpz3wet5spdy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150760/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/zvx9krailtibcfwi3ts1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150761/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/xrviw33wmeipfobr6qzc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150762/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/o1nrgeewhmtnp2ueblok.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150763/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/eaibt20xiawc16nhjnjz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150764/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/vpjoikmobwgwlloq5luf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150765/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Nhung%20Phan/lkwqsghdmn7ifnfbc0td.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp ăn xế",
+      "Mở cửa buổi chiều tối"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8773645,
+      "lng": 106.5941382
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/%C4%82n+V%E1%BA%B7t+Nhung+Phan/@10.8773645,106.5941382,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d5a4a40279a5:0x31dd2f26c403100d!8m2!3d10.8773645!4d106.5941382!16s%2Fg%2F11yvhdhv98?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Ăn Vặt Bơ Béo",
+    "district": "Trung Chánh",
+    "group": "Hóc Môn",
+    "address": "Đường Nguyễn Hữu Cầu, Trung Chánh, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "Đường Nguyễn Hữu Cầu, Trung Chánh, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 4.3,
+    "reviews": 31,
+    "hours": "12:00 - 21:00",
+    "phone": "0703454959",
+    "goodReview": "Quán ăn vặt tại Trung Chánh với mức giá phổ thông.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Trung Chánh",
+      "Giá hợp lý"
+    ],
+    "desc": "Ăn Vặt Bơ Béo là địa điểm ăn vặt tại khu vực Trung Chánh, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150783/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/rkwg2rq0c8crekhbxuwg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150784/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/a1ed7mdlav2tqes4iivf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150785/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/fygr9ob6eqdz7ashjbhl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150786/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/zxprxk5fvd8rlptxfacw.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150787/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/twrs0loaseajbkxbcihk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150788/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/ygh63m86pwgfjesi7vir.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150789/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/wbhxoirqa3yeohctayux.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150790/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20B%C6%A1%20B%C3%A9o/aenhpflpyl4kflsqkbwu.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp ăn xế",
+      "Giá phổ thông"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8688736,
+      "lng": 106.6140804
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/%C4%82n+V%E1%BA%B7t+B%C6%A1+B%C3%A9o/@10.8688736,106.6140804,17z/data=!3m1!4b1!4m6!3m5!1s0x31752932a19b7db3:0x847ef4c19b7969a7!8m2!3d10.8688736!4d106.6140804!16s%2Fg%2F11lfgwqzg1?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Ăn Vặt Kim Tuyền Song Hành Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "2/133E Ấp Đình, Đ. Song Hành, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "2/133E Ấp Đình, Đ. Song Hành, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 3.8,
+    "reviews": 265,
+    "hours": "15:00 - 22:15",
+    "phone": "0931452063",
+    "goodReview": "Có lượng đánh giá khá lớn và mức giá phổ thông.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Giá rẻ",
+      "Song Hành"
+    ],
+    "desc": "Ăn Vặt Kim Tuyền là địa điểm ăn vặt tại khu vực Song Hành, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150807/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/pyhiuvwlvtks3saj1mlw.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150808/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/rxotckipakqexnpwk7n6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150809/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/ovgqv55vf3gnk014fi9w.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150810/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/j0mmow9wbcjnjh9sv3pl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150811/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/zuwqqjjel6rjbfgvp9fd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150812/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/ctvctfllfjuuqwxw460j.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150813/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/jdwgi7kpayu8caly0cd0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150814/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20Kim%20Tuy%E1%BB%81n%20Song%20H%C3%A0nh%20H%C3%B3c%20M%C3%B4n/rnlgs4vlpn6iua5pk7nh.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa buổi chiều",
+      "Phù hợp ăn xế"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8745,
+      "lng": 106.6018
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "Bánh Tráng Phơi Sương - Trà Sữa Ăn Vặt Thư Nguyễn",
+    "district": "Trung Chánh",
+    "group": "Hóc Môn",
+    "address": "64/1 Đ. Song Hành, Trung Chánh, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "64/1 Đ. Song Hành, Trung Chánh, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 3.8,
+    "reviews": 32,
+    "hours": "13:00 - 23:00",
+    "phone": "0766336369",
+    "goodReview": "Kết hợp bánh tráng, trà sữa và các món ăn vặt.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Bánh tráng",
+      "Trà sữa",
+      "Ăn vặt"
+    ],
+    "desc": "Địa điểm chuyên bánh tráng phơi sương, trà sữa và các món ăn vặt trên đường Song Hành.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150832/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/fx98jnbu5cmfjcxfpd7p.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150833/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/xbzus1e8zswhtjngaujl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150834/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/fb7lr6whh1lgbarsz0ul.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150835/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/cugbm7y3czo4mna0hrgl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150836/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/tynitxbyagteyom4wl64.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150837/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/c012xto5menaczsczgez.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150838/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/etzqduttovubtw56siji.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150839/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/B%C3%A1nh%20Tr%C3%A1ng%20Ph%C6%A1i%20S%C6%B0%C6%A1ng%20-%20Tr%C3%A0%20S%E1%BB%AFa%20%C4%82n%20V%E1%BA%B7t%20Th%C6%B0%20Nguy%E1%BB%85n/m8snyuznwqzxnrrwgawf.jpg"
+    ],
+    "quickActions": [
+      "Có đồ uống",
+      "Mở cửa đến tối"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.865416,
+      "lng": 106.6027132
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/B%C3%A1nh+Tr%C3%A1ng+Ph%C6%A1i+S%C6%B0%C6%A1ng+-+Tr%C3%A0+S%E1%BB%AFa+%C4%82n+V%E1%BA%B7t+Th%C6%B0+Nguy%E1%BB%85n/@10.865416,106.6027132,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b001de2c919:0x18d3fac252f033f7!8m2!3d10.865416!4d106.6027132!16s%2Fg%2F11x2l9fph9?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Ăn Vặt Hàn Quốc Kafka",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "479 Đ. Lê Thị Hà, Khu phố 8, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "479 Đ. Lê Thị Hà, Khu phố 8, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 4.2,
+    "reviews": 10,
+    "hours": "16:00 - 22:30",
+    "phone": "0328094054",
+    "goodReview": "Phục vụ các món ăn vặt theo phong cách Hàn Quốc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Món Hàn",
+      "Ăn vặt",
+      "Lê Thị Hà"
+    ],
+    "desc": "Ăn Vặt Hàn Quốc Kafka nằm trên đường Lê Thị Hà, khu phố 8, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150858/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/suwfj1ttmi3qslgxi5o9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150858/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/g1mmj58fkmkssssqs2ld.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150859/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/uf0ngusd3c6vef37vzjk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150860/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/ey4bdchuycazxaegbake.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150861/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/fqrcyd32mxej29rcm66k.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150890/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/ys9snqgohfsvb3xjvrlo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150890/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/j72ojkzjvqokfggezgek.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150891/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20V%E1%BA%B7t%20H%C3%A0n%20Qu%E1%BB%91c%20Kafka/gzsntdrw0hwgnfvolwrs.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa buổi chiều tối",
+      "Phù hợp ăn xế"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8872551,
+      "lng": 106.5980753
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/%C4%82n+V%E1%BA%B7t+H%C3%A0n+Qu%E1%BB%91c+Kafka/@10.8872551,106.5980753,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d50007862fc7:0xf68706c379988431!8m2!3d10.8872551!4d106.5980753!16s%2Fg%2F11lc_2592f?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "Ăn vặt Camon",
+    "district": "Tân Hiệp",
+    "group": "Hóc Môn",
+    "address": "34 Thị Trấn Tân Hiệp, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "34 Thị Trấn Tân Hiệp, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "1-100k",
+    "rating": 4,
+    "reviews": 40,
+    "hours": "10:00 - 21:30",
+    "phone": "0909896120",
+    "goodReview": "Địa điểm ăn vặt tại khu vực Tân Hiệp với mức giá phổ thông.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Tân Hiệp",
+      "Giá hợp lý"
+    ],
+    "desc": "Ăn vặt Camon nằm tại khu vực thị trấn Tân Hiệp, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150911/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/keqjsobxmx1o3kl128ax.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150912/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/xijss3fei2b8woi2hkvz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150913/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/ei9pt6pmabwxldzpqmfx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150914/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/cr9bnbcdyt4ljm4zrfn5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150914/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/nnsjkxxyogdxr55amp7q.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150915/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/gpbkmtrhrgl3nxyfhco9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150916/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/eqvejtmhmz2tnyhyd587.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150917/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/%C4%82n%20v%E1%BA%B7t%20Camon/tprqa3j3xtb2wkwtggjl.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa cả ngày",
+      "Giá phổ thông"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8911259,
+      "lng": 106.5947956
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/%C4%82n+v%E1%BA%B7t+Camon/@10.8911259,106.5947956,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d5c7c61a593b:0x46f5cc6576f71c80!8m2!3d10.8911259!4d106.5947956!16s%2Fg%2F11hdxbj4b_?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Tiệm Trà Bí Đao Ăn Vặt Diễm Điểm",
+    "district": "Trung Mỹ",
+    "group": "Hóc Môn",
+    "address": "Nguyễn Thị Ái, Đ. Trung Mỹ, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "Nguyễn Thị Ái, Đ. Trung Mỹ, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "",
+    "rating": 5,
+    "reviews": 1,
+    "hours": "06:00 - 22:30",
+    "phone": "0943615121",
+    "goodReview": "Địa điểm kết hợp trà bí đao và các món ăn vặt.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Đồ chiên",
+      "Trà bí đao"
+    ],
+    "desc": "Tiệm Trà Bí Đao Ăn Vặt Diễm Điểm là địa điểm đồ uống và ăn vặt tại khu vực Trung Mỹ, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150936/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/zpt133xqxislfqgdahpy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150937/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/mzzalph6apmeaxgcwmtq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150938/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/w3kvqoytbhn8vmnvhrgl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150939/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/jc0oyj45zjw6krnbceet.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150940/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/bdp3jbpd4rupgph9yvet.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150940/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/yenazunycq4csnpdacvd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150942/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/rjzvprdidfu6tvsv3h0b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150943/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/Ti%E1%BB%87m%20Tr%C3%A0%20B%C3%AD%20%C4%90ao%20%C4%82n%20V%E1%BA%B7t%20Di%E1%BB%85m%20%C4%90i%E1%BB%83m/w2bzrylf4ryrmjxoshxd.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa từ sáng",
+      "Có đồ chiên"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8755071,
+      "lng": 106.6008253
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Ti%E1%BB%87m+Tr%C3%A0+B%C3%AD+%C4%90ao+%C4%82n+V%E1%BA%B7t+Di%E1%BB%85m+%C4%90i%E1%BB%83m/@10.8755071,106.6008253,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b48dc727e2f:0xdcb42324311a3193!8m2!3d10.8755071!4d106.6008253!16s%2Fg%2F11z0v99pc1?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Góc Ăn Vặt Song Hành",
+    "district": "Bà Điểm",
+    "group": "Hóc Môn",
+    "address": "4 Đ. Song Hành, Ấp Mỹ Hoà 3, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "4 Đ. Song Hành, Ấp Mỹ Hoà 3, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "",
+    "rating": 3.7,
+    "reviews": 3,
+    "hours": "17:00 - 21:00",
+    "phone": "0923077078",
+    "goodReview": "Địa điểm chuyên ăn vặt tại khu vực Song Hành.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Song Hành",
+      "Buổi tối"
+    ],
+    "desc": "Góc Ăn Vặt Song Hành nằm tại Ấp Mỹ Hoà 3, Bà Điểm, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150961/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20Song%20H%C3%A0nh/k68uayiqydcd8ja5sp9x.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150962/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20Song%20H%C3%A0nh/mbicrijypus4sdkzucq1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150962/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20Song%20H%C3%A0nh/zlhwch3hscdvqn4jrdik.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150963/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20Song%20H%C3%A0nh/o1myde5awhgwyrzpvqhl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150964/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20Song%20H%C3%A0nh/qokcsn7coaiccy2pwcdx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150965/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20Song%20H%C3%A0nh/zf6mwdveu3sxkes0uk0u.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa buổi tối",
+      "Phù hợp ăn xế"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8612254,
+      "lng": 106.6055673
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/G%C3%B3c+%C4%82n+V%E1%BA%B7t+Song+H%C3%A0nh/@10.8612254,106.6055673,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b433e7d4949:0xecab4fc78c19df34!8m2!3d10.8612254!4d106.6055673!16s%2Fg%2F11j4k5rhr8?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Góc Ăn Vặt HQC Hóc Môn",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "F3 - DS6, Xuân Thới Sơn, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "F3 - DS6, Xuân Thới Sơn, Hóc Môn, Hồ Chí Minh",
+    "tag": "Ăn Vặt",
+    "tagClass": "tag-snack",
+    "category": "snack",
+    "price": "",
+    "rating": 5,
+    "reviews": 1,
+    "hours": "16:30 - 21:00",
+    "phone": "0906352922",
+    "goodReview": "Địa điểm ăn vặt trong khu vực Xuân Thới Sơn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Ăn vặt",
+      "Xuân Thới Sơn",
+      "Buổi tối"
+    ],
+    "desc": "Góc Ăn Vặt HQC Hóc Môn là địa điểm ăn vặt tại khu vực Xuân Thới Sơn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150984/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/t5ad4nwdsnfn3i7jicuh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150985/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/kvktuozw8qogtditsn6t.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150986/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/fw6ym4ixwdtybk7djyqo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150987/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/vei1lacrgmbhfefcksbz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150988/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/gl3avbx3li5laxfebbn2.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150989/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/gbkwl0lqgxzb7xon4ggi.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150990/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/mxmmxvddbapt17tilcic.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150991/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%83n%20v%E1%BA%B7t/G%C3%B3c%20%C4%82n%20V%E1%BA%B7t%20HQC%20H%C3%B3c%20M%C3%B4n/v1fzvd3vafkqui1lk24w.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa buổi chiều tối",
+      "Phù hợp ăn xế"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8608127,
+      "lng": 106.6002238
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/G%C3%B3c+%C4%83n+v%E1%BA%B7t+HQC+H%C3%B3c+M%C3%B4n/@10.8608127,106.6002238,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bc3f0cf9f2d:0x574486f541458a4!8m2!3d10.8608127!4d106.6002238!16s%2Fg%2F11fn982pdt?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  }
+]

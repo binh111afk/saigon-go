@@ -1,0 +1,515 @@
+[
+  {
+    "id": 42,
+    "name": "Saigon Outcast",
+    "district": "Q3",
+    "group": "Q1-Q3 trung tâm",
+    "address": "106 Võ Văn Tần, Q3",
+    "fullAddress": "106 Võ Văn Tần, Q3, TP.HCM",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "242k-392k",
+    "rating": 4.8,
+    "reviews": 124,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4094 394",
+    "goodReview": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện",
+    "badReview": "Nhân viên quên order món tráng miệng, phải nhắc",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "View đẹp",
+      "Lãng mạn",
+      "Cocktail ngon"
+    ],
+    "desc": "Saigon Outcast là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích cafe ấm cúng, đèn vàng và nhạc acoustic. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Có bàn riêng 2 người, rèm che"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Latte & Croissant",
+            "p": "99k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "234k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "89k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4.5,
+        "text": "Sân vườn mát mẻ như miền Tây thu nhỏ, hợp cho cặp đôi thích yên tĩnh"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 3,
+        "text": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4.5,
+        "text": "Không gian acoustic ấm, nhạc hay, đèn vàng ấm cúng"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 72,
+    "name": "Saigon Outcast Thảo Điền",
+    "district": "Thủ Đức",
+    "group": "Thủ Đức-Thảo Điền",
+    "address": "116 Xuân Thủy, Thủ Đức",
+    "fullAddress": "116 Xuân Thủy, Thảo Điền, Thủ Đức, TP.HCM",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "192k-392k",
+    "rating": 4.2,
+    "reviews": 214,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4304 604",
+    "goodReview": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện",
+    "badReview": "Nhân viên quên order món tráng miệng, phải nhắc",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "View đẹp",
+      "Lãng mạn",
+      "Check-in đẹp"
+    ],
+    "desc": "Saigon Outcast Thảo Điền là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích cafe ấm cúng, đèn vàng và nhạc acoustic. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Có bàn riêng 2 người, rèm che"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Latte & Croissant",
+            "p": "69k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "264k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "59k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Yên tĩnh, riêng tư, hợp cho lần hẹn đầu muốn nói chuyện"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4.5,
+        "text": "Sân vườn mát mẻ như miền Tây thu nhỏ, hợp cho cặp đôi thích yên tĩnh"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 3,
+        "text": "Muỗi hơi nhiều buổi tối, nên mang xịt muỗi"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 3,
+        "text": "Đông, lên món hơi chậm, đợi 20-25p mới có đồ"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 108,
+    "name": "Saigon Outcast Q7",
+    "district": "Q7",
+    "group": "Q7 Phú Mỹ Hưng",
+    "address": "168 Nguyễn Văn Linh, Q7",
+    "fullAddress": "168 Nguyễn Văn Linh, Q7, TP.HCM",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "208k-468k",
+    "rating": 4.6,
+    "reviews": 190,
+    "hours": "10:00 - 23:00",
+    "phone": "028 4556 856",
+    "goodReview": "Ốc bươu nướng tiêu xanh đỉnh, nước chấm xuất sắc",
+    "badReview": "Đường vào hơi tối, Grab khó tìm ban đêm",
+    "hasBad": true,
+    "viewDep": true,
+    "tags": [
+      "View đẹp",
+      "Lãng mạn",
+      "Check-in đẹp"
+    ],
+    "desc": "Saigon Outcast Q7 là điểm hẹn hò được review thật như Google Maps, hợp cho cặp đôi thích cafe ấm cúng, đèn vàng và nhạc acoustic. Đặt bàn trước cuối tuần để giữ chỗ đẹp.",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Bãi xe: Có bãi xe máy, ô tô",
+      "Có bàn riêng 2 người, rèm che"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Latte & Croissant",
+            "p": "81k"
+          },
+          {
+            "n": "Lẩu gà lá é / Mì ý",
+            "p": "156k"
+          },
+          {
+            "n": "Bánh ngọt / Tráng miệng",
+            "p": "71k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Ốc bươu nướng tiêu xanh đỉnh, nước chấm xuất sắc"
+      },
+      {
+        "name": "Bảo Bảo",
+        "date": "1 tháng trước",
+        "r": 4.5,
+        "text": "Không gian acoustic ấm, nhạc hay, đèn vàng ấm cúng"
+      },
+      {
+        "name": "Chi Chi",
+        "date": "3 ngày trước",
+        "r": 3,
+        "text": "Bãi xe chật, cuối tuần phải gửi xa 100m"
+      },
+      {
+        "name": "Kiệt Kiệt",
+        "date": "1 tuần trước",
+        "r": 4.5,
+        "text": "Check-in sống ảo đẹp, góc nào cũng có ảnh xinh"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 118,
+    "name": "KDL Sinh Thái Láng Le Bàu Cò",
+    "district": "Bình Chánh",
+    "group": "Bình Chánh",
+    "address": "Bình Chánh, TP.HCM",
+    "fullAddress": "KDL Sinh Thái Láng Le Bàu Cò, Bình Chánh",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "120k",
+    "rating": 4.6,
+    "reviews": 112,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Chèo xuồng, ăn gà nướng, cực vui cho cặp đôi thích thiên nhiên",
+    "badReview": "Nắng gắt buổi trưa, nên đi chiều",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Chèo xuồng, ăn gà nướng, cực vui cho cặp đôi thích thiên nhiên",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "120k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 140,
+    "name": "Rạp Lotte Cinema Tân Phú",
+    "district": "Tân Phú",
+    "group": "Tân Phú",
+    "address": "Tân Phú, TP.HCM",
+    "fullAddress": "Rạp Lotte Cinema Tân Phú, Tân Phú",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "80k-150k",
+    "rating": 4.5,
+    "reviews": 102,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Ghế couple êm, rạp mới, âm thanh hay",
+    "badReview": "Bắp hơi ỉu nếu để lâu",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Ghế couple êm, rạp mới, âm thanh hay",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "80k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 143,
+    "name": "KDL Cánh Đồng Hoa Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "KDL Cánh Đồng Hoa Hóc Môn, Hóc Môn",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "50k-100k",
+    "rating": 4.6,
+    "reviews": 87,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Hoa hướng dương, check-in đẹp như Đà Lạt",
+    "badReview": "Nắng gắt, nên đi 4h chiều",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Hoa hướng dương, check-in đẹp như Đà Lạt",
+    "images": [
+      "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "50k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 149,
+    "name": "Rạp Chiếu Phim Mini Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Rạp Chiếu Phim Mini Hóc Môn, Hóc Môn",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "60k-100k",
+    "rating": 4.2,
+    "reviews": 47,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Phòng riêng cho 2 người, riêng tư",
+    "badReview": "Âm thanh không bằng rạp lớn",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Phòng riêng cho 2 người, riêng tư",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "60k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  },
+  {
+    "id": 150,
+    "name": "Chợ Đêm Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Hóc Môn, TP.HCM",
+    "fullAddress": "Chợ Đêm Hóc Môn, Hóc Môn",
+    "tag": "Giải trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "20k-80k",
+    "rating": 4.3,
+    "reviews": 73,
+    "hours": "08:00 – 22:30",
+    "phone": "0938 123 456",
+    "goodReview": "Ăn vặt tối đa dạng, giá sinh viên, vui",
+    "badReview": "Đông, chen chúc, giữ đồ cẩn thận",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Sân vườn",
+      "Bình Chánh"
+    ],
+    "desc": "Ăn vặt tối đa dạng, giá sinh viên, vui",
+    "images": [
+      "https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "quickActions": [
+      "Không gian đẹp",
+      "Phục vụ tốt"
+    ],
+    "menu": [
+      {
+        "cat": "Đồ uống nổi bật",
+        "items": [
+          {
+            "n": "Cà phê specialty",
+            "p": "20k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [
+      {
+        "name": "Anh Anh",
+        "date": "2 tuần trước",
+        "r": 5,
+        "text": "Không gian rất mát mẻ!"
+      }
+    ],
+    "mapUrl": ""
+  }
+]

@@ -1,8 +1,59 @@
 import React, { useState } from 'react';
 import { Heart, MapPin, Clock, ChevronLeft, ChevronRight, Layers } from 'lucide-react';
 
+function formatPriceDisplay(priceStr) {
+  if (!priceStr) return '80k–250k/người';
+  let clean = priceStr.replace(/\/người/g, '').trim();
+
+  const parseNum = (valStr) => {
+    let numVal = parseInt(valStr.replace(/[^\d]/g, ''), 10);
+    if (isNaN(numVal)) return valStr.trim();
+    if (numVal >= 1000000) {
+      let millions = numVal / 1000000;
+      let formatted = Number.isInteger(millions) ? millions : parseFloat(millions.toFixed(1));
+      return `${formatted}tr`;
+    }
+    if (numVal >= 1000) {
+      let thousands = numVal / 1000;
+      let formatted = Number.isInteger(thousands) ? thousands : parseFloat(thousands.toFixed(1));
+      return `${formatted}k`;
+    }
+    return `${numVal}`;
+  };
+
+  if (clean.includes('-') || clean.includes('–')) {
+    const parts = clean.split(/[-–]/);
+    if (parts.length === 2) {
+      const left = parseNum(parts[0]);
+      const right = parseNum(parts[1]);
+      return `${left} – ${right}/người`;
+    }
+  }
+
+  if (/\d{4,}/.test(clean)) {
+    return `${parseNum(clean)}/người`;
+  }
+
+  return `${clean}/người`;
+}
+
+function getTagClass(venue) {
+  if (venue.tagClass && venue.tagClass !== 'tag-cafe') return venue.tagClass;
+  const cat = (venue.category || '').toLowerCase();
+  const tag = (venue.tag || '').toLowerCase();
+  if (cat === 'garden' || tag.includes('sân vườn')) return 'tag-garden';
+  if (cat === 'snack' || tag.includes('ăn vặt')) return 'tag-snack';
+  if (cat === 'food' || cat === 'restaurant' || tag.includes('ẩm thực') || tag.includes('nhà hàng')) return 'tag-food';
+  if (cat === 'entertainment' || tag.includes('giải trí')) return 'tag-entertainment';
+  if (cat === 'stroll' || tag.includes('đi dạo') || tag.includes('công viên')) return 'tag-stroll';
+  if (cat === 'bar' || tag.includes('bar')) return 'tag-bar';
+  if (cat === 'rooftop' || tag.includes('rooftop')) return 'tag-rooftop';
+  return venue.tagClass || 'tag-cafe';
+}
+
 export default function VenueCard({ venue, isFavorite, onToggleFavorite, onClick }) {
   const [currentImgIndex, setCurrentImgIndex] = useState(0);
+  const tagClass = getTagClass(venue);
   const images = venue.images && venue.images.length > 0 ? venue.images : [
     'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=600&q=80',
     'https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=600&q=80',
@@ -10,8 +61,7 @@ export default function VenueCard({ venue, isFavorite, onToggleFavorite, onClick
   ];
 
   const fullRating = Math.floor(venue.rating || 4);
-  const rawPrice = (venue.price || '80k–250k').replace(/\/người/g, '').trim();
-  const formattedPrice = `${rawPrice}/người`;
+  const formattedPrice = formatPriceDisplay(venue.price);
 
   const handlePrevImage = (e) => {
     e.stopPropagation();
@@ -31,11 +81,20 @@ export default function VenueCard({ venue, isFavorite, onToggleFavorite, onClick
           className="venue-img"
           alt={venue.name}
           loading="lazy"
+          referrerPolicy="no-referrer"
         />
         <div className="venue-img-overlay"></div>
 
-        {/* Tag & Favorite Heart */}
-        <span className={`venue-tag ${venue.tagClass || 'tag-cafe'}`}>{venue.tag || 'Café'}</span>
+        {/* Top Left Badges: Tag & Image Counter */}
+        <div className="card-top-left">
+          <span className={`venue-tag ${tagClass}`}>{venue.tag || 'Café'}</span>
+          {images.length > 1 && (
+            <span className="card-img-count-badge">
+              <Layers style={{ width: '11px', height: '11px' }} />
+              {currentImgIndex + 1} / {images.length}
+            </span>
+          )}
+        </div>
 
         <div
           className={`venue-fav ${isFavorite ? 'liked' : ''}`}
@@ -47,14 +106,6 @@ export default function VenueCard({ venue, isFavorite, onToggleFavorite, onClick
         >
           <Heart style={{ width: '16px', height: '16px', fill: isFavorite ? '#fff' : 'none' }} />
         </div>
-
-        {/* Dynamic Image Counter Badge (e.g. 1 / 10) */}
-        {images.length > 1 && (
-          <span className="card-img-count-badge">
-            <Layers style={{ width: '11px', height: '11px' }} />
-            {currentImgIndex + 1} / {images.length}
-          </span>
-        )}
 
         {/* Carousel Navigation Arrows */}
         {images.length > 1 && (

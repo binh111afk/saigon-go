@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "name": "Kingdom Cyber Gaming - Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "15/3 Đ. Lê Thị Hà, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "15/3 Đ. Lê Thị Hà, Hóc Môn, Hồ Chí Minh",
+    "tag": "Giải Trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "10k - 25k/giờ",
+    "rating": 4.8,
+    "reviews": 290,
+    "hours": "24/7",
+    "phone": "0909123789",
+    "goodReview": "Dàn máy cấu hình khủng RTX 4070, màn hình 240Hz, ghế gaming chân quỳ êm ái, máy lạnh phà phà.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cyber Gaming",
+      "Phòng VIP",
+      "Mở cửa 24/7"
+    ],
+    "desc": "Tổ hợp giải trí Cyber Gaming cao cấp hàng đầu Hóc Môn với phòng thi đấu Esport, dàn máy cấu hình siêu cao.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150381/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Kingdom%20Cyber%20Gaming%20-%20H%C3%B3c%20M%C3%B4n/bb0quiwosdptckwj29ai.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150383/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Kingdom%20Cyber%20Gaming%20-%20H%C3%B3c%20M%C3%B4n/nuioj825i3iptztkdl53.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150384/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Kingdom%20Cyber%20Gaming%20-%20H%C3%B3c%20M%C3%B4n/gxmgrhvxqjbklc5aq3mp.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa 24/24",
+      "Có phục vụ đồ ăn nước uống",
+      "Máy lạnh mát rượi"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8293958,
+      "lng": 106.7126497
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Net+X+Game+27A/@10.8286748,106.6348199,13z/data=!4m9!1m2!2m1!1zS2luZ2RvbSBDeWJlciBHYW1pbmcgLSBIw7NjIE3DtG4gMTUvMyDEkC4gTMOqIFRo4buLIEjDoCwgSMOzYyBNw7RuLCBI4buTIENow60gTWluaA!3m5!1s0x3175291c6917cebf:0x7c078c6b774e9b60!8m2!3d10.8293958!4d106.7126497!16s%2Fg%2F11hyr7k34c?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Sân Roller Skating & Patin Hóc Môn",
+    "district": "Trung Chánh",
+    "group": "Hóc Môn",
+    "address": "Đ. Song Hành, Trung Chánh, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "Đ. Song Hành, Trung Chánh, Hóc Môn, Hồ Chí Minh",
+    "tag": "Giải Trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "40k - 70k/vé",
+    "rating": 4.7,
+    "reviews": 180,
+    "hours": "15:00 - 22:30",
+    "phone": "0938888999",
+    "goodReview": "Sân trượt patin rộng rãi kết hợp đèn neon cực ngầu, có sẵn giày trượt và huấn luyện viên hướng dẫn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Trượt Patin",
+      "Roller Skating",
+      "Đèn Neon",
+      "Vận động"
+    ],
+    "desc": "Sân trượt Patin giải trí năng động cho giới trẻ với sàn trượt tiêu chuẩn, âm nhạc xịn xò và ánh sáng đèn LED rực rỡ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150406/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/njmeyvwmmfndzysiebhy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150408/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/ypuqwqe7hmcc0efe0yid.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150409/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/krno55xlkhwji1oubn3o.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150410/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/tjn4acxl3egc6lkaiubz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150411/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/erphqotzlvpmvwdrjd5e.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150412/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/kj3olharwomyh1nfi4r8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150413/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/lsc8tewzprfkohxfvqii.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150415/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/t818iwbcayovim4clp7z.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150416/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/wewjmhyeo2vbgqlfa1ve.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150417/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/S%C3%A2n%20Roller%20Skating%20Patin%20H%C3%B3c%20M%C3%B4n/ngv135hqzkrmtrxgrqr6.jpg"
+    ],
+    "quickActions": [
+      "Cho thuê giày trượt",
+      "Không gian vui nhộn",
+      "Thích hợp hẹn hò/đi nhóm"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8000013,
+      "lng": 106.6581152
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/S%C3%A2n+Patin+Vietnam+Roller+Rink+%26+Academy/@10.8000013,106.5056799,12z/data=!4m10!1m2!2m1!1zU8OibiBSb2xsZXIgU2thdGluZyAmIFBhdGluIEjDs2MgTcO0biDEkC4gU29uZyBIw6BuaCwgVHJ1bmcgQ2jDoW5oLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5o!3m6!1s0x317529300fb09909:0x22971093be7a67ef!8m2!3d10.8000013!4d106.6581152!15sCl9Tw6JuIFJvbGxlciBTa2F0aW5nIGFuZCBQYXRpbiBIw7NjIE3DtG4gxJAuIFNvbmcgSMOgbmgsIFRydW5nIENow6FuaCwgSMOzYyBNw7RuLCBI4buTIENow60gTWluaFpdIltzw6JuIHJvbGxlciBza2F0aW5nIGFuZCBwYXRpbiBow7NjIG3DtG4gxJEgc29uZyBow6BuaCB0cnVuZyBjaMOhbmggaMOzYyBtw7RuIGjhu5MgY2jDrSBtaW5okgETcm9sbGVyX3NrYXRpbmdfcmlua5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSZmRuVmlZbDkzUlJBQuABAPoBBAgAEDw!16s%2Fg%2F11lw7pqszy?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Bida Club 79 - Hóc Môn",
+    "district": "Bà Điểm",
+    "group": "Hóc Môn",
+    "address": "88 Đ. Phan Văn Hớn, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "88 Đ. Phan Văn Hớn, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+    "tag": "Giải Trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "50k - 90k/giờ",
+    "rating": 4.6,
+    "reviews": 160,
+    "hours": "08:00 - 02:00",
+    "phone": "0903999888",
+    "goodReview": "Bàn bida lỗ & bida phăng mới tinh, gậy chuẩn, phòng máy lạnh không khói thuốc thoáng mát.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Bida Club",
+      "Bida lỗ",
+      "Bida 3 băng",
+      "Máy lạnh"
+    ],
+    "desc": "CLB Bida giải trí sang trọng tại đường Phan Văn Hớn, không gian sạch sẽ thoáng mát thích hợp giải trí cùng bạn bè.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150437/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/p0hntwwn2c7bulzt47c4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150438/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/b2clm81wjlkjuzngro7o.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150439/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/yuoo1zbpq83djtbqho27.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150441/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/ux2nh1udhc9jcabemdqd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150442/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/bvfyeow7uno8b4dgcsqz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150443/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/cyg3qtm3aqpbfkirgc8h.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150444/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/bgrf2h4u0btsyf9mzfhe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150445/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/orrdw8pfdtsjllr8rmdm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150447/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/q8yqaclgfv00ijxw9qjt.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150448/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Bida%20Club%2079%20-%20H%C3%B3c%20M%C3%B4n/aegpwab072ukixgtsp0p.jpg"
+    ],
+    "quickActions": [
+      "Bàn chuẩn thi đấu",
+      "Máy lạnh thoáng mát"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8598405,
+      "lng": 106.6063297
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/BIDA+98+%7C+CLB+BIDA+H%C3%93C+M%C3%94N/@10.8598405,106.5872753,15z/data=!4m10!1m2!2m1!1zQmlkYSBDbHViIDc5IC0gSMOzYyBNw7RuIDg4IMSQLiBQaGFuIFbEg24gSOG7m24sIELDoCDEkGnhu4NtLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5o!3m6!1s0x31752b653caa0803:0x2d9b248539081adf!8m2!3d10.8598405!4d106.6063297!15sCldCaWRhIENsdWIgNzkgLSBIw7NjIE3DtG4gODggxJAuIFBoYW4gVsSDbiBI4bubbiwgQsOgIMSQaeG7g20sIEjDs2MgTcO0biwgSOG7kyBDaMOtIE1pbmhaUyJRYmlkYSBjbHViIDc5IGjDs2MgbcO0biA4OCDEkSBwaGFuIHbEg24gaOG7m24gYsOgIMSRaeG7g20gaMOzYyBtw7RuIGjhu5MgY2jDrSBtaW5okgELc3BvcnRzX2NsdWKaASRDaGREU1VoTk1HOW5TMFZKUTBGblRVUnZla3hEU3pCUlJSQULgAQD6AQQIORAQ!16s%2Fg%2F11fmlm8nk1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Khu Vui Chơi Leo Núi & Trampoline Jump Arena",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "100 Đ. Lê Thị Hà, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "100 Đ. Lê Thị Hà, Hóc Môn, Hồ Chí Minh",
+    "tag": "Giải Trí",
+    "tagClass": "tag-entertainment",
+    "category": "entertainment",
+    "price": "80k - 150k/vé",
+    "rating": 4.9,
+    "reviews": 240,
+    "hours": "09:00 - 21:30",
+    "phone": "0989777666",
+    "goodReview": "Khu vận động thể thao giải trí tuyệt vời với bạt nhún Trampoline, vách leo núi nhân tạo và hố đệm mút xốp.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Trampoline Jump",
+      "Leo núi nhân tạo",
+      "Giải trí vận động"
+    ],
+    "desc": "Khu thể thao vận động mạo hiểm cực vui dành cho giới trẻ và gia đình, xả stress cực tốt sau giờ làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150470/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/qm8gxhz1awpsgpqhp7fl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150472/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/hdbxn651ap4ukuyalkrv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150473/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/zzz0sdwchvtlsezugtzl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150474/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/fkxsrn7nl4lyheedo70u.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150478/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/hflcrmsakkl7sodh9eq5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150480/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/nxjx7hazurlyaxd5ikfp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150481/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/hvpphbhky4oohkdnjekp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150482/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/bwrzbuxyjhjb1oelao5g.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150484/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/oh0a6chqgi7d9vjurko9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787150485/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/entertainment/Khu%20Vui%20Ch%C6%A1i%20Leo%20N%C3%BAi%20Trampoline%20Jump%20Arena/rvq0wheprfgwnn1ncspg.jpg"
+    ],
+    "quickActions": [
+      "Huấn luyện viên an toàn",
+      "Giảm stress tuyệt vời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7420731,
+      "lng": 106.6951195
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Jump+Arena+HimLam/@10.7420731,106.6189018,13z/data=!4m10!1m2!2m1!1zS2h1IFZ1aSBDaMahaSBMZW8gTsO6aSAmIFRyYW1wb2xpbmUgSnVtcCBBcmVuYSAxMDAgxJAuIEzDqiBUaOG7iyBIw6AsIEjDs2MgTcO0biwgSOG7kyBDaMOtIE1pbmg!3m6!1s0x31752fa7ff664071:0x2dd0fa63f889e280!8m2!3d10.7420731!4d106.6951195!15sCl9LaHUgVnVpIENoxqFpIExlbyBOw7ppICYgVHJhbXBvbGluZSBKdW1wIEFyZW5hIDEwMCDEkC4gTMOqIFRo4buLIEjDoCwgSMOzYyBNw7RuLCBI4buTIENow60gTWluaCIDiAEBWl4iXGtodSB2dWkgY2jGoWkgbGVvIG7DumkgJiB0cmFtcG9saW5lIGp1bXAgYXJlbmEgMTAwIMSRIGzDqiB0aOG7iyBow6AgaMOzYyBtw7RuIGjhu5MgY2jDrSBtaW5okgEOYW11c2VtZW50X3BhcmuaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFTYzJWSVVsbGhiVFZ1VVd4U05HSkZlSFJWYm1Sc1draFZkRlpHUlJBQuABAPoBBAgAEEM!16s%2Fg%2F11hcjzn0cp?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  }
+]

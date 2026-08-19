@@ -1,0 +1,1567 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee 2k5",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "718 Đ. Song Hành, Khu Phố 4, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "718 Đ. Song Hành, Khu Phố 4, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.7,
+    "reviews": 61,
+    "hours": "06:00 - 00:00",
+    "phone": "+84 908 518 050",
+    "goodReview": "Quán cafe được đánh giá cao, phù hợp để uống cà phê và thư giãn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Mở khuya"
+    ],
+    "desc": "Quán cà phê tại khu vực trung tâm Hóc Môn, nằm trên đường Song Hành.",
+    "images": [
+      "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/473027752_122134357256445542_5482282519965036576_n.jpg?stp=dst-jpg_tt6&cstp=mx592x1280&ctp=s592x1280&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pIpSK6fNFqwQ7kNvwGLeaQ3&_nc_oc=AdrZ_lR0W8UmFdzoqmli6nhMcuKI3kgfiT_IjLNH0msOqS2qhaeORvy82HiAfHCSxShdtkxOO09WTlSzCgLr1hip&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=SnY_X-mQXjPkqLO5bU-aCA&_nc_ss=7b289&oh=00_AQF_jc5_BdBZFIlgYLJs7c7zs1UwUWAYhPf7Y_cK-prBPg&oe=6A8A06B0",
+      "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/473134602_122134357310445542_974977251241970831_n.jpg?stp=dst-jpg_tt6&cstp=mx960x1280&ctp=s960x1280&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_Z1rnKccBk8Q7kNvwES3UEu&_nc_oc=AdqrbXVfZJ_yeMw-IEMIRPQcarvELct5ohGPY04pFOCQSx6vh0ooBzPOL8BeaXJQi2OwjWRVpPEJEX8Us-vjZ9_y&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=Wv332S4ZRqmnZ5UTPxrJ5A&_nc_ss=7b289&oh=00_AQEMcZy9D-1EIeXx3eHwU68nLvgoLlJJ61hr9uGz0o0FkA&oe=6A8A1A30",
+      "https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/473038041_122134349786445542_446858116794496770_n.jpg?stp=dst-jpg_tt6&cstp=mx1217x797&ctp=s1217x797&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AXEkHuhHLqQQ7kNvwHmJMMB&_nc_oc=AdoJ0yUxaV3Csd7Lz3oPMoh5U35lFgZgGwcebohKLIE-SXtyGK_GUuNaidbezUNbo9b8xSaQODaDOwDx-GyKoYVm&_nc_zt=23&_nc_ht=scontent.fsgn2-6.fna&_nc_gid=d131rawpReq7LH_8dcBzwQ&_nc_ss=7b289&oh=00_AQE2e5TPxdIJiv3r136ZHJj4QUiyIktDbRv-WGinbPE2ig&oe=6A8A10EB",
+      "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/473031294_122134345628445542_2112118524877637229_n.jpg?stp=dst-jpg_tt6&cstp=mx592x1280&ctp=s592x1280&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gLCzxtf-6-4Q7kNvwE5iW9M&_nc_oc=AdquR9P_ZW9x5I9Oa2cRtKfzwwSfV-s92p3wD4GnBvvpWRGyRyvHGylPbss6VjMQBBmQc5cdq1rngqqg_9BQSQ2X&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=C5QOHmdbD4KkQ7JhXp9u9Q&_nc_ss=7b289&oh=00_AQGqu_pbgqGB-pVUFCV9CmqH-E83_oDN8W9a5xKOmcVJrw&oe=6A8A11BB",
+      "https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-6/473314269_122134346036445542_2225188489892408869_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bcavKgz3FMMQ7kNvwHaf0-C&_nc_oc=Adq3B7eq6jAZqlRMm0hRPm8w-48irT_TXk9lUKHT7xEhRWG_EWViOrOB2cKm7tmtCVimaU-L6Q9eejUgumsAta87&_nc_zt=23&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=7vXF2-uc6whAIwXU_4PtYQ&_nc_ss=7b289&oh=00_AQGYugvTB0CvisvEGAAaTY2cBiGAychbpIgBHA3nItl2jg&oe=6A8A180A",
+      "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/470663569_122131147760445542_7792679226426668097_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xkrZ_qICyCYQ7kNvwH0Tu4M&_nc_oc=Adr6H7GbseJJTa0el443GkjgjbsgBgcLRfcwdEr--bJr4e-4ai7qLZ6r_Yj-zcSk0m7L4bzlr9rHjJaR5U8ffE5L&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=MskjPfY_gcP0sz_MpujhTQ&_nc_ss=7b289&oh=00_AQHYihB4sct2vWznwweQKbO_glqE20xlCz4a2fV9Ux30PQ&oe=6A8A05E2"
+    ],
+    "quickActions": [
+      "Có chỗ ngồi ngoài trời & Ăn tại chỗ",
+      "Phù hợp làm việc laptop",
+      "Cà phê & nhiều loại trà ngon",
+      "Không gian ấm cúng, lãng mạn & yên tĩnh",
+      "Bãi đỗ xe miễn phí"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.887364,
+      "lng": 106.5853449
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Coffee+2k5+%7C+Coffee+view+%C4%91%E1%BA%B9p+h%C3%B3c+m%C3%B4n/@10.887364,106.5853449,17z/data=!3m1!4b1!4m15!1m8!3m7!1s0x3174d50031658a95:0xaecaf3f9b97f5dcf!2zQ29mZmVlIDJrNSB8IENvZmZlZSB2aWV3IMSR4bq5cCBow7NjIG3DtG4!8m2!3d10.887364!4d106.5879198!10e9!16s%2Fg%2F11y6khp1k0!3m5!1s0x3174d50031658a95:0xaecaf3f9b97f5dcf!8m2!3d10.887364!4d106.5879198!16s%2Fg%2F11y6khp1k0?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "GUTA CAFE HÓC MÔN",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "46/9 Đ. Liên Xã Thị Trấn-Tân Hiệp, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "46/9 Đ. Liên Xã Thị Trấn-Tân Hiệp, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "20k - 51k",
+    "rating": 5,
+    "reviews": 11,
+    "hours": "06:30 - 21:00",
+    "phone": "+84 329 188 993",
+    "goodReview": "Được khách hàng địa phương đánh giá cao.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê",
+      "Giá hợp lý"
+    ],
+    "desc": "Chi nhánh GUTA Cafe tại khu vực Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126846/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/GUTA%20CAFE%20H%C3%93C%20M%C3%94N/ej82xbu9qxlboxhgv6xk.jpg"
+    ],
+    "quickActions": [],
+    "menu": [
+      {
+        "cat": "CÀ PHÊ",
+        "items": [
+          {
+            "n": "Cà Phê Đá (S/M/L)",
+            "p": "20k - 30k"
+          },
+          {
+            "n": "Cà Phê Sữa Đá (S/M/L)",
+            "p": "20k - 32k"
+          },
+          {
+            "n": "Bạc Xỉu (S/M/L)",
+            "p": "25k - 40k"
+          },
+          {
+            "n": "Americano (M/L)",
+            "p": "29k - 35k"
+          },
+          {
+            "n": "Café Latte (M/L)",
+            "p": "40k - 45k"
+          },
+          {
+            "n": "Cappuccino (S/M/L)",
+            "p": "35k - 45k"
+          }
+        ]
+      },
+      {
+        "cat": "TRÀ SỮA & MATCHA",
+        "items": [
+          {
+            "n": "Trà Sữa Nguyên Lá Dứa (S/M/L)",
+            "p": "25k - 39k"
+          },
+          {
+            "n": "Trà Sữa Oolong Gạo Rang (S/M/L)",
+            "p": "25k - 39k"
+          },
+          {
+            "n": "Trà Sữa Oolong Nhài Mật Ong (S/M/L)",
+            "p": "35k - 51k"
+          },
+          {
+            "n": "Matcha Latte (M/L)",
+            "p": "35k - 45k"
+          },
+          {
+            "n": "Matcha Phô Mai Tươi (M/L)",
+            "p": "35k - 45k"
+          },
+          {
+            "n": "Matcha Oolong / Chanh Dây",
+            "p": "35k - 45k"
+          }
+        ]
+      },
+      {
+        "cat": "TRÀ TRÁI CÂY & ĐÁ XAY",
+        "items": [
+          {
+            "n": "Trà Con Ông (S/M/L)",
+            "p": "26k - 42k"
+          },
+          {
+            "n": "Trà Dâu Ruby / Trà Mãng Cầu",
+            "p": "32k"
+          },
+          {
+            "n": "Trà Vải Ái Nước / Trà Lài Trái Thơm",
+            "p": "32k"
+          },
+          {
+            "n": "Trà Vải Kumquat / Trà Cam Đào",
+            "p": "32k"
+          },
+          {
+            "n": "Cà Phê Sữa Dừa Đá Xay",
+            "p": "35k"
+          },
+          {
+            "n": "Cappuccino / Chocolate Shaker",
+            "p": "35k"
+          },
+          {
+            "n": "Soda Chanh Tuyết / Chanh Dây",
+            "p": "29k"
+          },
+          {
+            "n": "Nước Ép Cam Tươi / Dưa Hấu Ép",
+            "p": "32k"
+          }
+        ]
+      },
+      {
+        "cat": "EXTRA TOPPING",
+        "items": [
+          {
+            "n": "Kem Phô Mai / Shot Espresso",
+            "p": "10k"
+          },
+          {
+            "n": "Trân Châu Hoàng Kim / Trân Châu Trắng",
+            "p": "10k"
+          },
+          {
+            "n": "Thạch Cà Phê",
+            "p": "10k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8912691,
+      "lng": 106.5955905
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/GUTA+CAFE+H%C3%93C+M%C3%94N/@10.8912691,106.5955905,17z/data=!4m15!1m8!3m7!1s0x3174d50012618bcf:0x6ba0ae6ffe0f9de6!2zR1VUQSBDQUZFIEjDk0MgTcOUTg!8m2!3d10.8912691!4d106.5955905!10e9!16s%2Fg%2F11zwmzqnjk!3m5!1s0x3174d50012618bcf:0x6ba0ae6ffe0f9de6!8m2!3d10.8912691!4d106.5955905!16s%2Fg%2F11zwmzqnjk?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "T & H Coffee - Quán cà phê Hóc Môn, Coffee Bà Điểm",
+    "district": "Bà Điểm",
+    "group": "Bà Điểm",
+    "address": "Xã, 67/11 Tổ 6 ấp 4, Bà Điểm, Hồ Chí Minh 717816, Việt Nam",
+    "fullAddress": "Xã, 67/11 Tổ 6 ấp 4, Bà Điểm, Hồ Chí Minh 717816, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "18k - 45k",
+    "rating": 4.7,
+    "reviews": 24,
+    "hours": "06:00 - 22:00",
+    "phone": "+84 936 363 879",
+    "goodReview": "Được đánh giá tốt về tổng thể trải nghiệm tại quán.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê",
+      "Bà Điểm"
+    ],
+    "desc": "Quán cà phê T & H Coffee tại khu vực Bà Điểm, Hóc Môn.",
+    "images": [
+      "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/597837694_122096813691163700_8152027980985296979_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=G5bFXUfDiTwQ7kNvwFdzJ9l&_nc_oc=AdrHdGQCQWnk0TkXU6LqiZJKGM21Ny65C2kzbs_1Vld2Tz5D4py-JHyxfQWo0iIvqBjd3iGSibkI25f95rUP7fLM&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=n0ohJDg28G2gEN07tez1GQ&_nc_ss=7b2a8&oh=00_AQEPWpPKpb7nUrWmoHbTZLRpXYqe9w22j-BmPGbFTUQzdw&oe=6A8A1A2D",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkqPzC_B5YcUGQ5Hz0F4tiCfTyPv9irJZLFkkY72IfFowgk-Uj20y3hvy7IfhxnKaz1Kx_tXpg3-mc0iFcZDbmoEzd41nTC0XV7uUv1Gjp6JjXSYuCNC3WsY56_JZ9ij8kWPmvtoLsgwZly=s0",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBTtQVLj2aYkdVT9GOIso7g5z1-BE-eVU7HncBw0_GtlY-B_L7KAGUn5Xs_P783FmDyTa4WYqczDW9qYG3B5k2GwTWW986NdqsiB-C7mFXglmTff_NkKvLwI_73qnClrj1Wnd-jv_xSoxZ=s0",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUjXC5-z7tN2oLTWnBnkWAhR5K3h0HEMn0mcgGlEz3UUZPRSS39u9nJfvYA0nNuISeyyxHi65oFOGnGuXfmgatfMYc7jRMlL_SzOlHuGqEWqb5vwd5yjrfWGg0t-YYCQk_RRJbrKlUCj1Y=s0",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuAwl9ad4e97TE11IqsLF0bteONkHp2sbu6uUmMKI5AzWrltz5eSZfRQoDqJf3LZqIn8N0bXOLemMSHeu4bycHO4wbSQbrDgfcogIqyHbkCbLJinqFf3saUDhaOdjD3W2DJ5SBQGe9xqCv=s0",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkOFB6D0cg6W5SZ5NAfYzte5lQTcD0sV9B8SVbXpZTjb6F6cLRFlAgCJAV9GLddAQF3_otgnf7FuEbQis3xVfCOs3EPnIKPc4X-4xR_NkRtuedmKeSewHtetCTwHpkNX0LakCyyUZlKNZ6w=s0",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn6QpgSv9qe43iJAYDzYJj5nl0_VI40b-Zxrn0IKvMCaQ3615pvyfG7UwjHL_t1_BS0s0YJaaLKxOPZR45QN9oNxiBteFu_bJbJcCcEffx9_lu2PJBeXnxDFU2tFydunyIyhcVYMZ98v7ze=s0",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLOgVRFQjkqKMCO_sdWLHM0X3O-1JOXnjWr9sWe1RovGdqB9kBoVvdIdp-0pDJqSEH0iNyhSvZg6Dp4YPf8P_feHH0IkMJw96XXmvWlm1TjKMG8vnqic3b-X0iTDAVyzSsU6SBqFY_xUJt=s0"
+    ],
+    "quickActions": [
+      "Chỗ ngồi ngoài trời, Giao hàng & Mang đi",
+      "Có Wifi miễn phí & Quầy bar",
+      "Giờ vàng Happy Hour & Thể thao",
+      "Nhận đặt chỗ trước & Thẻ tín dụng",
+      "Thích hợp gia đình & nhóm"
+    ],
+    "menu": [
+      {
+        "cat": "CAFÉ & SPECIAL CAFÉ",
+        "items": [
+          {
+            "n": "Café Đen / Phin Đen",
+            "p": "18k"
+          },
+          {
+            "n": "Café Sữa / Phin Sữa",
+            "p": "20k"
+          },
+          {
+            "n": "Bạc Xỉu",
+            "p": "27k"
+          },
+          {
+            "n": "Café Kem Muối",
+            "p": "28k"
+          },
+          {
+            "n": "Honey Americano",
+            "p": "28k"
+          },
+          {
+            "n": "Cappuccino / Sữa Tươi Café",
+            "p": "35k"
+          }
+        ]
+      },
+      {
+        "cat": "TEA & HERBAL RELEASE",
+        "items": [
+          {
+            "n": "Trà Gừng Mật Ong (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Hoa Cúc Kỷ Tử (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Táo Bạc Hà (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Vải / Trà Đào / Trà Cam Xả",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Tắc Giải Nhiệt",
+            "p": "35k"
+          },
+          {
+            "n": "Hồng Trà Kem Phô Mai",
+            "p": "32k"
+          },
+          {
+            "n": "Matcha Latte",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Sữa Truyền Thống",
+            "p": "27k"
+          },
+          {
+            "n": "Sữa Tươi Trân Châu Đường Đen",
+            "p": "37k"
+          }
+        ]
+      },
+      {
+        "cat": "NƯỚC ÉP & SINH TỐ (JUICE & SMOOTHIES)",
+        "items": [
+          {
+            "n": "Thơm Gừng Nóng / Nước Ép Cà Rốt",
+            "p": "38k"
+          },
+          {
+            "n": "Rau Má Đậu Đỏ / Bắp",
+            "p": "38k"
+          },
+          {
+            "n": "Táo Thơm / Nước Ép Trái Cây (Dưa Hấu/Thơm/Ổi)",
+            "p": "32k - 38k"
+          },
+          {
+            "n": "Sinh Tố Dâu Việt Quất / Dâu Tằm",
+            "p": "45k"
+          },
+          {
+            "n": "Sinh Tố Dừa / Sinh Tố Xoài",
+            "p": "45k"
+          },
+          {
+            "n": "Yaourt Đậu Đỏ",
+            "p": "38k"
+          }
+        ]
+      },
+      {
+        "cat": "ĐÁ XAY & NƯỚC GIẢI KHÁT",
+        "items": [
+          {
+            "n": "Café Đá Xay / Socola Đá Xay",
+            "p": "42k"
+          },
+          {
+            "n": "Matcha Đá Xay / Bánh Oreo Đá Xay",
+            "p": "42k"
+          },
+          {
+            "n": "Tắc Xí Muội Tuyết / Soda Chanh Muối",
+            "p": "30k"
+          },
+          {
+            "n": "Cacao Hoa Quả",
+            "p": "32k"
+          },
+          {
+            "n": "Nước Ngọt (Pepsi, 7Up, C2, Trà Chanh)",
+            "p": "18k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8566246,
+      "lng": 106.5712011
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/T+%26+H+Coffee+-+Qu%C3%A1n+c%C3%A0+ph%C3%AA+H%C3%B3c+M%C3%B4n,+Coffee+B%C3%A0+%C4%90i%E1%BB%83m/@10.8566246,106.5712011,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bb742132bd5:0x7e0a543c6891a28!8m2!3d10.8566246!4d106.5712011!16s%2Fg%2F11ys5jzsbf?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Key Coffee - Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "44 Đ Lê Lợi, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "44 Đ Lê Lợi, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "14k - 30k",
+    "rating": 4.7,
+    "reviews": 19,
+    "hours": "06:00 - 22:00",
+    "phone": "+84 866 664 424",
+    "goodReview": "Được đánh giá tốt bởi khách hàng với mức giá phổ thông.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Cà phê"
+    ],
+    "desc": "Quán cà phê Key Coffee trên đường Lê Lợi, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126876/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Key%20Coffee%20-%20H%C3%B3c%20M%C3%B4n/j0lqklmwry2bzj9ywspp.jpg"
+    ],
+    "quickActions": [
+      "Chỗ ngồi ngoài trời & Ăn tại chỗ",
+      "Phù hợp làm việc laptop",
+      "Cà phê & nhiều loại trà ngon",
+      "Không gian ấm cúng, phù hợp nhóm",
+      "Thanh toán: Chỉ nhận tiền mặt",
+      "Bãi đỗ xe miễn phí"
+    ],
+    "menu": [
+      {
+        "cat": "CÀ PHÊ",
+        "items": [
+          {
+            "n": "Cà phê đá",
+            "p": "14k"
+          },
+          {
+            "n": "Cà phê sữa",
+            "p": "16k"
+          },
+          {
+            "n": "Bạc xỉu / Tươi CF",
+            "p": "20k"
+          }
+        ]
+      },
+      {
+        "cat": "TRÀ & TRÀ TRÁI CÂY",
+        "items": [
+          {
+            "n": "Trà tắc",
+            "p": "16k"
+          },
+          {
+            "n": "Trà đào / Trà vải",
+            "p": "22k"
+          },
+          {
+            "n": "Trà táo xanh / Trà ổi hồng",
+            "p": "25k"
+          },
+          {
+            "n": "Trà phúc bồn tử",
+            "p": "25k"
+          },
+          {
+            "n": "Trà trái cây tổng hợp",
+            "p": "30k"
+          }
+        ]
+      },
+      {
+        "cat": "TRÀ SỮA",
+        "items": [
+          {
+            "n": "Hồng trà Trân Châu",
+            "p": "17k"
+          },
+          {
+            "n": "Trà sữa Trân Châu / Trà sữa Đào",
+            "p": "20k"
+          },
+          {
+            "n": "Trà sữa Thái Xanh / Thái Đỏ",
+            "p": "22k"
+          },
+          {
+            "n": "Trà sữa Matcha / Chocolate",
+            "p": "25k"
+          },
+          {
+            "n": "Trà sữa Ô Long",
+            "p": "27k"
+          }
+        ]
+      },
+      {
+        "cat": "ĐÁ XAY & YOGURT",
+        "items": [
+          {
+            "n": "Matcha Đá Xay / Chocolate Đá Xay",
+            "p": "30k"
+          },
+          {
+            "n": "Yogurt Xoài",
+            "p": "25k"
+          },
+          {
+            "n": "Yogurt Việt Quất / Phúc Bồn Tử",
+            "p": "30k"
+          },
+          {
+            "n": "Extra More Cookie",
+            "p": "5k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8903443,
+      "lng": 106.5931459
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Key+Coffee+-+H%C3%B3c+M%C3%B4n/@10.8903443,106.5931459,17z/data=!4m15!1m8!3m7!1s0x3174d58582936463:0x49e64a8a6ac0fb39!2zNDQgxJAgTMOqIEzhu6NpLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!3b1!8m2!3d10.8903443!4d106.5931459!16s%2Fg%2F11knljk28l!3m5!1s0x3174d5b2cdf8eea9:0xce16ec79fd33730f!8m2!3d10.8902786!4d106.5931326!16s%2Fg%2F11t9t7j2jh?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "XCOFFEE HOOCMON",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Lê Thị Hà, Khu phố 8, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "Lê Thị Hà, Khu phố 8, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.2,
+    "reviews": 99,
+    "hours": "06:00 - 21:00",
+    "phone": "+84 908 958 147",
+    "goodReview": "Quán có mức giá phổ thông và được nhiều khách đánh giá.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Check-in"
+    ],
+    "desc": "XCOFFEE HOOCMON nằm trên đường Lê Thị Hà, khu phố 8, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126891/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/XCOFFEE%20HOOCMON/stoeffmk8fxvlrvihocq.jpg"
+    ],
+    "quickActions": [
+      "Lối vào & nhà vệ sinh cho xe lăn",
+      "Có đồ ăn mang đi & Ăn tại chỗ",
+      "Phù hợp làm việc laptop",
+      "Cà phê & nhiều loại trà ngon",
+      "Không gian ấm cúng, nhóm & sinh viên",
+      "Đỗ xe miễn phí trên đường"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8866936,
+      "lng": 106.5983834
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/XCOFFEE+HOOCMON/@10.8866936,106.5983834,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58e6ab65f2d:0xf18560986823b524!8m2!3d10.8866936!4d106.5983834!16s%2Fg%2F11fj32l9wq?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Zen Coffee and Tea House",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "60 Đ. Quang Trung, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "60 Đ. Quang Trung, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "29k-45k",
+    "rating": 4.7,
+    "reviews": 144,
+    "hours": "07:00 - 22:00",
+    "phone": "+84 938 859 200",
+    "goodReview": "Không gian hiện đại, ấm cúng và thư thái; phù hợp làm việc, học tập hoặc gặp gỡ bạn bè.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Yên tĩnh",
+      "Làm việc",
+      "Cà phê đặc sản"
+    ],
+    "desc": "Zen Coffee and Tea House là quán cà phê và trà tại Hóc Môn, theo phong cách Zen, có cà phê, trà, bánh và đồ ăn nhẹ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126903/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Zen%20Coffee%20and%20Tea%20House/vaei3vfthjnseja8byvx.jpg"
+    ],
+    "quickActions": [
+      "Chỗ ngồi ngoài trời, Giao hàng & Mang đi",
+      "Phù hợp làm việc laptop",
+      "Cà phê & trà ngon",
+      "Ấm cúng, lãng mạn & yên tĩnh",
+      "Thanh toán NFC, có ghế trẻ em",
+      "Bãi đỗ xe miễn phí rộng rãi"
+    ],
+    "menu": [
+      {
+        "cat": "Thực đơn món & nước",
+        "items": [
+          {
+            "n": "Cà phê đen truyền thống",
+            "p": "29k"
+          },
+          {
+            "n": "Cà phê sữa đá",
+            "p": "35k"
+          },
+          {
+            "n": "Bánh tiramisu",
+            "p": "45k"
+          },
+          {
+            "n": "Trà sữa trân châu",
+            "p": "45k"
+          },
+          {
+            "n": "Bánh mì sandwich",
+            "p": "45k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Zen%20Coffee%20and%20Tea%20House%2062%2F20%20%C4%90.%20Quang%20Trung%2C%20Khu%20ph%E1%BB%91%208%2C%20Th%E1%BB%8B%20tr%E1%BA%A5n%20H%C3%B3c%20M%C3%B4n%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 7,
+    "name": "Cafe Xưa Và Nay",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "2 Lê Thị Hà, Hóc Môn, Hồ Chí Minh 731000, Việt Nam",
+    "fullAddress": "2 Lê Thị Hà, Hóc Môn, Hồ Chí Minh 731000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "18k - 45k",
+    "rating": 4.1,
+    "reviews": 610,
+    "hours": "06:00 - 22:30",
+    "phone": "0918176294",
+    "goodReview": "Không gian rộng rãi, thoáng mát và mang phong cách hoài cổ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Hoài cổ",
+      "Yên tĩnh",
+      "Giá hợp lý"
+    ],
+    "desc": "Cafe Xưa Và Nay là quán cà phê mang phong cách hoài cổ, nằm trên đường Lê Thị Hà, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126920/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/yj6ugnihqwb76aqky4ch.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126921/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/vdwd2xegi6z5d3xaxveq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126922/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/verr5qfxvkwk0dv2r2qn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126923/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/ij1ll0wki8fvigvgzxuz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126924/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/nufbl22j9z6jriiuyktk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126925/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/khdfqozlaj7uqeyov2e7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126926/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/neq2oitaahlaviswvass.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126927/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/bwp8zuajdjh1kbgyfewo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126928/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/y4qphosyydaymbewxxb7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126929/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20X%C6%B0a%20V%C3%A0%20Nay/lyhfmkk3fvj9grplmffo.jpg"
+    ],
+    "quickActions": [
+      "Chỗ ngồi ngoài trời & Giao hàng",
+      "Phục vụ Bữa sáng, Bữa trưa & Catering",
+      "Phù hợp làm việc laptop",
+      "Không gian hoài cổ, ấm cúng & yên tĩnh",
+      "Thanh toán: Chỉ nhận tiền mặt",
+      "Bãi đỗ xe miễn phí"
+    ],
+    "menu": [
+      {
+        "cat": "CAFÉ & SPECIAL CAFÉ",
+        "items": [
+          {
+            "n": "Café Đen / Phin Đen",
+            "p": "18k"
+          },
+          {
+            "n": "Café Sữa / Phin Sữa",
+            "p": "20k"
+          },
+          {
+            "n": "Bạc Xỉu",
+            "p": "27k"
+          },
+          {
+            "n": "Café Kem Muối",
+            "p": "28k"
+          },
+          {
+            "n": "Honey Americano",
+            "p": "28k"
+          },
+          {
+            "n": "Cappuccino / Sữa Tươi Café",
+            "p": "35k"
+          }
+        ]
+      },
+      {
+        "cat": "TEA & HERBAL RELEASE",
+        "items": [
+          {
+            "n": "Trà Gừng Mật Ong (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Hoa Cúc Kỷ Tử (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Táo Bạc Hà (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Vải / Trà Đào / Trà Cam Xả",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Tắc Giải Nhiệt",
+            "p": "35k"
+          },
+          {
+            "n": "Hồng Trà Kem Phô Mai",
+            "p": "32k"
+          },
+          {
+            "n": "Matcha Latte",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Sữa Truyền Thống",
+            "p": "27k"
+          },
+          {
+            "n": "Sữa Tươi Trân Châu Đường Đen",
+            "p": "37k"
+          }
+        ]
+      },
+      {
+        "cat": "NƯỚC ÉP & SINH TỐ (JUICE & SMOOTHIES)",
+        "items": [
+          {
+            "n": "Thơm Gừng Nóng / Nước Ép Cà Rốt",
+            "p": "38k"
+          },
+          {
+            "n": "Rau Má Đậu Đỏ / Bắp",
+            "p": "38k"
+          },
+          {
+            "n": "Táo Thơm / Nước Ép Trái Cây (Dưa Hấu/Thơm/Ổi)",
+            "p": "32k - 38k"
+          },
+          {
+            "n": "Sinh Tố Dâu Việt Quất / Dâu Tằm",
+            "p": "45k"
+          },
+          {
+            "n": "Sinh Tố Dừa / Sinh Tố Xoài",
+            "p": "45k"
+          },
+          {
+            "n": "Yaourt Đậu Đỏ",
+            "p": "38k"
+          }
+        ]
+      },
+      {
+        "cat": "ĐÁ XAY & NƯỚC GIẢI KHÁT",
+        "items": [
+          {
+            "n": "Café Đá Xay / Socola Đá Xay",
+            "p": "42k"
+          },
+          {
+            "n": "Matcha Đá Xay / Bánh Oreo Đá Xay",
+            "p": "42k"
+          },
+          {
+            "n": "Tắc Xí Muội Tuyết / Soda Chanh Muối",
+            "p": "30k"
+          },
+          {
+            "n": "Cacao Hoa Quả",
+            "p": "32k"
+          },
+          {
+            "n": "Nước Ngọt (Pepsi, 7Up, C2, Trà Chanh)",
+            "p": "18k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8748228,
+      "lng": 106.5984821
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Cafe+X%C6%B0a+V%C3%A0+Nay/@10.8748228,106.5984821,3a,75y,90t/data=!3m7!1e2!3m5!1sCIABIhAnnT0Vvb7I0e2ALv7TpqpS!2e10!3e12!7i3024!8i4032!4m7!3m6!1s0x31752bda79bbb981:0xccf9874b1ffd226c!8m2!3d10.8748473!4d106.5983919!10e9!16s%2Fg%2F11j7dz4w48?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Cafe Tri Kỷ",
+    "district": "Tân Xuân",
+    "group": "Hóc Môn",
+    "address": "1/33D, Ấp Đình, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "1/33D, Ấp Đình, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "23k - 44k",
+    "rating": 4,
+    "reviews": 468,
+    "hours": "07:00 - 21:00",
+    "phone": "+84 909 598 939",
+    "goodReview": "Có lượng đánh giá lớn và được khách hàng địa phương biết đến.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Cà phê"
+    ],
+    "desc": "Cafe Tri Kỷ là quán cà phê tại khu vực Ấp Đình, Tân Xuân, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126943/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20Tri%20K%E1%BB%B7/rwnl0qihpfsc28ziggir.jpg"
+    ],
+    "quickActions": [
+      "Biểu diễn nhạc sống & Trực tiếp",
+      "Chỗ ngồi ngoài trời & Phục vụ ăn sáng, trưa",
+      "Cho phép mang theo thú cưng (Chó)",
+      "Phù hợp làm việc laptop",
+      "Nhận đặt chỗ trước & Dịch vụ đỗ xe",
+      "Thanh toán: Chỉ nhận tiền mặt"
+    ],
+    "menu": [
+      {
+        "cat": "ĐIỂM TÂM & MÓN ĂN",
+        "items": [
+          {
+            "n": "Khoai tây chiên",
+            "p": "29k"
+          },
+          {
+            "n": "Bánh mì ốp la",
+            "p": "24k"
+          },
+          {
+            "n": "Ốp la Tri Kỷ",
+            "p": "29k"
+          },
+          {
+            "n": "Hủ tiếu / Bánh mì bò kho",
+            "p": "39k"
+          },
+          {
+            "n": "Bò Beefsteak",
+            "p": "44k"
+          },
+          {
+            "n": "Mì xào / Nui xào bò",
+            "p": "39k"
+          },
+          {
+            "n": "Mì xào trứng / Cơm trứng chiên",
+            "p": "25k"
+          }
+        ]
+      },
+      {
+        "cat": "NƯỚC ÉP TRÁI CÂY ĐẶC BIỆT",
+        "items": [
+          {
+            "n": "Trăng Mật (Cam, Táo, Cà Rốt, Chanh Dây)",
+            "p": "37k"
+          },
+          {
+            "n": "Tình Bạn (Cà Rốt, Thơm, Mật Ong)",
+            "p": "37k"
+          },
+          {
+            "n": "Ánh Trăng (Táo, Dâu, Thơm)",
+            "p": "37k"
+          },
+          {
+            "n": "Nhiệt Đới (Dâu, Táo, Lê, Chanh)",
+            "p": "37k"
+          },
+          {
+            "n": "Hương Xuân (Cam, Cà Rốt, Trái Cây)",
+            "p": "37k"
+          }
+        ]
+      },
+      {
+        "cat": "THỨC UỐNG GIẢI NHIỆT",
+        "items": [
+          {
+            "n": "Cam Vắt (Tươi / Không đá / Sữa / Mật ong)",
+            "p": "33k"
+          },
+          {
+            "n": "Cam Xí Muội",
+            "p": "33k"
+          },
+          {
+            "n": "Chanh Nóng / Đá",
+            "p": "23k"
+          },
+          {
+            "n": "Chanh Muối Nóng / Đá",
+            "p": "23k"
+          },
+          {
+            "n": "Chanh Muối Xí Muội",
+            "p": "27k"
+          },
+          {
+            "n": "Soda Chanh Dây",
+            "p": "33k"
+          }
+        ]
+      },
+      {
+        "cat": "SINH TỐ & TRÁI CÂY DẦM",
+        "items": [
+          {
+            "n": "Sinh Tố Tự Chọn (Sapoche, Cà rốt, Thơm...)",
+            "p": "32k"
+          },
+          {
+            "n": "Sinh Tố Dâu / Dừa / Mãng Cầu",
+            "p": "39k"
+          },
+          {
+            "n": "Sinh Tố Dừa Café",
+            "p": "42k"
+          },
+          {
+            "n": "Dâu Dầm / Mãng Cầu Dầm",
+            "p": "39k"
+          },
+          {
+            "n": "Sinh Tố Bơ",
+            "p": "44k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8788319,
+      "lng": 106.5952133
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Cafe+Tri+K%E1%BB%B7/@10.8788319,106.5952133,17z/data=!3m1!4b1!4m6!3m5!1s0x31752a77104dbffb:0xeffbe1687d6be220!8m2!3d10.8788319!4d106.5952133!16s%2Fg%2F11y22yyl4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "HADI- Đi Bán Trà Và Bán Cà Phê",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "1/83 Lê Thị Hà, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "1/83 Lê Thị Hà, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100K",
+    "rating": 4.6,
+    "reviews": 51,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Địa điểm hiện được đánh giá 4.6 sao",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê"
+    ],
+    "desc": " HADI là một quán cà phê tại Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126958/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/saxxxbirvufkckyue0bp.jpg"
+    ],
+    "quickActions": [
+      "Có ăn tại chỗ & mang đi",
+      "Phù hợp làm việc laptop",
+      "Không gian ấm cúng, phù hợp nhóm & sinh viên",
+      "Cà phê & nhiều loại trà ngon",
+      "Thanh toán di động NFC",
+      "Bãi đỗ xe miễn phí"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8803352,
+      "lng": 106.599202
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/HADI-+%C4%90i+B%C3%A1n+Tr%C3%A0+V%C3%A0+B%C3%A1n+C%C3%A0+Ph%C3%AA/@10.8803352,106.599202,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b00011bfd21:0x3e9f0682dcc828ba!8m2!3d10.8803352!4d106.599202!16s%2Fg%2F11vwqlxzfp?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Quán cà phê Quốc Việt",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "40/2 Lê Thị Hà, Hóc Môn, Hồ Chí Minh 70000, Việt Nam",
+    "fullAddress": "40/2 Lê Thị Hà, Hóc Môn, Hồ Chí Minh 70000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "10k - 35k",
+    "rating": 4.2,
+    "reviews": 505,
+    "hours": "06:00 - 22:00",
+    "phone": "+84 398 783 430",
+    "goodReview": "Có lượng đánh giá lớn và mức giá phổ thông.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Cà phê"
+    ],
+    "desc": "Quán cà phê Quốc Việt nằm trên đường Lê Thị Hà, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126971/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20Qu%E1%BB%91c%20Vi%E1%BB%87t/ywokslyiguxl9zrxh5ea.jpg"
+    ],
+    "quickActions": [
+      "Chỗ ngồi ngoài trời, Giao hàng & Mang đi",
+      "Phục vụ ăn sáng, Cà phê & Nhiều trà ngon",
+      "Phù hợp làm việc laptop",
+      "Không gian ấm cúng, nhóm & sinh viên",
+      "Thanh toán: Chỉ nhận tiền mặt",
+      "Bãi đỗ xe miễn phí rộng rãi"
+    ],
+    "menu": [
+      {
+        "cat": "CAFE – THỨC UỐNG TRUYỀN THỐNG",
+        "items": [
+          {
+            "n": "Café Đen / Café Sữa",
+            "p": "12k - 14k"
+          },
+          {
+            "n": "Lipton Nóng / Đá",
+            "p": "12k - 15k"
+          },
+          {
+            "n": "Chanh Nóng / Đá",
+            "p": "10k - 12k"
+          },
+          {
+            "n": "Tắc / Tắc Đường",
+            "p": "12k"
+          },
+          {
+            "n": "Cam Ép",
+            "p": "15k"
+          }
+        ]
+      },
+      {
+        "cat": "TRÀ, TRÀ SỮA & SINH TỐ",
+        "items": [
+          {
+            "n": "Trà Sữa Truyền Thống / Trân Châu Đường Đen",
+            "p": "25k"
+          },
+          {
+            "n": "Trà Đào Cam Xả Kem Cheese",
+            "p": "25k"
+          },
+          {
+            "n": "Trà Vải Hoa Cúc Mật Ong",
+            "p": "25k"
+          },
+          {
+            "n": "Nước Ép Bưởi / Nước Ép Ổi",
+            "p": "22k"
+          },
+          {
+            "n": "Sinh Tố Dâu / Bơ / Mãng Cầu / Dừa",
+            "p": "18k"
+          }
+        ]
+      },
+      {
+        "cat": "CAFÉ, COOKIES & SINH TỐ ĐÁ XAY",
+        "items": [
+          {
+            "n": "Sữa Đá Xay Trân Châu / Moka / Socola",
+            "p": "28k"
+          },
+          {
+            "n": "Cookies Kem Quế / Matcha / Socola",
+            "p": "25k"
+          },
+          {
+            "n": "Cacao Đá Xay & Phô Mai Tươi",
+            "p": "32k"
+          },
+          {
+            "n": "CAFÉ Đá Xay / Cacao Socola",
+            "p": "25k"
+          },
+          {
+            "n": "Sinh Tố Mùa Hè / Cam Xoài / Việt Quất",
+            "p": "24k"
+          },
+          {
+            "n": "Chanh Tươi / Tắc Tươi / Ép Táo",
+            "p": "22k"
+          }
+        ]
+      },
+      {
+        "cat": "KEM NHÀ LÀM (15K/viên) & TRÀ SỮA THẠCH",
+        "items": [
+          {
+            "n": "Kem Sầu Riêng / Chanh Dây / Việt Quất",
+            "p": "15k"
+          },
+          {
+            "n": "Kem Khoai Môn / Trà Xanh / Sweet Socola",
+            "p": "15k"
+          },
+          {
+            "n": "Nhài Trà Sữa / Trà Sữa Bao Ân / Socola",
+            "p": "25k"
+          },
+          {
+            "n": "Trà Sữa Hokkaido / Matcha / Ô Long",
+            "p": "25k"
+          }
+        ]
+      },
+      {
+        "cat": "KHAI VỊ & ĂN KÈM (SIDE DISHES)",
+        "items": [
+          {
+            "n": "Salad Trộn Rau Củ (Sốt Mayonnaise)",
+            "p": "25k"
+          },
+          {
+            "n": "Bánh Mì Bơ Tỏi / Khoai Tây Chiên",
+            "p": "25k"
+          },
+          {
+            "n": "Khoai Tây Lắc Phô Mai / Đút Lò",
+            "p": "28k"
+          },
+          {
+            "n": "Hành Tây Chiên Giòn / Súp Kem Nấm",
+            "p": "25k"
+          },
+          {
+            "n": "Mì Ý Sốt Bò Bằm",
+            "p": "35k"
+          },
+          {
+            "n": "Cánh Gà Chiên Giòn / Gà Viên Chiên",
+            "p": "35k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8849446,
+      "lng": 106.5960301
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Qu%C3%A1n+c%C3%A0+ph%C3%AA+Qu%E1%BB%91c+Vi%E1%BB%87t/@10.8849446,106.5960301,17z/data=!4m15!1m8!3m7!1s0x3174d58976c1ea89:0x2b6533fa517b8f00!2zUXXDoW4gY8OgIHBow6ogUXXhu5FjIFZp4buHdA!8m2!3d10.8849446!4d106.5985997!10e9!16s%2Fg%2F11cscc8pb0!3m5!1s0x3174d58976c1ea89:0x2b6533fa517b8f00!8m2!3d10.8849446!4d106.5985997!16s%2Fg%2F11cscc8pb0?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 11,
+    "name": "The Coffee Health",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "19/5D, Đ. Song Hành Ấp Chánh 2, Hóc Môn, Hồ Chí Minh 71717, Việt Nam",
+    "fullAddress": "19/5D, Đ. Song Hành Ấp Chánh 2, Hóc Môn, Hồ Chí Minh 71717, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.8,
+    "reviews": 115,
+    "hours": "Đang mở cửa · Đóng cửa vào 23:00",
+    "phone": "+84 932 729 368",
+    "goodReview": "Không gian sân vườn nhiều cây xanh, thoáng đãng; có khu ngoài trời và khu trong nhà.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Nhiều cây xanh",
+      "Yên tĩnh"
+    ],
+    "desc": "The Coffee Health là quán cà phê sân vườn trên đường Song Hành Hóc Môn, tập trung vào không gian xanh và các lựa chọn đồ uống cà phê, trà, nước ép và sinh tố.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787126983/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Health/fvdmm6cpt3glly5uezrx.jpg"
+    ],
+    "quickActions": [
+      "Không gian sân vườn",
+      "Có khu trong nhà và ngoài trời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20Health%2019%2F5D%20%C4%90.%20Song%20H%C3%A0nh%2C%20%E1%BA%A4p%20Ch%C3%A1nh%202%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 12,
+    "name": "Cafe 24H",
+    "district": "Tân Xuân",
+    "group": "Hóc Môn",
+    "address": "1 Bà Triệu, Tân Xuân, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "1 Bà Triệu, Tân Xuân, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 4,
+    "hours": "06:00 - 21:00",
+    "phone": "0984111947",
+    "goodReview": "Có lượng đánh giá đáng kể và hoạt động từ sáng đến tối.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Cà phê"
+    ],
+    "desc": "Cafe 24H nằm tại số 1 Bà Triệu, khu vực Tân Xuân, Hóc Môn.",
+    "images": [],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%2024H%201%20B%C3%A0%20Tri%E1%BB%87u%2C%20T%C3%A2n%20Xu%C3%A2n%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 13,
+    "name": "Cà Phê Kem HP",
+    "district": "Tân Xuân",
+    "group": "Hóc Môn",
+    "address": "307l Tô Ký, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "307l Tô Ký, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "",
+    "rating": 4.2,
+    "reviews": 49,
+    "hours": "06:00 - 22:00",
+    "phone": "",
+    "goodReview": "Phục vụ cà phê, kem và các loại thức uống phổ biến.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Kem",
+      "Cà phê"
+    ],
+    "desc": "Cà Phê Kem HP là quán cafe/dessert tại 307L Tô Ký, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127004/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%A0%20Ph%C3%AA%20Kem%20HP/xysvefnahlloszbatcev.jpg"
+    ],
+    "quickActions": [
+      "Có chỗ đậu ô tô",
+      "Có khu vực ngoài trời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%A0%20Ph%C3%AA%20Kem%20HP%20307L%20T%C3%B4%20K%C3%BD%2C%20%E1%BA%A4p%20M%E1%BB%9Bi%201%2C%20X%C3%A3%20T%C3%A2n%20Xu%C3%A2n%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 14,
+    "name": "Cafe Koc Hoc Mon",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "24 Trần Khắc Chân, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "24 Trần Khắc Chân, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "",
+    "rating": 4.1,
+    "reviews": 57,
+    "hours": "06:00 - 21:00",
+    "phone": "",
+    "goodReview": "Google được ghi nhận mức 4.1/5 với 58 lượt đánh giá trong nguồn tham khảo.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê"
+    ],
+    "desc": "Cafe Koc Hoc Mon là quán cà phê tại số 24 Trần Khắc Chân, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127017/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20Koc%20Hoc%20Mon/xm0uuqmtp1vwbvtkn4ew.jpg"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Koc%20Hoc%20Mon%2024%20Tr%E1%BA%A7n%20Kh%E1%BA%AFc%20Ch%C3%A2n%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 15,
+    "name": "HQ Coffee",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "10/9B, khu pho 8, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "10/9B, khu pho 8, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "",
+    "rating": 4.4,
+    "reviews": 11,
+    "hours": "06:00 - 12:00",
+    "phone": "",
+    "goodReview": "Được đánh giá 4.4/5 từ dữ liệu địa điểm hiện có.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê",
+      "Buổi sáng"
+    ],
+    "desc": "HQ Coffee là quán cà phê tại khu phố 8, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127030/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HQ%20Coffee/pbhfiiro8pqrxqywqzxd.jpg"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=HQ%20Coffee%2010%2F9B%2C%20Khu%20ph%E1%BB%91%208%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 16,
+    "name": "Cafe Không Gian Việt",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "WH5P+675, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "WH5P+675, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 186,
+    "hours": "06:00 - 21:00",
+    "phone": "",
+    "goodReview": "Được đánh giá 4.1/5 với lượng đánh giá khá lớn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Không gian rộng"
+    ],
+    "desc": "Cafe Không Gian Việt là quán cà phê tại Hóc Môn với dữ liệu địa điểm được ghi nhận trên bản đồ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127044/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Cafe%20Kh%C3%B4ng%20Gian%20Vi%E1%BB%87t/ub0pybfts9gnpcuuqqcl.jpg"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Kh%C3%B4ng%20Gian%20Vi%E1%BB%87t%20WH5P%2B675%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
+  },
+  {
+    "id": 17,
+    "name": "VườnCủaGió",
+    "district": "Tân Hiệp",
+    "group": "Hóc Môn",
+    "address": "11 Đ. tân hiệp 46, Ấp 6, Hóc Môn, Hồ Chí Minh 71710, Việt Nam",
+    "fullAddress": "11 Đ. tân hiệp 46, Ấp 6, Hóc Môn, Hồ Chí Minh 71710, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.8,
+    "reviews": 72,
+    "hours": "06:30 - 23:00",
+    "phone": "+84 909 309 980",
+    "goodReview": "Được đánh giá cao với 4.8/5.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "View đẹp"
+    ],
+    "desc": "VườnCủaGió là quán cà phê tại khu vực Tân Hiệp, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127058/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/grrfdfegtplcvr2fx6ac.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127059/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/vuooefqs63c6wos4gl84.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127060/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/oczkmpdiqryvhkbudrc5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127061/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/owpnk25xqu5o0bq5fhdc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127063/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/blt30eofvscaxvzuw308.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127064/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/lxwcvgoeulnmahwsugmb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127065/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/u36wgcox7sa25dplttdp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127066/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/uxs2by25umlpzoevmq9b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127067/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/jtfyfjfl4dzpvoccxhx3.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127068/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/y4wto5omeosqpgf46eaa.png"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.894029,
+      "lng": 106.5894197
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/@10.894029,106.5894197,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d50017fabb39:0x671ed347dadd7ea6!8m2!3d10.894029!4d106.5894197!16s%2Fg%2F11y455ghgj?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 18,
+    "name": "SAPA COFFEE 24H - Bà Triệu",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "62 Bà Triệu, Khu Pho 2, Hóc Môn, Hồ Chí Minh 71700, Việt Nam",
+    "fullAddress": "62 Bà Triệu, Khu Pho 2, Hóc Môn, Hồ Chí Minh 71700, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "20k-42k",
+    "rating": 3.4,
+    "reviews": 91,
+    "hours": "24/24",
+    "phone": "+84 981 641 711",
+    "goodReview": "Có chỗ đỗ ô tô và phục vụ tại chỗ cũng như mua mang đi.",
+    "badReview": "Điểm đánh giá hiện thấp hơn nhiều quán khác trong danh sách.",
+    "hasBad": true,
+    "viewDep": false,
+    "tags": [
+      "24 giờ",
+      "Giá hợp lý"
+    ],
+    "desc": "SAPA COFFEE 24H là chuỗi cà phê có chi nhánh tại đường Bà Triệu, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127084/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/gnyrjla9a2r0lh0qsfyd.jpg"
+    ],
+    "quickActions": [
+      "Có chỗ đỗ ô tô",
+      "Phục vụ mua mang đi"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8862196,
+      "lng": 106.595658
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/SAPA+COFFEE+24H/@10.8862196,106.595658,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d5577a9f747d:0xf42dcd29289623e1!8m2!3d10.8862196!4d106.595658!16s%2Fg%2F11sycf_5kj?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 19,
+    "name": "The Bis Coffee",
+    "district": "Tân Xuân",
+    "group": "Hóc Môn",
+    "address": "45/15 Đ Lê Lợi, kp3, Hóc Môn, Hồ Chí Minh 731000, Việt Nam",
+    "fullAddress": "45/15 Đ Lê Lợi, kp3, Hóc Môn, Hồ Chí Minh 731000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "16k-40k",
+    "rating": 4.7,
+    "reviews": 25,
+    "hours": "06:00 - 23:00",
+    "phone": "+84 936 774 498",
+    "goodReview": "Giá đồ uống được ghi nhận trong khoảng 16k-40k; có wifi và giao hàng.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá rẻ",
+      "Có wifi",
+      "Takeaway"
+    ],
+    "desc": "The Bis Coffee là quán Café/Dessert tại khu vực Tân Xuân, Hóc Môn, phục vụ món Việt và món Ý.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127098/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Bis%20Coffee/zrw8ea0ohm2pcqkm0alo.jpg"
+    ],
+    "quickActions": [
+      "Có wifi",
+      "Có giao hàng",
+      "Có chỗ đậu ô tô"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8896186,
+      "lng": 106.593216
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/The+Bis+Coffee/@10.8896186,106.593216,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d577842ac679:0x29a34c28328bc008!8m2!3d10.8896186!4d106.593216!16s%2Fg%2F11st0pdhwr?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 20,
+    "name": "Cà phê Tình Bằng Hữu",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "37 Trưng Nữ Vương, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "37 Trưng Nữ Vương, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.2,
+    "reviews": 164,
+    "hours": "06:00 - 21:00",
+    "phone": "+84 28 6270 7453",
+    "goodReview": "Có 164 lượt đánh giá và mức điểm 4.2/5.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Giá hợp lý",
+      "Cà phê"
+    ],
+    "desc": "Cà phê Tình Bằng Hữu là quán cà phê tại đường Trưng Nữ Vương, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787127113/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%A0%20ph%C3%AA%20T%C3%ACnh%20B%E1%BA%B1ng%20H%E1%BB%AFu/hlqy5ow0myull0y6aslb.jpg"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8916558,
+      "lng": 106.5968305
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%A0+ph%C3%AA+T%C3%ACnh+B%E1%BA%B1ng+H%E1%BB%AFu/@10.8916558,106.5968305,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58f018785b3:0xf5275037ec0eaabc!8m2!3d10.8916558!4d106.5968305!16s%2Fg%2F1hc5353n_?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  }
+]

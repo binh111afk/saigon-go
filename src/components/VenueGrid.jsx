@@ -30,7 +30,7 @@ export default function VenueGrid({
         <div className="venue-grid">
           {venues.slice(0, visibleCount).map((v) => (
             <VenueCard
-              key={v.id}
+              key={`${v.category || 'spot'}-${v.id}-${v.name}`}
               venue={v}
               isFavorite={favoriteIds.includes(v.id)}
               onToggleFavorite={onToggleFavorite}

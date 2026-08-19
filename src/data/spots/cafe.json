@@ -1,0 +1,825 @@
+[
+  {
+    "id": 1,
+    "name": "HADI- Đi Bán Trà Và Bán Cà Phê",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "1/83 Lê Thị Hà, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "1/83 Lê Thị Hà, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100K",
+    "rating": 4.6,
+    "reviews": 51,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Địa điểm hiện được đánh giá 4.6 sao",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê"
+    ],
+    "desc": " HADI là một quán cà phê tại Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147885/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/aw0ks9dz0qbrwqjmbras.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147886/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/wwmwvupid036d3ckh8kh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147887/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/iaxcrtyetjspxmupmade.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147888/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/vhxpjsqweissdyqohs0b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147889/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/khjiowbsdpjnczmetpqw.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147890/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/dmnvzjs2nafftejxaihp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147892/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/cevpmyyimxofkni79rw5.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147893/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/p0kxcphro327uas9dzqf.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147895/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/e1iwo60en6w6lsbgsbcq.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147897/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/rw6dj4ex7bzilqwgelrp.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147897/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/qw4caujggxmnztepcrot.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147898/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/baqqknw6kauyrkxuj97z.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147899/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/y7wflxhxcxbr6dfliitu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147900/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/HADI-%20%C4%90i%20B%C3%A1n%20Tr%C3%A0%20V%C3%A0%20B%C3%A1n%20C%C3%A0%20Ph%C3%AA/kdak6qckwcdnkma0pdbo.jpg"
+    ],
+    "quickActions": [
+      "Có ăn tại chỗ & mang đi",
+      "Phù hợp làm việc laptop",
+      "Không gian ấm cúng, phù hợp nhóm & sinh viên",
+      "Cà phê & nhiều loại trà ngon",
+      "Thanh toán di động NFC",
+      "Bãi đỗ xe miễn phí"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8803352,
+      "lng": 106.599202
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/HADI-+%C4%90i+B%C3%A1n+Tr%C3%A0+V%C3%A0+B%C3%A1n+C%C3%A0+Ph%C3%AA/@10.8803352,106.599202,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b00011bfd21:0x3e9f0682dcc828ba!8m2!3d10.8803352!4d106.599202!16s%2Fg%2F11vwqlxzfp?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "T & H Coffee - Quán cà phê Hóc Môn, Coffee Bà Điểm",
+    "district": "Bà Điểm",
+    "group": "Bà Điểm",
+    "address": "Xã, 67/11 Tổ 6 ấp 4, Bà Điểm, Hồ Chí Minh 717816, Việt Nam",
+    "fullAddress": "Xã, 67/11 Tổ 6 ấp 4, Bà Điểm, Hồ Chí Minh 717816, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "18k - 45k",
+    "rating": 4.7,
+    "reviews": 24,
+    "hours": "06:00 - 22:00",
+    "phone": "+84 936 363 879",
+    "goodReview": "Được đánh giá tốt về tổng thể trải nghiệm tại quán.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Cà phê",
+      "Bà Điểm"
+    ],
+    "desc": "Quán cà phê T & H Coffee tại khu vực Bà Điểm, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147922/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/baft7y6qxboscplwkvsf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147923/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/cjrhftetzswotxwne1xm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147924/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/fi6upenf7kuzmicslpfn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147925/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/pjyrdbmltpgpdysvqp3g.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147926/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/bwxuedqq2mciubdfwm8u.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147927/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/ifqjqsumz2a3notib1pv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147928/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/y1m2hcw1ivkmqpvtrlgm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147929/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/l54gobv4kzp5ayckcket.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147930/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/we1rsiyqhwetf1smbg3z.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147931/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/lctt5cmahbiwtfvqcyzs.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147932/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/T%20H%20Coffee%20-%20Qu%C3%A1n%20c%C3%A0%20ph%C3%AA%20H%C3%B3c%20M%C3%B4n%20Coffee%20B%C3%A0%20%C4%90i%E1%BB%83m/vcwql2rzpxscfn7wepis.jpg"
+    ],
+    "quickActions": [
+      "Chỗ ngồi ngoài trời, Giao hàng & Mang đi",
+      "Có Wifi miễn phí & Quầy bar",
+      "Giờ vàng Happy Hour & Thể thao",
+      "Nhận đặt chỗ trước & Thẻ tín dụng",
+      "Thích hợp gia đình & nhóm"
+    ],
+    "menu": [
+      {
+        "cat": "CAFÉ & SPECIAL CAFÉ",
+        "items": [
+          {
+            "n": "Café Đen / Phin Đen",
+            "p": "18k"
+          },
+          {
+            "n": "Café Sữa / Phin Sữa",
+            "p": "20k"
+          },
+          {
+            "n": "Bạc Xỉu",
+            "p": "27k"
+          },
+          {
+            "n": "Café Kem Muối",
+            "p": "28k"
+          },
+          {
+            "n": "Honey Americano",
+            "p": "28k"
+          },
+          {
+            "n": "Cappuccino / Sữa Tươi Café",
+            "p": "35k"
+          }
+        ]
+      },
+      {
+        "cat": "TEA & HERBAL RELEASE",
+        "items": [
+          {
+            "n": "Trà Gừng Mật Ong (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Hoa Cúc Kỷ Tử (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Táo Bạc Hà (Nóng / Đá)",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Vải / Trà Đào / Trà Cam Xả",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Tắc Giải Nhiệt",
+            "p": "35k"
+          },
+          {
+            "n": "Hồng Trà Kem Phô Mai",
+            "p": "32k"
+          },
+          {
+            "n": "Matcha Latte",
+            "p": "35k"
+          },
+          {
+            "n": "Trà Sữa Truyền Thống",
+            "p": "27k"
+          },
+          {
+            "n": "Sữa Tươi Trân Châu Đường Đen",
+            "p": "37k"
+          }
+        ]
+      },
+      {
+        "cat": "NƯỚC ÉP & SINH TỐ (JUICE & SMOOTHIES)",
+        "items": [
+          {
+            "n": "Thơm Gừng Nóng / Nước Ép Cà Rốt",
+            "p": "38k"
+          },
+          {
+            "n": "Rau Má Đậu Đỏ / Bắp",
+            "p": "38k"
+          },
+          {
+            "n": "Táo Thơm / Nước Ép Trái Cây (Dưa Hấu/Thơm/Ổi)",
+            "p": "32k - 38k"
+          },
+          {
+            "n": "Sinh Tố Dâu Việt Quất / Dâu Tằm",
+            "p": "45k"
+          },
+          {
+            "n": "Sinh Tố Dừa / Sinh Tố Xoài",
+            "p": "45k"
+          },
+          {
+            "n": "Yaourt Đậu Đỏ",
+            "p": "38k"
+          }
+        ]
+      },
+      {
+        "cat": "ĐÁ XAY & NƯỚC GIẢI KHÁT",
+        "items": [
+          {
+            "n": "Café Đá Xay / Socola Đá Xay",
+            "p": "42k"
+          },
+          {
+            "n": "Matcha Đá Xay / Bánh Oreo Đá Xay",
+            "p": "42k"
+          },
+          {
+            "n": "Tắc Xí Muội Tuyết / Soda Chanh Muối",
+            "p": "30k"
+          },
+          {
+            "n": "Cacao Hoa Quả",
+            "p": "32k"
+          },
+          {
+            "n": "Nước Ngọt (Pepsi, 7Up, C2, Trà Chanh)",
+            "p": "18k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8566246,
+      "lng": 106.5712011
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/T+%26+H+Coffee+-+Qu%C3%A1n+c%C3%A0+ph%C3%AA+H%C3%B3c+M%C3%B4n,+Coffee+B%C3%A0+%C4%90i%E1%BB%83m/@10.8566246,106.5712011,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bb742132bd5:0x7e0a543c6891a28!8m2!3d10.8566246!4d106.5712011!16s%2Fg%2F11ys5jzsbf?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Highlands Coffee Lê Thị Hà - Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "1/71A Lê Thị Hà, Hóc Môn, Hồ Chí Minh 70000, Việt Nam",
+    "fullAddress": "1/71A Lê Thị Hà, Hóc Môn, Hồ Chí Minh 70000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 166,
+    "hours": "07:00 - 22:00",
+    "phone": "02871080171",
+    "goodReview": "Không gian theo mô hình chuỗi hiện đại, phù hợp gặp gỡ và ngồi làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Máy lạnh",
+      "Làm việc",
+      "Chuỗi café"
+    ],
+    "desc": "Chi nhánh Highlands Coffee trên đường Lê Thị Hà, phù hợp cho gặp gỡ, trò chuyện và làm việc với laptop.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147955/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/d671rrbt7ihndwox2pu2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147956/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/uqfbtfrwm8lx8dpw9qrn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147957/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/fc4kgf6xoyvhqbhfh4h2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147958/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/hu1y4qm2gfvisqhmbjq9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147959/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/fvo9jwiz27bclusdbp5h.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147960/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/kpsmlew4y9dg5qeguat0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147961/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%20-%20H%C3%B3c%20M%C3%B4n/wfthtgwlx6yamoqzaqoo.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp làm việc với laptop",
+      "Không gian máy lạnh"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8864,
+      "lng": 106.5986
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 4,
+    "name": "The Coffee House - Nguyễn Ảnh Thủ",
+    "district": "Bà Điểm",
+    "group": "Hóc Môn",
+    "address": "93/5B Đ. Nguyễn Ảnh Thủ, Trung Chánh, Bà Điểm, Hồ Chí Minh 700000, Việt Nam",
+    "fullAddress": "93/5B Đ. Nguyễn Ảnh Thủ, Trung Chánh, Bà Điểm, Hồ Chí Minh 700000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.3,
+    "reviews": 1287,
+    "hours": "07:00 - 22:00",
+    "phone": "02873039079",
+    "goodReview": "Không gian hiện đại, phù hợp gặp gỡ, học tập và làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Máy lạnh",
+      "Làm việc",
+      "Chuỗi café"
+    ],
+    "desc": "Chi nhánh The Coffee House tại Nguyễn Ảnh Thủ, Bà Điểm, là lựa chọn đúng kiểu cafe hiện đại để nói chuyện hoặc chạy deadline.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147980/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/iwmfbyfa8cjulqn0ih4e.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147981/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/nafidh60f44webqiyluh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147982/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/diczli6ir6fxfodcbzaz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147983/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/jzorsjsqncfl57x5umpi.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147984/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/ys32zn9inppc8b9wzfu0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147985/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/wa65mwglk3tsfx4dqtc2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147986/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/j1vbtivniwhaambm29o8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147987/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/dcn717qtcaghruv2j6s8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147989/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/pxlnn4w6oakzgcelbj26.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147990/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/grrtljnwtmqj6oovt8qe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147991/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/u5mf8awoakkbdpjb8rw4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147992/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/nwmipaafndkbtgz6eui6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147993/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/zq1a1wuguibdylgem1rd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787147994/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20House%20-%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/inbvuje5r7dmshw1jzff.jpg"
+    ],
+    "quickActions": [
+      "Bàn phù hợp laptop",
+      "Không gian máy lạnh"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8653788,
+      "lng": 106.6139075
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/The+Coffee+House+-+Nguy%E1%BB%85n+%E1%BA%A2nh+Th%E1%BB%A7/@10.8653788,106.6113326,17z/data=!3m1!4b1!4m6!3m5!1s0x31752a112f4abe6b:0x7839cbee601ed7d0!8m2!3d10.8653788!4d106.6139075!16s%2Fg%2F11dfq2lsy7?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Phúc Long - Lê Thị Hà",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "455-457 Đ. Lê Thị Hà, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "455-457 Đ. Lê Thị Hà, Hóc Môn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 3.8,
+    "reviews": 251,
+    "hours": "07:00 - 22:30",
+    "phone": "02871001968",
+    "goodReview": "Chuỗi cafe - trà hiện đại, phù hợp gặp gỡ và ngồi lâu.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Máy lạnh",
+      "Trà",
+      "Làm việc"
+    ],
+    "desc": "Chi nhánh Phúc Long trên đường Lê Thị Hà, phù hợp cho trò chuyện, học tập và làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148015/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/omoewiabpd48pu3twycs.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148016/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/sdstioq1irb5ph9nwogm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148018/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/xifkwifr6dy6mo5yzq9s.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148019/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/wss3qmuqbqwcpwx9lvtr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148020/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/jhlatcmtk9npbrlft4jp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148021/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/eaja3uf8pv3pxedvxw1z.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148022/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/hei63ntuzbi4kqsdaghe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148023/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Ph%C3%BAc%20Long%20-%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0/cl4rgtbsozbpfetpn7lo.jpg"
+    ],
+    "quickActions": [
+      "Không gian máy lạnh",
+      "Phù hợp gặp gỡ"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8866405,
+      "lng": 106.5982457
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Ph%C3%BAc+Long/@10.8866405,106.5982457,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d5001fd1b351:0x4fb15381bd149ae4!8m2!3d10.8866405!4d106.5982457!16s%2Fg%2F11y8rcp4gf?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Highlands Coffee Phan Văn Hớn - Hóc Môn",
+    "district": "Bà Điểm",
+    "group": "Hóc Môn",
+    "address": "2 Đ. Phan Văn Hớn, Bà Điểm, Hồ Chí Minh 70000, Việt Nam",
+    "fullAddress": "2 Đ. Phan Văn Hớn, Bà Điểm, Hồ Chí Minh 70000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.2,
+    "reviews": 107,
+    "hours": "07:00 - 22:00",
+    "phone": "02873010072",
+    "goodReview": "Không gian chuỗi cafe hiện đại, phù hợp gặp gỡ và làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Máy lạnh",
+      "Làm việc",
+      "Chuỗi café"
+    ],
+    "desc": "Chi nhánh Highlands Coffee trên đường Phan Văn Hớn, Bà Điểm.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148042/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/mctkydynqwq7oulktfu2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148043/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/rrhqzid36iwawn1gmz3k.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148044/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/kzv5rnrwkeswvnhdiaca.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148045/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/lfpvqj7h1nmcltgcmptl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148046/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/y0vdymnqjzyllrbtm4iu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148047/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/p11jnnc06cgkweloe3na.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148049/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/ko1lelv1ekhywerc9adn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148050/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%20Phan%20V%C4%83n%20H%E1%BB%9Bn%20-%20H%C3%B3c%20M%C3%B4n/yx7owqlks5obpap5jofn.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp laptop",
+      "Không gian máy lạnh"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8456062,
+      "lng": 106.5932064
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Highlands+Coffee+Phan+V%C4%83n+H%E1%BB%9Bn+-+H%C3%B3c+M%C3%B4n/@10.8456062,106.5906315,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b2c8f078481:0x5f314d4b50e8456e!8m2!3d10.8456062!4d106.5932064!16s%2Fg%2F11ynsxt7hl?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "Highlands Coffee 1800 Nguyễn Ảnh Thủ",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "1800 Đ. Nguyễn Ảnh Thủ, Hóc Môn, Hồ Chí Minh 70000, Việt Nam",
+    "fullAddress": "1800 Đ. Nguyễn Ảnh Thủ, Hóc Môn, Hồ Chí Minh 70000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 179,
+    "hours": "07:00 - 22:00",
+    "phone": "",
+    "goodReview": "Chi nhánh Highlands Coffee có không gian hiện đại và quen thuộc với người trẻ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Máy lạnh",
+      "Làm việc",
+      "Chuỗi café"
+    ],
+    "desc": "Chi nhánh Highlands Coffee tại 1800 Nguyễn Ảnh Thủ, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148068/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/aq50irnttwqjtcqe1xdi.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148069/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/unzntrcnxyt57dvj6gon.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148071/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/r9wwalcfe7boke3i0iwk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148072/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/fyxbpbxbpsj7ahtsktqi.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148073/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/ulx3epnnbjhbeg3ul3ox.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148074/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/z6xsqbnzt6ztdqsvkhnj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148076/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/pvqmbqauyltso1fdcmjz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148079/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/i5thtwaqkcmmlzhakq1z.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148081/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/jriyrsshgnaafy2lkzzp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148082/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/gsjml3zx3voopm3qgbcu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148083/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/jcrdobh6imzp4oiocysz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148084/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Highlands%20Coffee%201800%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7/bg21daci0jiwxsuv89hv.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp làm việc",
+      "Không gian máy lạnh"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8498572,
+      "lng": 106.6023075
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Highlands+Coffee+1800+Nguy%E1%BB%85n+%E1%BA%A2nh+Th%E1%BB%A7/@10.8498572,106.5997326,17z/data=!3m1!4b1!4m6!3m5!1s0x31752b00544c4e3f:0x5e68859d1019c670!8m2!3d10.8498572!4d106.6023075!16s%2Fg%2F11y3dxk_1h?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "WeOne Coffee",
+    "district": "Bà Điểm",
+    "group": "Hóc Môn",
+    "address": "Đ. Nguyễn Ảnh Thủ / 13/5 Nguyễn Thị Hai, Bà Điểm, Hồ Chí Minh 70000, Việt Nam",
+    "fullAddress": "Đ. Nguyễn Ảnh Thủ / 13/5 Nguyễn Thị Hai, Bà Điểm, Hồ Chí Minh 70000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "",
+    "rating": 4.2,
+    "reviews": 314,
+    "hours": "06:00 - 00:00",
+    "phone": "02837127379",
+    "goodReview": "Có lượng đánh giá lớn và mở cửa đến khuya.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Mở khuya",
+      "Café hiện đại"
+    ],
+    "desc": "WeOne Coffee tại khu vực Bà Điểm, phù hợp cho những buổi gặp gỡ hoặc ngồi làm việc lâu.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148103/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/q4kiuh0iyrwtr9ngfkdf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148104/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/fhgxh2xjuwrksewrxm4o.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148105/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/bi5lglxq8sn1ypnujcz5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148106/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/gefmk35kmqtlvnrjqi6a.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148107/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/dvllgf7ssyo4dwqnbcwh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148108/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/i5j5vhnnm5ogxsupwcyr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148109/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/nhq3djahxxrtqlpfiml8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148110/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/p8cc6b1a3rskvkkmzeoo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148111/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/wmblpnrmlo0yypku0hh9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148112/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/WeOne%20Coffee/ezsrbxtbohphlvuz6a2p.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa đến khuya",
+      "Phù hợp ngồi lâu"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8494648,
+      "lng": 106.6022545
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/WeOne+Coffee/@10.8494648,106.5996796,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d7cc2aa0a671:0xa9c723e8894ae6ab!8m2!3d10.8494648!4d106.6022545!16s%2Fg%2F11rf0dm18l?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "See:mê Coffee",
+    "district": "Đông Thạnh",
+    "group": "Hóc Môn",
+    "address": "125 Trịnh Thị Miếng, Đông Thạnh, Hồ Chí Minh 731000, Việt Nam",
+    "fullAddress": "125 Trịnh Thị Miếng, Đông Thạnh, Hồ Chí Minh 731000, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.4,
+    "reviews": 100,
+    "hours": "07:00 - 23:00",
+    "phone": "0896421123",
+    "goodReview": "Không gian trẻ trung, sáng sủa, mát mẻ; nhiều bàn và ổ cắm, Wi-Fi phù hợp chạy deadline.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Deadline",
+      "Wi-Fi",
+      "Ổ cắm"
+    ],
+    "desc": "See:mê Coffee là quán cafe mới tại Hóc Môn với không gian trẻ trung, nhiều bàn làm việc và các vị trí phù hợp mang laptop.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148133/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/xhxfqkdhsnodjzkxexbj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148135/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/oos3zp2kb8lnqtdkndtz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148136/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/jc132dsjisplv6l8x89d.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148137/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/ddllozkvjr36zmyt5lei.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148138/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/shcnkdccgnv5j6szoq9y.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148139/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/hik8yvb0on1wd1qikv3d.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148140/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/mtx76g01rqr7usunj0bl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148141/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/wufq425zuy10htzwjba9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148142/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/lhie2m8fygvonhyovcyv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148143/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/dsg6nrypabgqav81dcll.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148145/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/nx731jx93nigl5xdua7p.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148146/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/betc1knuvpwgcyjdyvue.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148147/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/ltumyoncvndsl7lhzaug.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148149/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Seem%C3%AA%20Coffee/wwacy0wyircrwz32yftu.png"
+    ],
+    "quickActions": [
+      "Nhiều ổ cắm",
+      "Wi-Fi ổn",
+      "Có bàn cao và bàn thấp"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8771871,
+      "lng": 106.6157308
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/See:m%C3%AA+Coffee/@10.8771871,106.6157308,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d54ac28846bf:0x1f74888bb184eb77!8m2!3d10.8771871!4d106.6157308!16s%2Fg%2F11xp1gwdn4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Lá Coffee & Tea",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "23 Đường Xuân Thới 2, Xuân Thới Sơn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "23 Đường Xuân Thới 2, Xuân Thới Sơn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 5,
+    "reviews": 48,
+    "hours": "07:00 - 22:00",
+    "phone": "0987552995",
+    "goodReview": "Được giới thiệu trực tiếp như quán cafe học bài và làm việc, có Wi-Fi, ổ cắm và bàn ghế phù hợp ngồi lâu.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Học bài",
+      "Làm việc",
+      "Wi-Fi"
+    ],
+    "desc": "Lá Coffee & Tea tại Xuân Thới Sơn là lựa chọn hướng tới sinh viên và dân văn phòng cần không gian học tập, làm việc hoặc trò chuyện.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148171/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/mg3znl9uj8roj32ktmoh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148173/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/knhavnyvi2zgdufwqkjy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148177/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/ht5qt1r5zpq1gwouip0f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148182/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/gbj1cznxdnxqwrimgzto.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148188/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/r8ahgfr1mhy1uwwrq1tz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148196/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/vaqi51edvirkzatkgdsv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148197/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/o01edehf35jczny6lode.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148200/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/n7rfymhsgugj9p48mtsv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148202/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/fcvpiy8cxstijgkrgfxm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148204/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/kfyapw41htbrl9g1lzdo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148214/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/iike0uuqwrff83dhp8ay.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148218/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/dwmkwrgpek4sopglxm1m.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148221/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/ai3vnu8edfhpmdmcp8vp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148233/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/lv0tsu2rki9zsqnyth3g.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148246/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%C3%A1%20Coffee%20Tea/xnprwglerjwyeo7e71zj.jpg"
+    ],
+    "quickActions": [
+      "Wi-Fi",
+      "Ổ cắm",
+      "Bàn ghế phù hợp ngồi lâu"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8601,
+      "lng": 106.5784
+    },
+    "fsqId": "",
+    "mapUrl": "https://maps.app.goo.gl/7MmYmPufGJgwRQXv8"
+  },
+  {
+    "id": 11,
+    "name": "Coc's coffee & tea",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "13R26, Xuân Thới Sơn, Hồ Chí Minh, Việt Nam",
+    "fullAddress": "13R26, Xuân Thới Sơn, Hồ Chí Minh, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "20k-25k",
+    "rating": 4.9,
+    "reviews": 51,
+    "hours": "06:00 - 23:00",
+    "phone": "0778822234",
+    "goodReview": "Không gian sạch sẽ, mát mẻ, ánh sáng tốt và có review trực tiếp cho rằng phù hợp chạy deadline.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Máy lạnh",
+      "Sáng sủa",
+      "Deadline"
+    ],
+    "desc": "Coc's Coffee & Tea là quán cafe tại Xuân Thới Sơn, có không gian máy lạnh, menu giá phổ thông và phù hợp học tập hoặc làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148279/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/curwd64bqazvjwlwcyqk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148280/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/vc8znwrmofwk43ggnibz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148281/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/kbd4p0n12gutv7unvucf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148282/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/zmfmtuv5dwymsfsb8ecz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148283/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/wxyarzjij3u1uqoidknj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148284/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/duymfwk7222i9xnfhkf4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148285/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/tpfghfwkamfxzfpepcsm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148287/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/otojajnzvb7k9zknicsu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148295/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/a1jgj6498awyijemiyuj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148296/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/zm3quobjwr3vk7eqb9y7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148297/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Coc%27s%20coffee%20tea/hrgkn0g8xrhnz2wtibjp.jpg"
+    ],
+    "quickActions": [
+      "Máy lạnh",
+      "Không gian sáng",
+      "Phù hợp chạy deadline"
+    ],
+    "menu": [
+      {
+        "cat": "Món best seller",
+        "items": [
+          {
+            "n": "Bạc xỉu đá",
+            "p": "20k"
+          },
+          {
+            "n": "Cà phê muối",
+            "p": "20k"
+          },
+          {
+            "n": "Trà sữa nguyên vị",
+            "p": "25k"
+          },
+          {
+            "n": "Trà sữa matcha Thái",
+            "p": "25k"
+          },
+          {
+            "n": "Sữa tươi trân châu đường đen",
+            "p": "25k"
+          }
+        ]
+      }
+    ],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8593693,
+      "lng": 106.5786866
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Coc's+coffee+%26+tea/@10.8593693,106.5691594,16z/data=!4m10!1m2!2m1!1zQ29jJ3MgY29mZmVlICYgdGVhIDEzUjI2LCBYdcOibiBUaOG7m2kgU8ahbiwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!3m6!1s0x31752b0035ea3a31:0x96cb9fd09e138a6a!8m2!3d10.8593693!4d106.5786866!15sCkdDb2MncyBjb2ZmZWUgJiB0ZWEgMTNSMjYsIFh1w6JuIFRo4bubaSBTxqFuLCBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbVpGIkRjb2MncyBjb2ZmZWUgJiB0ZWEgMTNyMjYgeHXDom4gdGjhu5tpIHPGoW4gaOG7kyBjaMOtIG1pbmggdmnhu4d0IG5hbZIBBGNhZmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTm1YMDE2ZFZoM0VBReABAPoBBAgAED4!16s%2Fg%2F11lymfw9_p?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 12,
+    "name": "Moss&Muse",
+    "district": "Tân Xuân",
+    "group": "Hóc Môn",
+    "address": "34/4K, 34/8 Tân Xuân 6, Ấp Mỹ Hoà 3, Hóc Môn, Hồ Chí Minh 008428, Việt Nam",
+    "fullAddress": "34/4K, 34/8 Tân Xuân 6, Ấp Mỹ Hoà 3, Hóc Môn, Hồ Chí Minh 008428, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 5,
+    "reviews": 1,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Địa điểm mới với đánh giá hiện tại rất cao, nhưng số lượng đánh giá còn ít.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Café mới",
+      "Hiện đại"
+    ],
+    "desc": "Moss&Muse là một quán cafe tại khu vực Tân Xuân, Hóc Môn. Dữ liệu địa điểm hiện tại mới có ít lượt đánh giá nên cần trải nghiệm thực tế để đánh giá khả năng làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148330/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/yqwc5t4vaqkvndomsb6y.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148341/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/gsf0zgxehd8esy8hw00e.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148343/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/tsgjquskpcydgoubjsdr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148344/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/dp82jzlmpy07ld0lvidq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148346/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/ioecdx1z5mb7stqnmin1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148347/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/omunta3oxsqfvtnz3rjn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148348/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/iffbvatjvefkgoly98ah.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148350/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/ioorundse3az1gdo1bvn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148351/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/jmneio1zkd83kqa3ig6t.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148363/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/qjedeu9g2tau5mgp3var.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148364/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/wqsr3yhxmu39uickwbzz.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148366/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/bolisihp8f534kvaxlv6.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148375/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/MossMuse/qsout1n6ogl4mux8bfyw.png"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8720102,
+      "lng": 106.6034773
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Moss%26Muse/@10.8727293,106.600151,17z/data=!4m10!1m2!2m1!1zTW9zcyZNdXNlIDM0LzRLLCAzNC84IFTDom4gWHXDom4gNiwg4bqkcCBN4bu5IEhvw6AgMywgSMOzYyBNw7RuLCBI4buTIENow60gTWluaCAwMDg0MjgsIFZp4buHdCBOYW0!3m6!1s0x31752b005dcb42a9:0xc3d0231a7557110f!8m2!3d10.8720102!4d106.6034773!15sCmJNb3NzJk11c2UgMzQvNEssIDM0LzggVMOibiBYdcOibiA2LCDhuqRwIE3hu7kgSG_DoCAzLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5oIDAwODQyOCwgVmnhu4d0IE5hbVpfIl1tb3NzJm11c2UgMzQgNGsgMzQgOCB0w6JuIHh1w6JuIDYg4bqlcCBt4bu5IGhvw6AgMyBow7NjIG3DtG4gaOG7kyBjaMOtIG1pbmggMDA4NDI4IHZp4buHdCBuYW2SAQtjb2ZmZWVfc2hvcOABAA!16s%2Fg%2F11mz9m8_37?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 13,
+    "name": "6:AM COFFEE",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "81A Lý Thường Kiệt, Hóc Môn, Hồ Chí Minh 71706, Việt Nam",
+    "fullAddress": "81A Lý Thường Kiệt, Hóc Môn, Hồ Chí Minh 71706, Việt Nam",
+    "tag": "Café",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "",
+    "rating": 3.9,
+    "reviews": 116,
+    "hours": "06:00 - 22:00",
+    "phone": "0901688228",
+    "goodReview": "Quán hoạt động từ sáng sớm đến tối và có lượng đánh giá tương đối lớn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Mở cửa sớm",
+      "Cà phê"
+    ],
+    "desc": "6:AM COFFEE trên đường Lý Thường Kiệt, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148393/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/y6auzns8f5wb9vsir62f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148394/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/dlcqlfmrjq1adfsj0zoq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148395/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/ygfpynh1cdtis6fgshna.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148396/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/v0u4snp9qfyyjmknnxiu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148397/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/xj6j60mttiyb1opjjt6e.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148399/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/wklk2f5vvopg3kwz0tji.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148400/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/or9vzb57lzghgwfsnm22.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148401/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/pdzgijzkizj7mlsoeffe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148403/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/zbe0rjivgdhio7je5h5x.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148404/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/c8bbjxsiuw1ow9nyxkka.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148405/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/bhcrxveltzvelb9pklud.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148406/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/poxyagnn7debefmipm9h.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148408/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/yawdgisevh5eaynhhfof.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148409/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/6AM%20COFFEE/vy8ufksinecfmwh2rius.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa từ 06:00",
+      "Phù hợp buổi sáng"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8842,
+      "lng": 106.5975
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  }
+]

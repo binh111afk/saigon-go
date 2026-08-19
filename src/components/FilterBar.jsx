@@ -45,7 +45,7 @@ export default function FilterBar({
   ];
 
   const prices = ['Tất cả', 'Dưới 150k', '150k - 350k', '350k - 600k', 'Trên 600k'];
-  const categories = ['Tất cả', 'Rooftop', 'Café', 'Sân vườn', 'Nhà hàng', 'Bar'];
+  const categories = ['Tất cả', 'Café', 'Sân vườn', 'Ăn vặt', 'Ẩm thực', 'Giải trí', 'Đi dạo'];
   const features = ['Tất cả', 'View đẹp', 'Riêng tư', 'Lưu ý thực tế (Has Bad)'];
 
   const sortOptions = [

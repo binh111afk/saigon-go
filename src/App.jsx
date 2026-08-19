@@ -165,16 +165,20 @@ export default function App() {
         const vTag = (v.tag || '').toLowerCase();
         const vCat = (v.category || '').toLowerCase();
 
-        if (cat === 'rooftop') {
-          if (!vTag.includes('rooftop') && !vCat.includes('rooftop') && !v.name.toLowerCase().includes('rooftop') && !v.name.toLowerCase().includes('skybar')) return false;
-        } else if (cat === 'café') {
-          if (!vTag.includes('café') && !vTag.includes('cafe') && !vCat.includes('cafe') && !vCat.includes('garden')) return false;
-        } else if (cat === 'sân vườn') {
-          if (!vTag.includes('sân vườn') && !vCat.includes('garden') && !v.name.toLowerCase().includes('vườn') && !v.name.toLowerCase().includes('sân vườn')) return false;
-        } else if (cat === 'nhà hàng') {
-          if (!vTag.includes('nhà hàng') && !vCat.includes('restaurant') && !vCat.includes('bistro')) return false;
-        } else if (cat === 'bar') {
-          if (!vTag.includes('bar') && !vCat.includes('bar') && !vCat.includes('lounge')) return false;
+        if (cat === 'café' || cat === 'cà phê' || cat === 'cafe') {
+          if (vCat === 'garden' || vTag.includes('sân vườn')) return false;
+          if (vCat !== 'cafe' && !vTag.includes('café') && !vTag.includes('cafe')) return false;
+        } else if (cat === 'sân vườn' || cat === 'san vuon') {
+          if (vCat === 'cafe') return false;
+          if (vCat !== 'garden' && !vTag.includes('sân vườn') && !v.name.toLowerCase().includes('vườn')) return false;
+        } else if (cat === 'ăn vặt') {
+          if (vCat !== 'snack' && !vTag.includes('ăn vặt')) return false;
+        } else if (cat === 'ẩm thực') {
+          if (vCat !== 'food' && vCat !== 'restaurant' && !vTag.includes('ẩm thực') && !vTag.includes('nhà hàng')) return false;
+        } else if (cat === 'giải trí') {
+          if (vCat !== 'entertainment' && !vTag.includes('giải trí')) return false;
+        } else if (cat === 'đi dạo') {
+          if (vCat !== 'stroll' && !vTag.includes('đi dạo') && !vTag.includes('công viên')) return false;
         }
       }
 
@@ -220,8 +224,11 @@ export default function App() {
   }, [searchTerm, selectedDistrict, selectedPrice, selectedCategory, selectedFeature, sortBy, districtKeywordMap]);
 
   const featuredVenue = useMemo(() => {
-    return venuesData.find((v) => v.rating >= 4.8 && v.reviews > 150) || venuesData[0];
-  }, []);
+    if (filteredVenues.length > 0) {
+      return filteredVenues.find((v) => v.rating >= 4.7 && v.reviews >= 50) || filteredVenues[0];
+    }
+    return venuesData.find((v) => v.rating >= 4.8) || venuesData[0];
+  }, [filteredVenues]);
 
   const handleOpenFavoritesOnly = () => {
     if (favoriteIds.length === 0) {
@@ -261,11 +268,15 @@ export default function App() {
         activeFilterCount={activeFilterCount}
       />
 
-      <FeaturedCard
-        venue={featuredVenue}
-        onSelect={setSelectedVenue}
-        onShare={handleShare}
-      />
+      {featuredVenue && (
+        <FeaturedCard
+          venue={featuredVenue}
+          isFavorite={favoriteIds.includes(featuredVenue.id)}
+          onToggleFavorite={handleToggleFavorite}
+          onSelect={setSelectedVenue}
+          onShare={handleShare}
+        />
+      )}
 
       <VenueGrid
         venues={filteredVenues}

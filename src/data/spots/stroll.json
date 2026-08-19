@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Công viên du lịch sinh thái Hóc Môn",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "106 Xuân Thới Thượng, 6, Xuân Thới Sơn, Hồ Chí Minh",
+    "fullAddress": "106 Xuân Thới Thượng, 6, Xuân Thới Sơn, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "",
+    "rating": 4.2,
+    "reviews": 535,
+    "hours": "",
+    "phone": "0932162182",
+    "goodReview": "Công viên du lịch sinh thái quy mô lớn tại khu vực Hóc Môn, phù hợp vui chơi và thư giãn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên",
+      "Sinh thái",
+      "Vui chơi",
+      "Đi nhóm"
+    ],
+    "desc": "Công viên du lịch sinh thái Hóc Môn tại 106 Xuân Thới Thượng.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153019/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/sgeidfv8nzwvl9ok6hkk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153027/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/nu8ra1ynsusjqhoia8ha.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153030/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/adhibdknlnzk4k3zj89l.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153032/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/iuw9igtwjz9h5em2psbn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153035/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/dg63qe7osg2ge00ro4ct.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153037/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/vmm807a2v3rj0spwi2dg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153040/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20du%20l%E1%BB%8Bch%20sinh%20th%C3%A1i%20H%C3%B3c%20M%C3%B4n/si8xz2gecrsipynnjlcq.jpg"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.857752,
+      "lng": 106.5817266
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+du+l%E1%BB%8Bch+sinh+th%C3%A1i+H%C3%B3c+M%C3%B4n/@10.857752,106.5817266,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bc1df649201:0x481db1e94e761443!8m2!3d10.857752!4d106.5817266!16s%2Fg%2F11ty4t_9j7?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Rin Rin Park",
+    "district": "Xuân Thới Đông",
+    "group": "Hóc Môn",
+    "address": "87/8P Đường Xuân Thới Thượng 6, Ấp Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "87/8P Đường Xuân Thới Thượng 6, Ấp Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Hồ Chí Minh",
+    "tag": "Công viên cá Koi",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "50k-100k",
+    "rating": 3.5,
+    "reviews": 19,
+    "hours": "",
+    "phone": "02835901959",
+    "goodReview": "Công viên phong cách Nhật Bản với hồ cá Koi, bonsai và nhiều không gian chụp ảnh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Cá Koi",
+      "Phong cách Nhật Bản",
+      "Check-in",
+      "Đi dạo"
+    ],
+    "desc": "Rin Rin Park là công viên chủ đề phong cách Nhật Bản tại Hóc Môn, nổi bật với hồ cá Koi và cảnh quan bonsai.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152995/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/czwmbxkk5rsydlznjvq7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152998/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/vi4pvcqxy5myagoowi2x.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153001/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/c7mzdep8a5wq809mpljg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153004/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/vxdtyyycxnlpln3ccsw1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153007/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/sw2ehl4qavb3cd5zx2tn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153011/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/zee6wrzyqd7jozrayz4s.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153014/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/mmq0qc5yyfqg6odcyzm6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153017/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/Rin%20Rin%20Park/oubjmf1c6t7ovvdqhowh.jpg"
+    ],
+    "quickActions": [
+      "Check-in",
+      "Ngắm cá Koi"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.857752,
+      "lng": 106.5817266
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+du+l%E1%BB%8Bch+sinh+th%C3%A1i+H%C3%B3c+M%C3%B4n/@10.857752,106.5793448,18z/data=!4m10!1m2!2m1!1zUmluIFJpbiBQYXJrIDg3LzhQIMSQxrDhu51uZyBYdcOibiBUaOG7m2kgVGjGsOG7o25nIDYsIOG6pHAgWHXDom4gVGjhu5tpIMSQw7RuZyAxLCBYdcOibiBUaOG7m2kgxJDDtG5nLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5o!3m6!1s0x31752bc1df649201:0x481db1e94e761443!8m2!3d10.857752!4d106.5817266!15sCoEBUmluIFJpbiBQYXJrIDg3LzhQIMSQxrDhu51uZyBYdcOibiBUaOG7m2kgVGjGsOG7o25nIDYsIOG6pHAgWHXDom4gVGjhu5tpIMSQw7RuZyAxLCBYdcOibiBUaOG7m2kgxJDDtG5nLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5oWn8ifXJpbiByaW4gcGFyayA4NyA4cCDEkcaw4budbmcgeHXDom4gdGjhu5tpIHRoxrDhu6NuZyA2IOG6pXAgeHXDom4gdGjhu5tpIMSRw7RuZyAxIHh1w6JuIHRo4bubaSDEkcO0bmcgaMOzYyBtw7RuIGjhu5MgY2jDrSBtaW5okgEEcGFya5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSYWQzQXRMWGRCUlJBQuABAPoBBAgAED0!16s%2Fg%2F11ty4t_9j7?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Công viên Chợ Hóc Môn",
+    "district": "Hóc Môn",
+    "group": "Hóc Môn",
+    "address": "Đ. Quang Trung, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "Đ. Quang Trung, Hóc Môn, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.1,
+    "reviews": 14,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian công cộng tại khu vực trung tâm Hóc Môn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên",
+      "Đi dạo",
+      "Công cộng"
+    ],
+    "desc": "Công viên nằm gần khu vực Chợ Hóc Môn trên đường Quang Trung.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153041/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Ch%E1%BB%A3%20H%C3%B3c%20M%C3%B4n/vuyfw1scvdpsik5i8xkk.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153043/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Ch%E1%BB%A3%20H%C3%B3c%20M%C3%B4n/egimuntf0d6v7vcgky5b.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153044/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Ch%E1%BB%A3%20H%C3%B3c%20M%C3%B4n/vpb7owb8nykdm5bo7h1t.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153045/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Ch%E1%BB%A3%20H%C3%B3c%20M%C3%B4n/ngndam7jm2pdv7yw8dxt.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153047/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Ch%E1%BB%A3%20H%C3%B3c%20M%C3%B4n/xtydpxmvd5qcftilvdr9.webp"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.884,
+      "lng": 106.5968
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 4,
+    "name": "Công Viên Bùi Môn",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "VH8W+FWX, Xuân Thới Sơn, Hồ Chí Minh",
+    "fullAddress": "VH8W+FWX, Xuân Thới Sơn, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.5,
+    "reviews": 10,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Công viên địa phương tại khu vực Bùi Môn, Hóc Môn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên",
+      "Đi dạo",
+      "Không gian xanh"
+    ],
+    "desc": "Công Viên Bùi Môn nằm tại khu vực Xuân Thới Sơn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151895/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/g1reu1rcvzw5nqf3r0xv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151896/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/bgblkll11cnqv5ysxp5d.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151897/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/dfzbyjmifdgpdilwtmhs.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151898/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/zhvltixynpgpwm9l7ny4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151899/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/ir8ry7leajffo6gw8pci.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151900/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/mq3dwkuofjxzvs567zyo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151901/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/m0ptxdmy6eu8jdhayb0m.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151903/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20B%C3%B9i%20M%C3%B4n/gu1zb8vtbfevch186oqh.jpg"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8762,
+      "lng": 106.5821
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "Công viên xã Tân Thới Nhì",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "3 Đ. Tân Thới Nhì 8, Xuân Thới Sơn, Hồ Chí Minh",
+    "fullAddress": "3 Đ. Tân Thới Nhì 8, Xuân Thới Sơn, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 5,
+    "reviews": 4,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Công viên địa phương tại khu vực Tân Thới Nhì cũ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên",
+      "Đi dạo",
+      "Không gian xanh"
+    ],
+    "desc": "Công viên xã Tân Thới Nhì, hiện thuộc địa bàn xã Xuân Thới Sơn sau sắp xếp hành chính.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153048/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20x%C3%A3%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/kxhgmxtv7htayznhjv1r.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153053/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20x%C3%A3%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/pad2bt1vzjxjhnt2zuiz.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153054/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20x%C3%A3%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/lutxs82opvpgytqqoln2.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153055/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20x%C3%A3%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/rslsb2zypxq3cpmajqif.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153057/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20x%C3%A3%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/gn2fdsqoeip8spm1aiw5.webp",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787153058/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20x%C3%A3%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/erchulv7kzwt2e7iibfe.webp"
+    ],
+    "quickActions": [],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.88944,
+      "lng": 106.5764966
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+x%C3%A3+T%C3%A2n+Th%E1%BB%9Bi+Nh%C3%AC/@10.88944,106.571733,17z/data=!4m10!1m2!2m1!1zQ8O0bmcgdmnDqm4geMOjIFTDom4gVGjhu5tpIE5ow6wgMyDEkC4gVMOibiBUaOG7m2kgTmjDrCA4LCBYdcOibiBUaOG7m2kgU8ahbiwgSOG7kyBDaMOtIE1pbmg!3m6!1s0x3174d593b707cae3:0x2fab6b35849aaed0!8m2!3d10.88944!4d106.5764966!15sClxDw7RuZyB2acOqbiB4w6MgVMOibiBUaOG7m2kgTmjDrCAzIMSQLiBUw6JuIFRo4bubaSBOaMOsIDgsIFh1w6JuIFRo4bubaSBTxqFuLCBI4buTIENow60gTWluaJIBBHBhcmvgAQA!16s%2Fg%2F11j437xqm7?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Công Viên Văn Hoá Tân Thới Nhì",
+    "district": "Xuân Thới Sơn",
+    "group": "Hóc Môn",
+    "address": "VHRG+59H, Xuân Thới Sơn, Hồ Chí Minh",
+    "fullAddress": "VHRG+59H, Xuân Thới Sơn, Hồ Chí Minh",
+    "tag": "Công viên văn hóa",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.5,
+    "reviews": 64,
+    "hours": "04:00 - 22:00",
+    "phone": "0839291480",
+    "goodReview": "Công viên văn hóa tại khu vực Tân Thới Nhì cũ, có giờ hoạt động được ghi nhận từ 04:00 đến 22:00.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên văn hóa",
+      "Đi dạo",
+      "Thể dục"
+    ],
+    "desc": "Công Viên Văn Hoá Tân Thới Nhì hiện nằm trong địa bàn xã Xuân Thới Sơn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151958/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/nso36oi6jmkoh8250fro.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151959/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/yu1cpgiuippg27qhltyf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151960/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/dqtc6dsc2nin0xscgucn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151961/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/knv6pzi8cviztl9smkdh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151963/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/wybfit7f2ada7kj1cxrn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151963/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/vq4wmbwexlscxpewsq9m.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151964/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/mkjgnqtrzegljde7uhl0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151966/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20V%C4%83n%20Ho%C3%A1%20T%C3%A2n%20Th%E1%BB%9Bi%20Nh%C3%AC/sewp39bao3i5qwjd2guz.jpg"
+    ],
+    "quickActions": [
+      "Mở cửa từ sáng sớm",
+      "Phù hợp tập thể dục"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.8904477,
+      "lng": 106.5759716
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+Vi%C3%AAn+V%C4%83n+Ho%C3%A1+T%C3%A2n+Th%E1%BB%9Bi+Nh%C3%AC/@10.8904477,106.571208,17z/data=!4m10!1m2!2m1!1zQ8O0bmcgVmnDqm4gVsSDbiBIb8OhIFTDom4gVGjhu5tpIE5ow6wgVkhSRys1OUgsIFh1w6JuIFRo4bubaSBTxqFuLCBI4buTIENow60gTWluaA!3m6!1s0x3174d5cbf5c2ed4f:0xd2dc2daf0d0a8b4f!8m2!3d10.8904477!4d106.5759716!15sClJDw7RuZyBWacOqbiBWxINuIEhvw6EgVMOibiBUaOG7m2kgTmjDrCBWSFJHKzU5SCwgWHXDom4gVGjhu5tpIFPGoW4sIEjhu5MgQ2jDrSBNaW5oWlIiUGPDtG5nIHZpw6puIHbEg24gaG_DoSB0w6JuIHRo4bubaSBuaMOsIHZocmcgNTloIHh1w6JuIHRo4bubaSBzxqFuIGjhu5MgY2jDrSBtaW5okgEEcGFya5oBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOaWFWbGxOMUozRUFF4AEA-gEECC4QOg!16s%2Fg%2F11hzcqh625?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "Công viên thiếu nhi Xã Đông Thạnh",
+    "district": "Đông Thạnh",
+    "group": "Hóc Môn",
+    "address": "306D Đặng Thúc Vịnh, Ấp 7, Đông Thạnh, Hồ Chí Minh",
+    "fullAddress": "306D Đặng Thúc Vịnh, Ấp 7, Đông Thạnh, Hồ Chí Minh",
+    "tag": "Công viên thiếu nhi",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.4,
+    "reviews": 44,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Công viên dành cho trẻ em và hoạt động vui chơi cộng đồng.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Trẻ em",
+      "Công viên",
+      "Gia đình",
+      "Vui chơi"
+    ],
+    "desc": "Công viên thiếu nhi Xã Đông Thạnh nằm trên đường Đặng Thúc Vịnh.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151983/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/yogtju5rxjaeekmvhju4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151985/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/sofsunko6dzudp0sacbe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151986/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/i7cg3ly938geokhf4xdf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151987/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/bqoeekvxckjtpql5gbhg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151988/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/teu3crsepjewnhf0jwok.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151989/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/bhgvwxo85gn8uyagktfa.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787151990/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20thi%E1%BA%BFu%20nhi%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh/xmgjhs7mgbchyufzcya1.jpg"
+    ],
+    "quickActions": [
+      "Phù hợp gia đình",
+      "Khu vui chơi trẻ em"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.9052476,
+      "lng": 106.6362985
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+thi%E1%BA%BFu+nhi+X%C3%A3+%C4%90%C3%B4ng+Th%E1%BA%A1nh/@10.9052476,106.6362985,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d75fe8f35d2f:0x964f754cba35de42!8m2!3d10.9052476!4d106.6362985!16s%2Fg%2F11j0j14hqc?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Công viên Rạch Tra",
+    "district": "Đông Thạnh",
+    "group": "Hóc Môn",
+    "address": "Đường Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Hồ Chí Minh",
+    "fullAddress": "Đường Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian công cộng ven khu vực Rạch Tra, phù hợp đi bộ và hoạt động ngoài trời.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên",
+      "Rạch Tra",
+      "Đi bộ",
+      "Không gian xanh"
+    ],
+    "desc": "Công viên Rạch Tra nằm trên đường Đặng Thúc Vịnh, khu vực Đông Thạnh, Hóc Môn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152008/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/kbr7gsfrnk0vsgtllcvr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152010/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/narfcrjda5fyjgklt4nb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152011/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/dqoefxfvzmbtnrkmewll.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152012/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/j0wdfu9coh3asce8gog1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152014/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/ncmdkryfbyusuwijqiv7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152015/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/lburjpuadp7snytvxhec.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152016/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/iuo6nyqy4vbtmprjzsui.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152017/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20R%E1%BA%A1ch%20Tra/qzveq77ovbnktol0myev.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Hoạt động ngoài trời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.91618,
+      "lng": 106.64823
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+Vi%C3%AAn+C%E1%BA%A7u+R%E1%BA%A1ch+Tra/@10.9168623,106.649217,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d666d18359ff:0x29096c5f27ec1222!8m2!3d10.9168623!4d106.649217!16s%2Fg%2F11bw3y9rx0?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Công Viên Nước Ánh Dương Hóc Môn",
+    "district": "Đông Thạnh",
+    "group": "Hóc Môn",
+    "address": "979 Đặng Thúc Vịnh, Đông Thạnh, Hồ Chí Minh",
+    "fullAddress": "979 Đặng Thúc Vịnh, Đông Thạnh, Hồ Chí Minh",
+    "tag": "Công viên nước",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "",
+    "rating": null,
+    "reviews": null,
+    "hours": "08:30 - 20:30",
+    "phone": "",
+    "goodReview": "Công viên nước mới khai trương năm 2026, có hồ bơi trẻ em, hồ bơi người lớn, khu ẩm thực, hồ cá Koi và khu nuôi thú.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên nước",
+      "Hồ bơi",
+      "Gia đình",
+      "Cá Koi",
+      "Ẩm thực"
+    ],
+    "desc": "Công Viên Nước Ánh Dương là khu vui chơi giải trí tại Đặng Thúc Vịnh, diện tích khoảng 11.000 m², khai trương ngày 07/03/2026.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152034/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/ynlyjh1rlf0sgpqfe9ko.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152035/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/rora8ify3vuuhlqtgf2y.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152037/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/qbehzo0hiqymnnbd5lpc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152038/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/zxwg2kj0yejvuiapppdw.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152039/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/dqeqgq3ztssydupqlkkt.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152040/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/df8y9imzz6yjzidnzgtl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152042/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/ak4ykc1csqclfclgaqcl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787152043/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20Vi%C3%AAn%20N%C6%B0%E1%BB%9Bc%20%C3%81nh%20D%C6%B0%C6%A1ng%20H%C3%B3c%20M%C3%B4n/qv9cpydxrnjmauwyndgd.jpg"
+    ],
+    "quickActions": [
+      "Hồ bơi trẻ em",
+      "Hồ bơi người lớn",
+      "Khu ẩm thực"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.9125,
+      "lng": 106.641
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  }
+]
