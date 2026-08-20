@@ -54,96 +54,6 @@
   },
   {
     "id": 2,
-    "name": "Cà Phê Kem HP",
-    "district": "Tân Xuân",
-    "group": "Hóc Môn",
-    "address": "307l Tô Ký, Hóc Môn, Hồ Chí Minh, Việt Nam",
-    "fullAddress": "307l Tô Ký, Hóc Môn, Hồ Chí Minh, Việt Nam",
-    "tag": "Sân Vườn",
-    "tagClass": "tag-garden",
-    "category": "garden",
-    "price": "",
-    "rating": 4.2,
-    "reviews": 49,
-    "hours": "06:00 - 22:00",
-    "phone": "",
-    "goodReview": "Phục vụ cà phê, kem và các loại thức uống phổ biến.",
-    "badReview": "",
-    "hasBad": false,
-    "viewDep": false,
-    "tags": [
-      "Kem",
-      "Cà phê"
-    ],
-    "desc": "Cà Phê Kem HP là quán cafe/dessert tại 307L Tô Ký, Hóc Môn.",
-    "images": [
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148463/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/wvml8ddwayci6nmy0hqa.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148464/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/j5q5c42qovvdrqrqaqsv.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148466/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/ifkqxx5msmepuc4ugw49.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148467/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/bemjhetxuhdsju7ssnz6.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148468/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/vmryl7oknnxtp89xumq3.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148470/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/nd0ekpeoemyge1t9q4pv.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148471/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/p7lrvhldelsndzeipmds.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148472/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/ogh2ias6mjdhldxf9yuo.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148473/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/uvqi58dcqquxl1bd2dnk.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148475/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20Kem%20HP/e4qr2u6th8kc1c1nqiqx.jpg"
-    ],
-    "quickActions": [
-      "Có chỗ đậu ô tô",
-      "Có khu vực ngoài trời"
-    ],
-    "menu": [],
-    "reviewList": [],
-    "geo": {
-      "lat": 10.8813514,
-      "lng": 106.6083013
-    },
-    "fsqId": "",
-    "mapUrl": "https://www.google.com/maps/place/C%C3%A0+Ph%C3%AA+Kem+HP+%7C+C%C3%A0+Ph%C3%AA+View+%C4%90%E1%BA%B9p+H%C3%B3c+M%C3%B4n+%7C+Kem+Ngon+H%C3%B3c+M%C3%B4n/@10.8813514,106.6083013,17z/data=!3m1!4b1!4m6!3m5!1s0x31752bd17c6fb23f:0xd006f7b341d322d9!8m2!3d10.8813514!4d106.6083013!16s%2Fg%2F11l2s2hzhg?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
-  },
-  {
-    "id": 3,
-    "name": "Cafe Koc Hoc Mon",
-    "district": "Hóc Môn",
-    "group": "Hóc Môn",
-    "address": "24 Trần Khắc Chân, Hóc Môn, Hồ Chí Minh, Việt Nam",
-    "fullAddress": "24 Trần Khắc Chân, Hóc Môn, Hồ Chí Minh, Việt Nam",
-    "tag": "Sân Vườn",
-    "tagClass": "tag-garden",
-    "category": "garden",
-    "price": "",
-    "rating": 4.1,
-    "reviews": 57,
-    "hours": "06:00 - 21:00",
-    "phone": "",
-    "goodReview": "Google được ghi nhận mức 4.1/5 với 58 lượt đánh giá trong nguồn tham khảo.",
-    "badReview": "",
-    "hasBad": false,
-    "viewDep": false,
-    "tags": [
-      "Cà phê"
-    ],
-    "desc": "Cafe Koc Hoc Mon là quán cà phê tại số 24 Trần Khắc Chân, Hóc Môn.",
-    "images": [
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148497/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20Koc%20Hoc%20Mon/sqn5owus4zbsa3zgbgwr.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148498/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20Koc%20Hoc%20Mon/rb8pbplb2ggcshx7jbnu.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148499/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20Koc%20Hoc%20Mon/cwcxmxwjjw2bqfmemidi.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148500/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20Koc%20Hoc%20Mon/mwjnmnaiksstocjskjci.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148501/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20Koc%20Hoc%20Mon/nimfhjob8gjrsnf4utsw.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148503/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20Koc%20Hoc%20Mon/aaf8psyzntnk6ijugkgk.jpg"
-    ],
-    "quickActions": [],
-    "menu": [],
-    "reviewList": [],
-    "geo": {
-      "lat": 10.8900214,
-      "lng": 106.594974
-    },
-    "fsqId": "",
-    "mapUrl": "https://www.google.com/maps/place/Cafe+Koc+Hoc+Mon/@10.8900214,106.594974,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58f1aa5cc63:0xafed078d2839609c!8m2!3d10.8900214!4d106.594974!16s%2Fg%2F11b727pcrw?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
-  },
-  {
-    "id": 4,
     "name": "Cafe Không Gian Việt",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -193,7 +103,7 @@
     "mapUrl": "https://www.google.com/maps/place/Cafe+Kh%C3%B4ng+Gian+Vi%E1%BB%87t/@10.9080104,106.5857228,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58b1658ef7d:0x8ab58ef5f47f6e1b!8m2!3d10.9080104!4d106.5857228!16s%2Fg%2F11f7bdkmnx?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 5,
+    "id": 3,
     "name": "VườnCủaGió",
     "district": "Tân Hiệp",
     "group": "Hóc Môn",
@@ -241,7 +151,7 @@
     "mapUrl": "https://www.google.com/maps/place/V%C6%B0%E1%BB%9DnC%E1%BB%A7aGi%C3%B3/@10.894029,106.5894197,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d50017fabb39:0x671ed347dadd7ea6!8m2!3d10.894029!4d106.5894197!16s%2Fg%2F11y455ghgj?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 6,
+    "id": 4,
     "name": "The Bis Coffee",
     "district": "Tân Xuân",
     "group": "Hóc Môn",
@@ -288,7 +198,7 @@
     "mapUrl": "https://www.google.com/maps/place/The+Bis+Coffee/@10.8896186,106.593216,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d577842ac679:0x29a34c28328bc008!8m2!3d10.8896186!4d106.593216!16s%2Fg%2F11st0pdhwr?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 7,
+    "id": 5,
     "name": "Coffee 2k5",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -342,7 +252,7 @@
     "mapUrl": "https://www.google.com/maps/place/Coffee+2k5+%7C+Coffee+view+%C4%91%E1%BA%B9p+h%C3%B3c+m%C3%B4n/@10.887364,106.5853449,17z/data=!3m1!4b1!4m15!1m8!3m7!1s0x3174d50031658a95:0xaecaf3f9b97f5dcf!2zQ29mZmVlIDJrNSB8IENvZmZlZSB2aWV3IMSR4bq5cCBow7NjIG3DtG4!8m2!3d10.887364!4d106.5879198!10e9!16s%2Fg%2F11y6khp1k0!3m5!1s0x3174d50031658a95:0xaecaf3f9b97f5dcf!8m2!3d10.887364!4d106.5879198!16s%2Fg%2F11y6khp1k0?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 8,
+    "id": 6,
     "name": "GUTA CAFE HÓC MÔN",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -499,7 +409,7 @@
     "mapUrl": "https://www.google.com/maps/place/GUTA+CAFE+H%C3%93C+M%C3%94N/@10.8912691,106.5908269,17z/data=!4m10!1m2!2m1!1zR1VUQSBDQUZFIEjDk0MgTcOUTiA0Ni85IMSQLiBMacOqbiBYw6MgVGjhu4sgVHLhuqVuLVTDom4gSGnhu4dwLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!3m6!1s0x3174d50012618bcf:0x6ba0ae6ffe0f9de6!8m2!3d10.8912691!4d106.5955905!15sCmZHVVRBIENBRkUgSMOTQyBNw5ROIDQ2LzkgxJAuIExpw6puIFjDoyBUaOG7iyBUcuG6pW4tVMOibiBIaeG7h3AsIEjDs2MgTcO0biwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW1aZCJiZ3V0YSBjYWZlIGjDs2MgbcO0biA0NiA5IMSRIGxpw6puIHjDoyB0aOG7iyB0cuG6pW4gdMOibiBoaeG7h3AgaMOzYyBtw7RuIGjhu5MgY2jDrSBtaW5oIHZp4buHdCBuYW2SAQtjb2ZmZWVfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeENkMVZGU25kalNHZzBWVVJHTldJeFFrUmhNamw2VmxWNFlWZHVZeEFC4AEA-gEECAAQFg!16s%2Fg%2F11zwmzqnjk?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 9,
+    "id": 7,
     "name": "Key Coffee - Hóc Môn",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -637,7 +547,7 @@
     "mapUrl": "https://www.google.com/maps/place/Key+Coffee+-+H%C3%B3c+M%C3%B4n/@10.8902786,106.5931326,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d5b2cdf8eea9:0xce16ec79fd33730f!8m2!3d10.8902786!4d106.5931326!16s%2Fg%2F11t9t7j2jh?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 10,
+    "id": 8,
     "name": "XCOFFEE HOOCMON",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -688,7 +598,7 @@
     "mapUrl": "https://www.google.com/maps/place/XCOFFEE+HOOCMON/@10.8866936,106.5983834,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58e6ab65f2d:0xf18560986823b524!8m2!3d10.8866936!4d106.5983834!16s%2Fg%2F11fj32l9wq?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "Zen Coffee and Tea House",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -771,7 +681,7 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Zen%20Coffee%20and%20Tea%20House%2062%2F20%20%C4%90.%20Quang%20Trung%2C%20Khu%20ph%E1%BB%91%208%2C%20Th%E1%BB%8B%20tr%E1%BA%A5n%20H%C3%B3c%20M%C3%B4n%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "Cafe Xưa Và Nay",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -950,7 +860,7 @@
     "mapUrl": "https://www.google.com/maps/place/Cafe+X%C6%B0a+V%C3%A0+Nay/@10.8748228,106.5984821,3a,75y,90t/data=!3m7!1e2!3m5!1sCIABIhAnnT0Vvb7I0e2ALv7TpqpS!2e10!3e12!7i3024!8i4032!4m7!3m6!1s0x31752bda79bbb981:0xccf9874b1ffd226c!8m2!3d10.8748473!4d106.5983919!10e9!16s%2Fg%2F11j7dz4w48?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 13,
+    "id": 11,
     "name": "Cafe Tri Kỷ",
     "district": "Tân Xuân",
     "group": "Hóc Môn",
@@ -1117,7 +1027,7 @@
     "mapUrl": "https://www.google.com/maps/place/Cafe+Tri+K%E1%BB%B7/@10.8788319,106.5952133,17z/data=!3m1!4b1!4m6!3m5!1s0x31752a77104dbffb:0xeffbe1687d6be220!8m2!3d10.8788319!4d106.5952133!16s%2Fg%2F11y22yyl4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 14,
+    "id": 12,
     "name": "Quán cà phê Quốc Việt",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -1298,7 +1208,7 @@
     "mapUrl": "https://www.google.com/maps/place/Qu%C3%A1n+c%C3%A0+ph%C3%AA+Qu%E1%BB%91c+Vi%E1%BB%87t/@10.8849446,106.5960301,17z/data=!4m15!1m8!3m7!1s0x3174d58976c1ea89:0x2b6533fa517b8f00!2zUXXDoW4gY8OgIHBow6ogUXXhu5FjIFZp4buHdA!8m2!3d10.8849446!4d106.5985997!10e9!16s%2Fg%2F11cscc8pb0!3m5!1s0x3174d58976c1ea89:0x2b6533fa517b8f00!8m2!3d10.8849446!4d106.5985997!16s%2Fg%2F11cscc8pb0?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 15,
+    "id": 13,
     "name": "Cafe 24H",
     "district": "Tân Xuân",
     "group": "Hóc Môn",
@@ -1342,7 +1252,7 @@
     "mapUrl": "https://www.google.com/maps/place/Cafe+24H/@10.879197,106.5880657,17z/data=!4m10!1m2!2m1!1zQ2FmZSAyNEggMSBCw6AgVHJp4buHdSwgVMOibiBYdcOibiwgSMOzYyBNw7RuLCBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!3m6!1s0x31752a79cc27a67d:0xcae7c9ca9076c91d!8m2!3d10.879197!4d106.5928293!15sCklDYWZlIDI0SCAxIELDoCBUcmnhu4d1LCBUw6JuIFh1w6JuLCBIw7NjIE3DtG4sIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFtWkciRWNhZmUgMjRoIDEgYsOgIHRyaeG7h3UgdMOibiB4dcOibiBow7NjIG3DtG4gaOG7kyBjaMOtIG1pbmggdmnhu4d0IG5hbZIBBGNhZmWaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjF6TkdWRk1WaFhSMnhNVkZkek1XVnRiRWhOVkU1Q1VUSm9kVTlIWXhBQuABAPoBBAgAECI!16s%2Fg%2F11h0xs7qb?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 16,
+    "id": 14,
     "name": "HQ Coffee",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -1368,7 +1278,12 @@
     "images": [
       "https://res.cloudinary.com/dikychaux/image/upload/v1787148898/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/poleaqjipuoqomewesuq.jpg",
       "https://res.cloudinary.com/dikychaux/image/upload/v1787148899/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/a6suqngvbdvgw7kyvgzr.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148900/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/kpek8it2tlznbojotmar.jpg"
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787148900/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/kpek8it2tlznbojotmar.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230093/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/ddypytvwqv833iwizxjz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230095/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/wh6etncz1yhqbfy7mn7e.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230097/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/r1gcud4yhhjvch1oh840.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230099/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/vnslaz9frlnhhp5xxr3c.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230100/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/HQ%20Coffee/wdvdxpeci9eriry0vxwq.jpg"
     ],
     "quickActions": [],
     "menu": [],
@@ -1381,54 +1296,7 @@
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=HQ%20Coffee%2010%2F9B%2C%20Khu%20ph%E1%BB%91%208%2C%20H%C3%B3c%20M%C3%B4n%2C%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam"
   },
   {
-    "id": 17,
-    "name": "SAPA COFFEE 24H - Bà Triệu",
-    "district": "Hóc Môn",
-    "group": "Hóc Môn",
-    "address": "62 Bà Triệu, Khu Pho 2, Hóc Môn, Hồ Chí Minh 71700, Việt Nam",
-    "fullAddress": "62 Bà Triệu, Khu Pho 2, Hóc Môn, Hồ Chí Minh 71700, Việt Nam",
-    "tag": "Sân Vườn",
-    "tagClass": "tag-garden",
-    "category": "garden",
-    "price": "20k-42k",
-    "rating": 3.4,
-    "reviews": 91,
-    "hours": "24/24",
-    "phone": "+84 981 641 711",
-    "goodReview": "Có chỗ đỗ ô tô và phục vụ tại chỗ cũng như mua mang đi.",
-    "badReview": "Điểm đánh giá hiện thấp hơn nhiều quán khác trong danh sách.",
-    "hasBad": true,
-    "viewDep": false,
-    "tags": [
-      "24 giờ",
-      "Giá hợp lý"
-    ],
-    "desc": "SAPA COFFEE 24H là chuỗi cà phê có chi nhánh tại đường Bà Triệu, Hóc Môn.",
-    "images": [
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148919/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/a50eamr1fpc6xchrreiw.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148920/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/oh4fhajhe1yodttx5afk.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148921/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/z1b4pelnb3p57yqhgama.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148922/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/c7qogeussi82b6wddo4n.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148924/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/gqjdlhwf9n3t02rwwena.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148925/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/sqaolxkmx1pt9dsuhti8.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148926/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/skh9ko8cran6myvvhkan.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787148927/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/SAPA%20COFFEE%2024H%20-%20B%C3%A0%20Tri%E1%BB%87u/nwvsufqeathhwqq5g0l1.jpg"
-    ],
-    "quickActions": [
-      "Có chỗ đỗ ô tô",
-      "Phục vụ mua mang đi"
-    ],
-    "menu": [],
-    "reviewList": [],
-    "geo": {
-      "lat": 10.8862196,
-      "lng": 106.595658
-    },
-    "fsqId": "",
-    "mapUrl": "https://www.google.com/maps/place/SAPA+COFFEE+24H/@10.8862196,106.595658,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d5577a9f747d:0xf42dcd29289623e1!8m2!3d10.8862196!4d106.595658!16s%2Fg%2F11sycf_5kj?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
-  },
-  {
-    "id": 18,
+    "id": 15,
     "name": "Cà phê Tình Bằng Hữu",
     "district": "Hóc Môn",
     "group": "Hóc Môn",
@@ -1477,7 +1345,7 @@
     "mapUrl": "https://www.google.com/maps/place/C%C3%A0+ph%C3%AA+T%C3%ACnh+B%E1%BA%B1ng+H%E1%BB%AFu/@10.8916558,106.5968305,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58f018785b3:0xf5275037ec0eaabc!8m2!3d10.8916558!4d106.5968305!16s%2Fg%2F1hc5353n_?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 19,
+    "id": 16,
     "name": "Tiệm cây Người Làm Vườn",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1529,7 +1397,7 @@
     "mapUrl": "https://www.google.com/maps/place/Ti%E1%BB%87m+c%C3%A2y+Ng%C6%B0%E1%BB%9Di+L%C3%A0m+V%C6%B0%E1%BB%9Dn/@10.7719202,106.6893278,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f6e903d5fdd:0x57bff1ee9b330eb5!8m2!3d10.7719202!4d106.6893278!16s%2Fg%2F11mtrsqwb1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 20,
+    "id": 17,
     "name": "RuNam d'Or",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1581,7 +1449,7 @@
     "mapUrl": "https://www.google.com/maps/place/RuNam+d'Or/@10.779138,106.6988865,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f37e8d0a747:0x14ceb67195d28c33!8m2!3d10.779138!4d106.6988865!16s%2Fg%2F11c6rhyk1q?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 21,
+    "id": 18,
     "name": "Oromia Coffee & Lounge",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1632,7 +1500,7 @@
     "mapUrl": ""
   },
   {
-    "id": 22,
+    "id": 19,
     "name": "Cà phê trứng 3T - Garden Saigon",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1684,7 +1552,7 @@
     "mapUrl": ""
   },
   {
-    "id": 23,
+    "id": 20,
     "name": "1st. Garden - Cafe & Bistro",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1736,7 +1604,7 @@
     "mapUrl": "https://www.google.com/maps/place/De+Tham+Restaurant+-+Vietnamese+cuisine+%26+vegetarian+Food/@10.768244,106.6555212,14z/data=!4m9!1m2!2m1!1zMXN0LiBHYXJkZW4gLSBDYWZlICYgQmlzdHJvIFThuqduZyAzLCBDaHVuZyBjxrAgMjYgTMO9IFThu7EgVHLhu41uZywgQuG6v24gTmdow6ksIFF14bqtbiAxLCBI4buTIENow60gTWluaA!3m5!1s0x31752fe948e20f7f:0x5a5f1358daf89ccf!8m2!3d10.7682442!4d106.6936304!16s%2Fg%2F11why8sz0c?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 24,
+    "id": 21,
     "name": "Khóm - Coffee & Tea",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1787,7 +1655,7 @@
     "mapUrl": ""
   },
   {
-    "id": 25,
+    "id": 22,
     "name": "Pora Pora Coffee",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1838,7 +1706,7 @@
     "mapUrl": ""
   },
   {
-    "id": 26,
+    "id": 23,
     "name": "Padma de Fleur",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1869,7 +1737,10 @@
       "https://res.cloudinary.com/dikychaux/image/upload/v1787212872/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/ixgxt8w4eyqvlnswxujo.jpg",
       "https://res.cloudinary.com/dikychaux/image/upload/v1787212873/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/zx4cq65xkxdootc8lpro.jpg",
       "https://res.cloudinary.com/dikychaux/image/upload/v1787212874/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/omhedn9xcv9lbmsslruv.jpg",
-      "https://res.cloudinary.com/dikychaux/image/upload/v1787212875/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/mszjew56zy3tmwtm6e5x.jpg"
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212875/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/mszjew56zy3tmwtm6e5x.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230192/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/e5llwjvz2jrbqlithult.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230194/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/q7zhn5dmszlxqhm5bm19.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787230196/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/tgbn2f9g5leow8lq0xqb.jpg"
     ],
     "quickActions": [
       "Đi date",
@@ -1887,7 +1758,7 @@
     "mapUrl": ""
   },
   {
-    "id": 27,
+    "id": 24,
     "name": "Bâng Khuâng Cafe",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1937,7 +1808,7 @@
     "mapUrl": ""
   },
   {
-    "id": 28,
+    "id": 25,
     "name": "Cà Phê Cô Ba Đồng Khởi",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -1989,7 +1860,7 @@
     "mapUrl": ""
   },
   {
-    "id": 29,
+    "id": 26,
     "name": "rêu.coffee",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -2041,7 +1912,7 @@
     "mapUrl": ""
   },
   {
-    "id": 30,
+    "id": 27,
     "name": "Cafe Tí Nị",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -2091,7 +1962,7 @@
     "mapUrl": ""
   },
   {
-    "id": 31,
+    "id": 28,
     "name": "Tonkin Specialty Coffee Nguyễn Thái Bình",
     "district": "Quận 1",
     "group": "Quận 1",
@@ -2141,7 +2012,7 @@
     "mapUrl": "https://www.google.com/maps/place/Tonkin+Specialty+Coffee/@10.7743893,106.6597813,14z/data=!4m10!1m2!2m1!1zVG9ua2luIFNwZWNpYWx0eSBDb2ZmZWUgTmd1eeG7hW4gVGjDoWkgQsOsbmggMTQ1IE5ndXnhu4VuIFRow6FpIELDrG5oLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmg!3m6!1s0x31752fc740afa7cd:0xd1e4a0b284d44d60!8m2!3d10.7743893!4d106.6978901!15sCl9Ub25raW4gU3BlY2lhbHR5IENvZmZlZSBOZ3V54buFbiBUaMOhaSBCw6xuaCAxNDUgTmd1eeG7hW4gVGjDoWkgQsOsbmgsIFF14bqtbiAxLCBI4buTIENow60gTWluaFpfIl10b25raW4gc3BlY2lhbHR5IGNvZmZlZSBuZ3V54buFbiB0aMOhaSBiw6xuaCAxNDUgbmd1eeG7hW4gdGjDoWkgYsOsbmggcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQtjb2ZmZWVfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOc05IWlFNM3AzUlJBQuABAPoBBAgAECk!16s%2Fg%2F11t6ktgltr?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "id": 32,
+    "id": 29,
     "name": "DABAO CONCEPT COFFEE",
     "district": "Quận 1",
     "group": "Quận 1",
