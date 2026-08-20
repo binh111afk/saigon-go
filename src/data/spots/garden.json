@@ -1475,5 +1475,720 @@
     },
     "fsqId": "",
     "mapUrl": "https://www.google.com/maps/place/C%C3%A0+ph%C3%AA+T%C3%ACnh+B%E1%BA%B1ng+H%E1%BB%AFu/@10.8916558,106.5968305,17z/data=!3m1!4b1!4m6!3m5!1s0x3174d58f018785b3:0xf5275037ec0eaabc!8m2!3d10.8916558!4d106.5968305!16s%2Fg%2F1hc5353n_?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 19,
+    "name": "Tiệm cây Người Làm Vườn",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "55 Sương Nguyệt Anh, Quận 1, Hồ Chí Minh",
+    "fullAddress": "55 Sương Nguyệt Anh, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-60k",
+    "rating": 4.7,
+    "reviews": 110,
+    "hours": "08:00 - 21:00",
+    "phone": "0908726784",
+    "goodReview": "Không gian nhiều cây xanh, yên tĩnh và mát mẻ, phù hợp trò chuyện, đọc sách và làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Cây xanh",
+      "Yên tĩnh",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "desc": "Tiệm cây Người Làm Vườn kết hợp cafe với không gian cây xanh, tạo cảm giác như một khu vườn nhỏ giữa trung tâm Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212696/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/rguyeuvmbzo1luff0oco.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212697/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/kbqbr44wwjiwv9rzwwcm.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212698/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/ppjlxtv8kohbete8deq5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212699/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/gextf0iuduijpjza9cln.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212700/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/zr0n80am9kvwiqveybdg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212702/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/lho4vwjarsj8nffvmqpz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212703/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/pvomifc43rjwra7zw6xo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212704/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Ti%E1%BB%87m%20c%C3%A2y%20Ng%C6%B0%E1%BB%9Di%20L%C3%A0m%20V%C6%B0%E1%BB%9Dn/vvhea2jmuxn0lahdhmzr.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Đọc sách",
+      "Chạy deadline",
+      "Ngắm cây"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7719202,
+      "lng": 106.6893278
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Ti%E1%BB%87m+c%C3%A2y+Ng%C6%B0%E1%BB%9Di+L%C3%A0m+V%C6%B0%E1%BB%9Dn/@10.7719202,106.6893278,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f6e903d5fdd:0x57bff1ee9b330eb5!8m2!3d10.7719202!4d106.6893278!16s%2Fg%2F11mtrsqwb1?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 20,
+    "name": "RuNam d'Or",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "3 Công trường Công xã Paris, Quận 1, Hồ Chí Minh",
+    "fullAddress": "3 Công trường Công xã Paris, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "100k+",
+    "rating": 4.5,
+    "reviews": 2727,
+    "hours": "07:00 - 23:00",
+    "phone": "02838292329",
+    "goodReview": "Không gian ngoài trời kết hợp kiến trúc Pháp, nhiều cây xanh và vị trí lãng mạn cạnh Nhà thờ Đức Bà.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Ngoài trời",
+      "Lãng mạn",
+      "Hẹn hò",
+      "Check-in"
+    ],
+    "desc": "RuNam d'Or nằm tại Công trường Công xã Paris, kết hợp không gian cafe trong nhà và ngoài trời trong khuôn viên kiến trúc Pháp.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212722/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/xv7uhvhej0ebi4aqw5yz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212723/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/lprmyvrxkgco6pwh4uqm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212724/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/etfhdrh3owcvs0jmdu01.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212725/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/acvk6epz29t2mpvmgnjo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212726/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/kioybie5sm69e91xwqdl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212727/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/gj4oyyou7xacugcioezu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212728/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/vceh1d7hh8tyxrmr9x2d.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212730/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/RuNam%20d%27Or/sjy4nvwhstmrhpvmocnm.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Check-in",
+      "Ngồi ngoài trời",
+      "Trò chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.779138,
+      "lng": 106.6988865
+    },
+    "fsqId": "ChIJR6fQ6DcvdTERM4zSlXG2zhQ",
+    "mapUrl": "https://www.google.com/maps/place/RuNam+d'Or/@10.779138,106.6988865,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f37e8d0a747:0x14ceb67195d28c33!8m2!3d10.779138!4d106.6988865!16s%2Fg%2F11c6rhyk1q?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 21,
+    "name": "Oromia Coffee & Lounge",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "85 Phan Kế Bính, Quận 1, Hồ Chí Minh",
+    "fullAddress": "85 Phan Kế Bính, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-150k",
+    "rating": 3.9,
+    "reviews": 800,
+    "hours": "07:00 - 23:00",
+    "phone": "0988009232",
+    "goodReview": "Không gian nhiều cây xanh, thiết kế đẹp và có khu vực ngoài trời phù hợp trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Cây xanh",
+      "Hẹn hò",
+      "Check-in",
+      "Trò chuyện"
+    ],
+    "desc": "Oromia Coffee & Lounge là cafe có không gian sân vườn và nhiều cây xanh tại khu vực Phan Kế Bính.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212748/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/e5oazodjfo3xv8vxmhmg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212749/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/lgb4zubzlqahxirar1zl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212750/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/pln5nlsxzuref59ugera.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212751/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/eq3vmc1is2fang4ovcye.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212752/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/radzuy1wmhwtdpjvwulp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212753/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/cb8pezpq0bifxpsgscno.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212754/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/qdhmz9lli3fxdry5outy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212755/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Oromia%20Coffee%20Lounge/pujroyffxckuwjblgs4a.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Check-in",
+      "Ngồi ngoài trời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJT9IBetEpdTERv1WHWPOkMLo",
+    "mapUrl": ""
+  },
+  {
+    "id": 22,
+    "name": "Cà phê trứng 3T - Garden Saigon",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "5 Trần Khánh Dư, Tân Định, Quận 1, Hồ Chí Minh",
+    "fullAddress": "5 Trần Khánh Dư, Tân Định, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-80k",
+    "rating": 4.4,
+    "reviews": 808,
+    "hours": "07:00 - 23:00",
+    "phone": "0865925670",
+    "goodReview": "Không gian nhiều cây xanh, có khu garden ngoài trời, phong cách vintage và khá yên tĩnh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Cây xanh",
+      "Vintage",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "desc": "Cà phê trứng 3T - Garden Saigon là cafe phong cách Việt hoài niệm với nhiều cây xanh và khu vực garden ngoài trời.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212775/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/x5kfej8qqnzrvi39tkn5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212776/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/q8uwbdmz0kqy8t8edbsg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212777/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/bv5afsyeaj76pczaqjjx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212778/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/nwrqhixl3od7fpgn83ok.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212779/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/fyjjzb7kd2yw63vhmai8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212780/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/scqk29phr8a1npvavume.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212781/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/kiotniwq8dgmxicgbxza.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212782/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20ph%C3%AA%20tr%E1%BB%A9ng%203T%20-%20Garden%20Saigon/zomgpraszzvrglcosbi0.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Uống cafe trứng",
+      "Ngồi garden",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJ133bTUApdTERwNR9Z6JzeoM",
+    "mapUrl": ""
+  },
+  {
+    "id": 23,
+    "name": "1st. Garden - Cafe & Bistro",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Tầng 3, Chung cư 26 Lý Tự Trọng, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Tầng 3, Chung cư 26 Lý Tự Trọng, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Garden Cafe",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "25k-150k",
+    "rating": 4.1,
+    "reviews": 71,
+    "hours": "09:00 - 22:30",
+    "phone": "0908444003",
+    "goodReview": "Không gian giống một khu vườn nhỏ trong chung cư cũ, có cây xanh lớn và ban công.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Garden",
+      "Cây xanh",
+      "Ban công",
+      "Hẹn hò",
+      "Check-in"
+    ],
+    "desc": "1st Garden là cafe nằm trên tầng 3 của chung cư 26 Lý Tự Trọng, được thiết kế theo concept khu vườn giữa trung tâm.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212801/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/j4nnskgaeyyaqbg8a2wm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212802/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/pigh4wer2z5pccuhhwkb.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212803/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/dpneblihr2baqp3puixs.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212804/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/olynsj4cscsbmmnfvxfl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212805/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/ppgvjwsxwv1lfmzh7dwd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212806/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/mdnwuovipxoxzz2i0a9u.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212807/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/glpfdchfkkzckdoluear.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212808/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/1st.%20Garden%20-%20Cafe%20Bistro/jss93ynsknjbbbbrnjv0.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Check-in",
+      "Ngồi ban công",
+      "Trò chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7682442,
+      "lng": 106.6936304
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/De+Tham+Restaurant+-+Vietnamese+cuisine+%26+vegetarian+Food/@10.768244,106.6555212,14z/data=!4m9!1m2!2m1!1zMXN0LiBHYXJkZW4gLSBDYWZlICYgQmlzdHJvIFThuqduZyAzLCBDaHVuZyBjxrAgMjYgTMO9IFThu7EgVHLhu41uZywgQuG6v24gTmdow6ksIFF14bqtbiAxLCBI4buTIENow60gTWluaA!3m5!1s0x31752fe948e20f7f:0x5a5f1358daf89ccf!8m2!3d10.7682442!4d106.6936304!16s%2Fg%2F11why8sz0c?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 24,
+    "name": "Khóm - Coffee & Tea",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "5 Trần Quý Khoách, Tân Định, Quận 1, Hồ Chí Minh",
+    "fullAddress": "5 Trần Quý Khoách, Tân Định, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-60k",
+    "rating": null,
+    "reviews": 16,
+    "hours": "07:00 - 22:00",
+    "phone": "",
+    "goodReview": "Không gian mộc mạc với tre, nứa, gỗ và nhiều cây xanh, phù hợp cặp đôi và nhóm nhỏ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Cây xanh",
+      "Sân vườn",
+      "Mộc mạc",
+      "Hẹn hò",
+      "Trò chuyện"
+    ],
+    "desc": "Khóm Coffee & Tea có phong cách mộc mạc, sử dụng tre, nứa và gỗ kết hợp cây xanh tạo cảm giác như một khu vườn nhỏ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212823/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/o8bcia683ghsc0msgzvc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212823/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/sefn2nj4ln0sqaaehpdo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212824/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/b6bdelqjwqzjb93uvnjh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212825/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/j6ddiz7pdeskol6cj8z1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212826/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/bjgatamopipoicr1usaq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212827/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/s5tdq4l3s928utrkrynw.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212828/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/yrfv5sx4nc8gqmtiq7en.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212829/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Kh%C3%B3m%20-%20Coffee%20Tea/mpx4n52oxdwwlrkrykmi.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Trò chuyện",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 25,
+    "name": "Pora Pora Coffee",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Tầng 2, 7/13 Nguyễn Trãi, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Tầng 2, 7/13 Nguyễn Trãi, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Garden Cafe",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "45k-60k",
+    "rating": 4.3,
+    "reviews": 12,
+    "hours": "09:00 - 21:00",
+    "phone": "",
+    "goodReview": "Không gian có tầng ngoài trời/sân thượng, nhiều góc trang trí phù hợp cặp đôi và chụp ảnh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân thượng",
+      "Ngoài trời",
+      "Cặp đôi",
+      "Check-in",
+      "Trò chuyện"
+    ],
+    "desc": "Pora Pora Coffee nằm trong hẻm Nguyễn Trãi, có không gian tầng 2 và khu vực ngoài trời.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212845/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/ba9qxg406biecugznrus.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212846/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/gticb7nyrvi4zkljnjai.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212847/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/ggu3z9oiobkh488vncng.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212848/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/emitiyiywcvpmvquqria.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212849/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/ii4mfb73npilogv4h5hf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212851/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/mdmqkktpkdwjeqzfwism.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212852/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/asqk5xssahokljdldtug.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212853/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Pora%20Pora%20Coffee/jvjtsvap58mechnb0ury.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Check-in",
+      "Ngồi ngoài trời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 26,
+    "name": "Padma de Fleur",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "89/12 Hàm Nghi, Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+    "fullAddress": "89/12 Hàm Nghi, Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+    "tag": "Flower Cafe",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "45k-80k",
+    "rating": 4.5,
+    "reviews": 372,
+    "hours": "09:00 - 18:00",
+    "phone": "0336111315",
+    "goodReview": "Cafe kết hợp tiệm hoa, không gian ngập cây và hoa, phù hợp hẹn hò và thư giãn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Hoa",
+      "Cây xanh",
+      "Cafe",
+      "Hẹn hò",
+      "Lãng mạn"
+    ],
+    "desc": "Padma de Fleur kết hợp cafe với không gian hoa và cây xanh, tạo cảm giác như một khu vườn hoa nhỏ giữa Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212871/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/odzxb2bunzbh9oh229wq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212872/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/ixgxt8w4eyqvlnswxujo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212873/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/zx4cq65xkxdootc8lpro.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212874/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/omhedn9xcv9lbmsslruv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212875/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Padma%20de%20Fleur/mszjew56zy3tmwtm6e5x.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Ngắm hoa",
+      "Uống cafe",
+      "Chụp ảnh"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 27,
+    "name": "Bâng Khuâng Cafe",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Lầu 2, 9 Thái Văn Lung, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Lầu 2, 9 Thái Văn Lung, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe xanh",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-110k",
+    "rating": 4.3,
+    "reviews": 649,
+    "hours": "08:00 - 23:00",
+    "phone": "0903667888",
+    "goodReview": "Không gian yên tĩnh, phù hợp trò chuyện và thư giãn trong khu trung tâm.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Yên tĩnh",
+      "Cây xanh",
+      "Hẹn hò",
+      "Trò chuyện"
+    ],
+    "desc": "Bâng Khuâng Cafe nằm trên tầng 2 tại Thái Văn Lung, mang phong cách hoài niệm và yên tĩnh.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212892/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/wrj28tgjhwgrfnta0bzt.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212893/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/yylb0yylnjo7cnnu923b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212894/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/zaecoblesbi5nnkdcyz0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212895/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/draq3kchpvdniqwilbkk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212896/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/v9h1vrrybukugi0bkuy8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212897/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/a3uvoxy6dm0sakinibvp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212898/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/szp0tblmilld8l6omznt.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212899/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/B%C3%A2ng%20Khu%C3%A2ng%20Cafe/aotnbsycgxu4wwmtomov.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Trò chuyện",
+      "Đọc sách"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 28,
+    "name": "Cà Phê Cô Ba Đồng Khởi",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "2 Đồng Khởi, Quận 1, Hồ Chí Minh",
+    "fullAddress": "2 Đồng Khởi, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe ban công",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "45k-60k",
+    "rating": 4.3,
+    "reviews": 1673,
+    "hours": "07:30 - 23:00",
+    "phone": "",
+    "goodReview": "Cafe phong cách Sài Gòn xưa, có khu vực ban công và không gian mở phù hợp ngắm phố và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Ban công",
+      "Ngoài trời",
+      "Vintage",
+      "Hẹn hò",
+      "Check-in"
+    ],
+    "desc": "Cà Phê Cô Ba Đồng Khởi nằm tại 2 Đồng Khởi, nổi bật với phong cách Sài Gòn xưa và khu vực ban công nhìn xuống phố.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212917/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/v4rhd4mkxvnllluqqzbn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212918/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/j7w5joxfoibvnqy6wluc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212919/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/wx09v7aq52fv0ovxnq5r.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212919/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/nrfammrgqikzxizlzado.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212920/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/hwxsagqxflsafvqtl0yn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212921/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/shpeplv1qkwiifjzb2o7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212922/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/i40lx6lcqfadc46bgrog.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212923/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/C%C3%A0%20Ph%C3%AA%20C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/rna4su2z5a1efjvycdan.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Ngắm phố",
+      "Check-in",
+      "Trò chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJ-ccIKnwvdTERcwhsdEeX6cs",
+    "mapUrl": ""
+  },
+  {
+    "id": 29,
+    "name": "rêu.coffee",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "46 Trịnh Văn Cấn, Quận 1, Hồ Chí Minh",
+    "fullAddress": "46 Trịnh Văn Cấn, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe cây xanh",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "1-100k",
+    "rating": 4.5,
+    "reviews": 482,
+    "hours": "07:00 - 01:00",
+    "phone": "0966988815",
+    "goodReview": "Cafe có phong cách xanh, không gian thư giãn và mở cửa đến khuya.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Cây xanh",
+      "Late night",
+      "Hẹn hò",
+      "Trò chuyện",
+      "Làm việc"
+    ],
+    "desc": "rêu.coffee là quán cafe tại Trịnh Văn Cấn với không gian xanh và thời gian hoạt động đến khuya.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212941/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/v9bhlmbzof4cn7oemff9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212942/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/de9dmuugtvcwu7gst1vu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212943/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/nmtaodqksvjyxi4o0ljg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212945/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/vrgzertdjyjnnz5acoiu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212946/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/nibleb6k4sovmpi7sv8u.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212947/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/fwdmio5hw9xs2aydmobn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212948/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/aidynwh2xlnyqf46plpx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212950/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/r%C3%AAu.coffee/vyuvyzjenhwsydavvqct.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Chạy deadline",
+      "Ngồi khuya",
+      "Trò chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJgyd46n4vdTEROUYGTQzVshc",
+    "mapUrl": ""
+  },
+  {
+    "id": 30,
+    "name": "Cafe Tí Nị",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "5A Nguyễn Đình Chiểu, Quận 1, Hồ Chí Minh",
+    "fullAddress": "5A Nguyễn Đình Chiểu, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "1-100k",
+    "rating": 3.8,
+    "reviews": 187,
+    "hours": "07:00 - 21:00",
+    "phone": "",
+    "goodReview": "Cafe nhỏ, nhiều cây xanh và có không gian ngoài trời.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Sân vườn",
+      "Cây xanh",
+      "Yên tĩnh",
+      "Trò chuyện"
+    ],
+    "desc": "Cafe Tí Nị là quán cafe nhỏ tại Nguyễn Đình Chiểu, được các nguồn tổng hợp cafe sân vườn Quận 1 nhắc tới.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212966/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/ysqzoq6igqakxmqqs6hv.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212967/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/qphklmlbun6thc67m15l.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212968/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/r5rvsttoytn9qjatczcf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212969/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/njhk9ciemnc67dlwz10j.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212971/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/jclg0fpwafngqkss1otm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212973/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/rnsoykwddy8bvx0gfuwu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212974/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/cxfcqdpqwbtt3guby0fn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212975/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Cafe%20T%C3%AD%20N%E1%BB%8B/uxwtpctwvjlvv75isdgx.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Trò chuyện",
+      "Ngồi ngoài trời"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJxyeRN7UodTERla8SNKpjpK0",
+    "mapUrl": ""
+  },
+  {
+    "id": 31,
+    "name": "Tonkin Specialty Coffee Nguyễn Thái Bình",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "145 Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+    "fullAddress": "145 Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe xanh",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "50k-100k",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian mang phong cách Đông Dương, được các danh sách cafe sân vườn Quận 1 xếp vào nhóm cafe xanh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Cây xanh",
+      "Indochine",
+      "Hẹn hò",
+      "Check-in"
+    ],
+    "desc": "Tonkin Specialty Coffee là cafe phong cách Đông Dương được nhắc đến trong các danh sách cafe sân vườn Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212997/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/l4p5qqidxop0xkltfcd3.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212999/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/awbxuze5hodprdzycs5f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213000/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/ivzipjbe2kexguymttij.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213001/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/wpvr1iqplbipw7pqjz5v.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213002/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/e0npko6nhzutyihlz9op.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213003/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/yg0az2xa5c2p8lghk524.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213004/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/zvgqnxsbqqvr6zpwqdea.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213005/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/Tonkin%20Specialty%20Coffee%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh/oldeiwwo9q57clsbhxmc.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Check-in",
+      "Trò chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7743893,
+      "lng": 106.6978901
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Tonkin+Specialty+Coffee/@10.7743893,106.6597813,14z/data=!4m10!1m2!2m1!1zVG9ua2luIFNwZWNpYWx0eSBDb2ZmZWUgTmd1eeG7hW4gVGjDoWkgQsOsbmggMTQ1IE5ndXnhu4VuIFRow6FpIELDrG5oLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmg!3m6!1s0x31752fc740afa7cd:0xd1e4a0b284d44d60!8m2!3d10.7743893!4d106.6978901!15sCl9Ub25raW4gU3BlY2lhbHR5IENvZmZlZSBOZ3V54buFbiBUaMOhaSBCw6xuaCAxNDUgTmd1eeG7hW4gVGjDoWkgQsOsbmgsIFF14bqtbiAxLCBI4buTIENow60gTWluaFpfIl10b25raW4gc3BlY2lhbHR5IGNvZmZlZSBuZ3V54buFbiB0aMOhaSBiw6xuaCAxNDUgbmd1eeG7hW4gdGjDoWkgYsOsbmggcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQtjb2ZmZWVfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOc05IWlFNM3AzUlJBQuABAPoBBAgAECk!16s%2Fg%2F11t6ktgltr?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 32,
+    "name": "DABAO CONCEPT COFFEE",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Phòng 37, Lầu 3, 145 Nguyễn Trãi, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Phòng 37, Lầu 3, 145 Nguyễn Trãi, Quận 1, Hồ Chí Minh",
+    "tag": "Concept Cafe",
+    "tagClass": "tag-garden",
+    "category": "garden",
+    "price": "40k-100k",
+    "rating": null,
+    "reviews": null,
+    "hours": "09:00 - 21:00",
+    "phone": "",
+    "goodReview": "Cafe concept trong chung cư cũ với nhiều cây xanh và không gian mở, phù hợp check-in và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Cây xanh",
+      "Concept",
+      "Vintage",
+      "Hẹn hò",
+      "Check-in"
+    ],
+    "desc": "DABAO CONCEPT COFFEE nằm tại tầng 3 của chung cư 145 Nguyễn Trãi, có phong cách hoài cổ và nhiều mảng xanh.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213021/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/ow09y8vtnrfj6ssigyoe.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213022/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/fsghvppqzfegzt3vjeud.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213024/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/tqg6ngmgynvtcqllthad.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213025/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/dsc9feve73nepr3kp6i5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213026/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/fjz6tewewffxprkv7kfm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213027/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/kzexzen0fp2fkq4szz0s.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213028/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/f5t69wtlmgi1jhvrsdfx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787213029/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/s%C3%A2n%20v%C6%B0%E1%BB%9Dn/DABAO%20CONCEPT%20COFFEE/cagpwvv2cvsb2yvmeoit.jpg"
+    ],
+    "quickActions": [
+      "Đi date",
+      "Check-in",
+      "Trò chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
   }
 ]

@@ -821,5 +821,1484 @@
     },
     "fsqId": "",
     "mapUrl": ""
+  },
+  {
+    "id": 14,
+    "name": "The Workshop Coffee",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "27 Ngô Đức Kế, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "27 Ngô Đức Kế, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Specialty Coffee",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-200k",
+    "rating": 4.4,
+    "reviews": 4103,
+    "hours": "08:00 - 20:30",
+    "phone": "02838246801",
+    "goodReview": "Không gian hiện đại, rộng rãi, phù hợp gặp gỡ và làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Specialty Coffee",
+      "Deadline",
+      "Date",
+      "Work-friendly"
+    ],
+    "desc": "The Workshop Coffee là specialty coffee nổi tiếng tại trung tâm Quận 1, phù hợp vừa trò chuyện vừa làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211790/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/jbxuclbke7cptwucsioc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211791/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/fnmxwplfcyw05cho9saf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211792/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/foik0nzx00rawhivyslf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211793/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/tdbnjj5uwqesr6w1pgnh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211794/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/ye6hmxjbbzflj5iuecyu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211795/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/rdpu7cu1al0hauflpcpc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211796/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/qdc609ynykprbpqplrcd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211797/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Workshop%20Coffee/sym8kdpcu3ml7dubmmrm.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Uống specialty coffee"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7734764,
+      "lng": 106.7056037
+    },
+    "fsqId": "ChIJdyfroEYvdTER2m7eTz44Bns",
+    "mapUrl": "https://www.google.com/maps/place/The+Workshop+Coffee/@10.7734764,106.7056037,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f46a0eb2777:0x7b06383e4fde6eda!8m2!3d10.7734764!4d106.7056037!16s%2Fg%2F11b5qslzq8?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 15,
+    "name": "Soo Kafe Bến Thành",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "35 Phan Chu Trinh, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "35 Phan Chu Trinh, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe làm việc",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.6,
+    "reviews": 2010,
+    "hours": "08:00 - 23:00",
+    "phone": "0899312386",
+    "goodReview": "Không gian rộng, có khu vực phù hợp học tập và hoàn thành deadline.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Deadline",
+      "Work-friendly",
+      "Cafe",
+      "Date"
+    ],
+    "desc": "Soo Kafe có không gian hai tầng, phù hợp cả làm việc lẫn trò chuyện.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211816/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/ooaxx6bvfr5j8xpcojfj.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211817/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/izy2bmdhkwgwkpqsdxuz.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211818/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/bqr1ncfcza8dmxim4yju.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211819/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/ycdupidgvmfvmdb2rbea.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211820/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/ditdmtyk8rws3lyvghtj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211821/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/rptefklzjnqjzmbtsyy4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211822/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/sh0sd5ikbumk6ohditgm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211823/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20B%E1%BA%BFn%20Th%C3%A0nh/uc6bk8pohg0j1pll7pjv.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.772408,
+      "lng": 106.6972096
+    },
+    "fsqId": "ChIJLUnNLj8vdTERtZ0FtgSj9-A",
+    "mapUrl": "https://www.google.com/maps/place/Soo+Kafe+B%E1%BA%BFn+Th%C3%A0nh/@10.772408,106.6972096,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f3f2ecd492d:0xe0f7a304b6059db5!8m2!3d10.772408!4d106.6972096!16s%2Fg%2F11f40000hd?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 16,
+    "name": "Whisfee Café",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "14 Tôn Thất Đạm, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "14 Tôn Thất Đạm, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chill",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.8,
+    "reviews": 327,
+    "hours": "09:00 - 23:00",
+    "phone": "0356725601",
+    "goodReview": "Không gian chill, rating cao, phù hợp nói chuyện và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Chill",
+      "Cafe",
+      "Check-in"
+    ],
+    "desc": "Whisfee Café là quán cafe có không gian phù hợp cho những buổi hẹn và trò chuyện.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211840/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/srrdchqagd0hltnt3t07.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211841/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/emmqmlyqprenasqonown.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211843/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/l7o087owmzpza9e5uqlp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211844/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/lwhzjyzj4bmxsgog76vg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211845/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/nofswf68qsq7hmdf5m6g.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211847/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/somufuzo9wtagv90ahlc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211848/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/unio5y7cahray4c05yn6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211849/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Whisfee%20Caf%C3%A9/jazdvcrcl6uhp3ejeuen.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Nói chuyện",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJDz8w4xsvdTERw4Y9lMhqLQ0",
+    "mapUrl": ""
+  },
+  {
+    "id": 17,
+    "name": "L'Usine Lê Thánh Tôn",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "19 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "19 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe & lifestyle",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-300k",
+    "rating": 4.6,
+    "reviews": 3402,
+    "hours": "07:30 - 21:30",
+    "phone": "0832810888",
+    "goodReview": "Không gian đẹp, có thể làm việc và gặp gỡ trong khu trung tâm.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Deadline",
+      "Date",
+      "Lifestyle",
+      "Cafe"
+    ],
+    "desc": "L'Usine kết hợp cafe, ẩm thực và lifestyle với không gian phù hợp làm việc hoặc gặp gỡ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211864/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/h2vp4z0yegghzvuegjok.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211866/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/fsqslnfue99krnvlez9i.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211867/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/b9bgxyzwoe4igfg8l2hz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211868/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/q64ens8pprlsips9jpq7.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211869/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/vy5mc4ktqumeomzh9krn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211870/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/stc5xkidhhzdbo5btmqy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211871/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/tcxhyvo93lanxoz41of8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211872/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/L%27Usine%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n/cjbfycuel1yd3osgv4ll.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Ăn nhẹ"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJmSbv60gvdTER8Nqtg6Unzpw",
+    "mapUrl": ""
+  },
+  {
+    "id": 18,
+    "name": "Tonkin Specialty Coffee",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "91 Lý Tự Trọng, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "91 Lý Tự Trọng, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Specialty Coffee",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.8,
+    "reviews": 4620,
+    "hours": "08:00 - 21:00",
+    "phone": "0867990125",
+    "goodReview": "Specialty coffee được đánh giá cao, phù hợp ngồi trò chuyện hoặc làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Specialty Coffee",
+      "Date",
+      "Deadline",
+      "Coffee"
+    ],
+    "desc": "Tonkin Specialty Coffee là quán specialty coffee có rating cao tại Lý Tự Trọng.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211888/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/aveclmlodm3dfwi2ty0s.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211889/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/fnnwkd789ljivqnlwrgn.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211890/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/xx2z6xdszqt75abtyzyc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211891/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/dgfvv1jge8xd2jnvjkne.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211893/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/wtd5ts61fnhso1l6mlrh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211894/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/y01agzpaqszoqcogfl8t.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211895/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/ddnutcpeeretxrzjcsgg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211897/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Tonkin%20Specialty%20Coffee/vcjvuuvij12gmswibahc.jpg"
+    ],
+    "quickActions": [
+      "Uống coffee",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJzaevQMcvdTERYE3UhLKg5NE",
+    "mapUrl": ""
+  },
+  {
+    "id": 19,
+    "name": "OKKIO Lê Lợi",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "120-122 Lê Lợi, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "120-122 Lê Lợi, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Specialty Coffee",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.6,
+    "reviews": 1277,
+    "hours": "07:30 - 20:00",
+    "phone": "0848011118",
+    "goodReview": "Chuỗi cafe specialty có không gian hiện đại, thuận tiện gặp gỡ và làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Deadline",
+      "Date",
+      "Specialty Coffee"
+    ],
+    "desc": "OKKIO Lê Lợi là một lựa chọn cafe trung tâm, phù hợp cả công việc và hẹn hò.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211913/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/tkeplirdwptuwesy3iiz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211914/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/vt9q2nujofbe7wrsawar.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211915/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/aooavsvlb031tdx3oqsd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211916/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/oagm04dlsa8znc4mwtss.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211917/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/l8yeyif3muzffkkhixkq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211919/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/xq00sgmzn4azpofwamfq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211921/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/t85bsk4drlusw6aptl5b.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211922/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/OKKIO%20L%C3%AA%20L%E1%BB%A3i/bjuphzj4ljogr9ojjpvi.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Coffee"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJcUtJy3wvdTERQIZ4d5vBYS8",
+    "mapUrl": ""
+  },
+  {
+    "id": 20,
+    "name": "Hoff Coffee Brewers by BeanHop",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "42bis Lý Tự Trọng, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "42bis Lý Tự Trọng, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Specialty Coffee",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.8,
+    "reviews": 356,
+    "hours": "07:30 - 21:00",
+    "phone": "0989984506",
+    "goodReview": "Quán specialty coffee được đánh giá cao, phù hợp coffee date và làm việc nhẹ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Specialty Coffee",
+      "Date",
+      "Deadline"
+    ],
+    "desc": "Hoff Coffee Brewers by BeanHop là specialty coffee tại Lý Tự Trọng.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211937/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/en7fvxxocbn6c3qkbypo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211938/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/ctn1cjgrfjsxupeev0r5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211939/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/ujnvgngaqtunechvzwcf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211940/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/nozsflkub9wihwsp2qvc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211942/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/xav8cxntupojmt26bfnp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211943/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/t095rbhx2gs9bw3epawo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211944/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/e4lxqenhw45mmxpwjkqs.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211945/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Hoff%20Coffee%20Brewers%20by%20BeanHop/vqvlpmgs0efpi3m1kv4i.jpg"
+    ],
+    "quickActions": [
+      "Coffee date",
+      "Làm việc",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJ3SIDkK4vdTERET6eDRYrDyE",
+    "mapUrl": ""
+  },
+  {
+    "id": 21,
+    "name": "The Running Bean - Mạc Thị Bưởi",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "33 Mạc Thị Bưởi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "33 Mạc Thị Bưởi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe & brunch",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-300k",
+    "rating": 4.7,
+    "reviews": 3344,
+    "hours": "07:30 - 22:00",
+    "phone": "02873003633",
+    "goodReview": "Không gian hiện đại, phù hợp ăn nhẹ, trò chuyện và làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Brunch",
+      "Deadline",
+      "Cafe"
+    ],
+    "desc": "The Running Bean là cafe kết hợp đồ ăn và không gian hiện đại tại trung tâm Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211962/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/akf28x3dfik5xohjvwik.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211964/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/nnp5hcqujpnrhsbyjw9t.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211965/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/bjfa2zhphof1ceez5hwc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211966/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/pqo1wpp9ubudzwiecfny.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211967/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/sv94ruf5syhaoe2haluw.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211968/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/bjdnd39pmbprb7jctiym.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211970/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/lficdnanyhdhbtm3289x.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211971/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Running%20Bean%20-%20M%E1%BA%A1c%20Th%E1%BB%8B%20B%C6%B0%E1%BB%9Fi/doitxqm9d53mk20pysvs.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Brunch",
+      "Chạy deadline"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJbZibl2QvdTERpAnl0Vxjk5Q",
+    "mapUrl": ""
+  },
+  {
+    "id": 22,
+    "name": "BẢN Cà Phê",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "38/7 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "38/7 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chill",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.6,
+    "reviews": 598,
+    "hours": "08:00 - 22:00",
+    "phone": "028666726936",
+    "goodReview": "Không gian cafe được đánh giá tốt, phù hợp ngồi lâu và trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Chill",
+      "Deadline"
+    ],
+    "desc": "BẢN Cà Phê nằm trong khu trung tâm, phù hợp cho một buổi coffee date hoặc làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211987/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/mij3s8pmnabpy0pe3byp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211988/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/uiykqgzhxwlylslt1ru9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211989/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/dgnw5lrulpsab9pkablk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211990/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/xlym04grnifcttkxxj2b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211992/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/r2vs6qkv02orgtq7rke0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211993/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/lk3g0fmdpqby2q7by3mc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211994/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/alpmthwef5seqjb66ffz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211995/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/B%E1%BA%A2N%20C%C3%A0%20Ph%C3%AA/o5wrgkmvogajnjxkndkz.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Làm việc",
+      "Nói chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJnQ0nfLEvdTERGAOqj06KUQY",
+    "mapUrl": ""
+  },
+  {
+    "id": 23,
+    "name": "Sài Gòn Ơi",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe view phố",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 818,
+    "hours": "07:00 - 23:00",
+    "phone": "",
+    "goodReview": "Cafe trong chung cư 42 Nguyễn Huệ, phù hợp ngắm phố và trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "View phố",
+      "Check-in",
+      "Cafe"
+    ],
+    "desc": "Sài Gòn Ơi là một trong những cafe nổi tiếng tại chung cư 42 Nguyễn Huệ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212010/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/oclk4jiclp3xme0fnw2j.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212011/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/q31tcnlzsftpun03clik.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212012/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/vmmqoxnueecuilalk5fj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212013/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/jko2terfzjh7tlqcqsxc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212015/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/tkswdsyadp1wgdb0bcfl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212016/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/fdz3x6q3p2negu4gcsmz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212017/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/wmgpzlgfiepnah6xrctj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212018/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%C3%A0i%20G%C3%B2n%20%C6%A0i/kpq1aw9ofudsgswubc3v.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Ngắm phố",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJw7k36kYvdTERJ9L8Dd7o-0U",
+    "mapUrl": ""
+  },
+  {
+    "id": 24,
+    "name": "Starbucks Nguyễn Huệ",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "99 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "99 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chuỗi",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-200k",
+    "rating": 4.3,
+    "reviews": 1410,
+    "hours": "06:30 - 23:00",
+    "phone": "02838210105",
+    "goodReview": "Không gian quen thuộc, tiện ngồi làm việc hoặc gặp gỡ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Deadline",
+      "Date",
+      "Wifi",
+      "Cafe"
+    ],
+    "desc": "Starbucks Nguyễn Huệ là lựa chọn ổn định cho gặp gỡ hoặc làm việc tại trung tâm.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212033/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/vx3mewtozzynp4ijplcl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212035/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/soxhp7hmnu7nkz7yjcx2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212036/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/s6wbxlenxcjh6e20khey.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212036/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/jafntxhjhyf4qnhhas4n.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212037/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/fyfgamgmrgk2t1tcvn68.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212038/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/ppck1cvkz6qdcr1o3cjf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212039/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/cxy7bpxmdnnhmdxqfhrx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212041/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Starbucks%20Nguy%E1%BB%85n%20Hu%E1%BB%87/bkvtkjkm6oejh4a6qxzy.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJZyg9xkYvdTEReQjhF2Md4Yw",
+    "mapUrl": ""
+  },
+  {
+    "id": 25,
+    "name": "% Arabica Nguyễn Huệ",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Specialty Coffee",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-200k",
+    "rating": 4.2,
+    "reviews": 4111,
+    "hours": "07:00 - 23:00",
+    "phone": "02835355380",
+    "goodReview": "Thương hiệu specialty coffee quốc tế tại chung cư 42 Nguyễn Huệ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Specialty Coffee",
+      "Date",
+      "Check-in"
+    ],
+    "desc": "% Arabica tại Nguyễn Huệ phù hợp coffee date và trải nghiệm cafe trong khu chung cư nổi tiếng.",
+    "images": [],
+    "quickActions": [
+      "Coffee date",
+      "Check-in",
+      "Ngắm phố"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJY41T6kYvdTERS92294dJ1J4",
+    "mapUrl": ""
+  },
+  {
+    "id": 26,
+    "name": "Meraki Café",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Chung cư 42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Chung cư 42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chung cư",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 733,
+    "hours": "08:00 - 23:30",
+    "phone": "0977079305",
+    "goodReview": "Cafe trong chung cư 42 Nguyễn Huệ, thuận tiện kết hợp đi dạo phố Nguyễn Huệ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Check-in",
+      "View phố",
+      "Cafe"
+    ],
+    "desc": "Meraki Café nằm trong chung cư 42 Nguyễn Huệ, phù hợp một buổi hẹn kết hợp dạo phố.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212077/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/bfb9ttldqpwf1xvjiet9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212078/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/uummxbsuvc3lcyk5wrls.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212079/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/njqcxwjmtusbanplp248.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212080/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/x8cluiqilcmlisvq6zbc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212081/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/xpv8enqbijfxyjqndf1u.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212083/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/ofyheoepdsdwasy7fs5t.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212084/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/ernjibk74aktl8q3hl4g.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212085/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Meraki%20Caf%C3%A9/wx0xpv1cbbjogdxiskil.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Check-in",
+      "Đi dạo"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7740558,
+      "lng": 106.7041078
+    },
+    "fsqId": "ChIJTUZSCYEvdTERvDobmn4HwqM",
+    "mapUrl": "https://www.google.com/maps/place/Meraki+caf%C3%A9/@10.7740558,106.7041078,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f810952464d:0xa3c2077e9a1b3abc!8m2!3d10.7740558!4d106.7041078!16s%2Fg%2F11khbt1y8n?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 27,
+    "name": "The Letter Cafe",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Rooftop Cafe",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 3.1,
+    "reviews": 210,
+    "hours": "09:00 - 22:30",
+    "phone": "0795807950",
+    "goodReview": "Không gian trên cao trong khu chung cư 42 Nguyễn Huệ, phù hợp ngắm phố và chụp ảnh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Rooftop",
+      "Date",
+      "Check-in",
+      "View phố"
+    ],
+    "desc": "The Letter Cafe là lựa chọn thiên về view và trải nghiệm hơn là chạy deadline.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212102/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/igllwa8jtuk2qod6mj6v.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212104/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/hu8zavhbqxuiwbdtumo0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212105/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/vwmj6b5vsh9nwnty2han.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212106/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/ojbmxx2gss7xixywyyyc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212107/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/vaoszmgc2emdcyzof7rf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212108/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/dpjtohd3owk23stvnntk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212109/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/dijtpwuji1xum6binctc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212110/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Letter%20Cafe/y1th6jb4lartltgspcfx.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Check-in",
+      "Ngắm phố"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJl0SDOdYvdTERnJQ91Vr8id4",
+    "mapUrl": ""
+  },
+  {
+    "id": 28,
+    "name": "Lee's Coffee - Sài Gòn",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "84 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "84 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe trung tâm",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.5,
+    "reviews": 97,
+    "hours": "06:00 - 23:00",
+    "phone": "18002218",
+    "goodReview": "Mở cửa từ sáng sớm, phù hợp cả làm việc và hẹn gặp.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Deadline",
+      "Date",
+      "Nguyễn Huệ"
+    ],
+    "desc": "Lee's Coffee nằm ngay Nguyễn Huệ và có thời gian hoạt động dài.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212127/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/e74dpwsutrfkg75jyxcz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212128/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/jkdcg9c9lcfpr5xiormp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212130/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/n2eyymjxh8miinjbrpok.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212131/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/kkgtahcj9hbi8dg6vdrd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212132/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/ta5pod8xtssmf6pmcajp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212134/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/dyejcte6qzddxzh5k12x.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212135/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/pumncpsgmd0zi8k8gyjm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212136/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Lee%27s%20Coffee%20-%20S%C3%A0i%20G%C3%B2n/nqc5rjnk47qghk8btxop.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Ngắm phố"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJ09GWD-kvdTERav3fc6dnj4U",
+    "mapUrl": ""
+  },
+  {
+    "id": 29,
+    "name": "Blubean.",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "14 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "14 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chill",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.9,
+    "reviews": 82,
+    "hours": "09:30 - 21:30",
+    "phone": "0902941409",
+    "goodReview": "Rating cao, phù hợp coffee date và ngồi trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Chill",
+      "Coffee",
+      "Check-in"
+    ],
+    "desc": "Blubean. là cafe nhỏ tại Nguyễn Huệ, phù hợp những buổi hẹn nhẹ nhàng.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212153/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./ecic0dsezjstsn770am4.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212154/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./p2gy0sonjxk8zurwvzbl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212155/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./qe25h3ubrmrcc25pobji.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212156/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./cvyxffunol40x1idwzre.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212157/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./h5bgpesffpkaxjx8ulwt.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212158/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./e5leuprjwvcixrxz3k76.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212159/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./k8lkjpotdkcvybkf93et.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212160/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Blubean./wvlqipg3xiii0pypuzds.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Coffee date",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJ2cauAbovdTERtnXkDc4wM0U",
+    "mapUrl": ""
+  },
+  {
+    "id": 30,
+    "name": "Trung Nguyên Legend - Nguyễn Huệ",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "68 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "68 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe thương hiệu",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-200k",
+    "rating": 5,
+    "reviews": 301,
+    "hours": "07:00 - 23:00",
+    "phone": "0911129051",
+    "goodReview": "Không gian thương hiệu cafe lớn, mở cửa dài và phù hợp gặp gỡ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Date",
+      "Deadline",
+      "Coffee",
+      "Nguyễn Huệ"
+    ],
+    "desc": "Trung Nguyên Legend trên Nguyễn Huệ phù hợp gặp gỡ hoặc làm việc trong khu trung tâm.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212181/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/sqdz9r880v8334pznimo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212181/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/bhqgcohwn73haoaau7ds.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212182/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/yea0wj5ub5ywubricsqu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212183/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/wctgkpaghnqbpwckb8jx.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212184/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/bunvgjmqaxpg8wrsm8os.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212185/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/u8fsxsg9zqhpvdfsfgiv.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212186/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/tlz4ezo5uaow7m0irz5u.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212187/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Trung%20Nguy%C3%AAn%20Legend%20-%20Nguy%E1%BB%85n%20Hu%E1%BB%87/h4rcaq29wdenecru5hst.png"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Chạy deadline",
+      "Coffee"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7746587,
+      "lng": 106.7034065
+    },
+    "fsqId": "ChIJLWV6OpcvdTERb5QSZzQoRFE",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%A0+Ph%C3%AA+Th%E1%BA%BF+Gi%E1%BB%9Bi+Trung+Nguy%C3%AAn+Legend/@10.7746587,106.6986429,17z/data=!4m10!1m2!2m1!1zVHJ1bmcgTmd1ecOqbiBMZWdlbmQgLSBOZ3V54buFbiBIdeG7hyA2OCBOZ3V54buFbiBIdeG7hywgQuG6v24gTmdow6ksIFF14bqtbiAxLCBI4buTIENow60gTWluaA!3m6!1s0x31752f973a7a652d:0x514428346712946f!8m2!3d10.7746587!4d106.7034065!15sCl5UcnVuZyBOZ3V5w6puIExlZ2VuZCAtIE5ndXnhu4VuIEh14buHIDY4IE5ndXnhu4VuIEh14buHLCBC4bq_biBOZ2jDqSwgUXXhuq1uIDEsIEjhu5MgQ2jDrSBNaW5oIgOIAQFaWyJZdHJ1bmcgbmd1ecOqbiBsZWdlbmQgbmd1eeG7hW4gaHXhu4cgNjggbmd1eeG7hW4gaHXhu4cgYuG6v24gbmdow6kgcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQtjb2ZmZWVfc2hvcJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQydE9lVll3WnpKVE0xVjNUV3Q0ZUdGck1UWldWRkV4VWtac1VtVkdSUkFC4AEA-gEECAAQOA!16s%2Fg%2F11z59msl2w?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 31,
+    "name": "The Coffee Bean & Tea Leaf Nguyễn Huệ",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "101 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "101 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chuỗi",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.2,
+    "reviews": 652,
+    "hours": "",
+    "phone": "0703800823",
+    "goodReview": "Chuỗi cafe quốc tế, phù hợp gặp gỡ và ngồi làm việc.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Deadline",
+      "Date",
+      "Wifi",
+      "Coffee"
+    ],
+    "desc": "The Coffee Bean & Tea Leaf Nguyễn Huệ là lựa chọn quen thuộc cho làm việc hoặc gặp gỡ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212203/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/bjmaa8e8ipoerfd4iuzl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212204/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/gd6vpbdthdwgo6hqenbm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212205/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/cix0v6d5i3cs8ycep2w6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212205/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/qkrmcbmy5dsnxxvkofko.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212206/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/wqtpx7yoh3cie4gxzlat.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212207/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/s2cflzxcj9ositbojwu3.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212208/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/cd7oe6kehseh8tbfshmk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212210/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/The%20Coffee%20Bean%20Tea%20Leaf%20Nguy%E1%BB%85n%20Hu%E1%BB%87/kkp9kugp14rgc2ozkanu.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJCaWvxEYvdTERDs10fLc-Jyo",
+    "mapUrl": ""
+  },
+  {
+    "id": 32,
+    "name": "Calibre Lounge",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "56-66 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "56-66 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe lounge",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k-500k",
+    "rating": 4.5,
+    "reviews": 54,
+    "hours": "06:00 - 22:00",
+    "phone": "0788805666",
+    "goodReview": "Không gian lounge phù hợp gặp gỡ và trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Lounge",
+      "Coffee",
+      "View phố"
+    ],
+    "desc": "Calibre Lounge nằm trên Nguyễn Huệ, phù hợp cho một buổi hẹn hoặc gặp gỡ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212225/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/u5q0evjiwgkmeh2ptngt.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212227/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/etvcl1ld1fbhgfucpj5f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212228/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/mjruc1cxunetozqlui9x.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212229/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/zkxcz2edokidaksba3fj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212230/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/qhxnruleogggrfpob2wj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212231/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/qz4bwtmztwfcnshlmtxy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212232/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/zdoh3cgvlos64zpulw1e.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212233/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Calibre%20Lounge/s2qb9a8q7zortcbavnr5.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Nói chuyện",
+      "Ngắm phố"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJpbe870YvdTERkLVv452gWQk",
+    "mapUrl": ""
+  },
+  {
+    "id": 33,
+    "name": "Room44 Caffe",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "35 Nguyễn Văn Tráng, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "35 Nguyễn Văn Tráng, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe chill",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 285,
+    "hours": "08:00 - 22:00",
+    "phone": "0906123495",
+    "goodReview": "Không gian cafe phù hợp ngồi lâu và trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "tags": [
+      "Date",
+      "Chill",
+      "Deadline"
+    ],
+    "desc": "Room44 Caffe là cafe tại Nguyễn Văn Tráng, phù hợp coffee date hoặc làm việc.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212249/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/n6v09snymv2jbxq2taqb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212250/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/culwgzduxlno1k3jvxee.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212251/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/cnmtuojlj7nxlpvzb59b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212252/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/zon65ldyyeeznscmqznj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212254/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/mfuvqaaygf5lgw8pb0yi.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212255/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/fn0hjwyagdqpcogkwx61.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212256/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/kkjoabpehp0lhgkjoqev.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212257/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Room44%20Caffe/vqfkxbwxww0vzwbr10n1.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Chạy deadline",
+      "Nói chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJO9v9sskvdTER4EBNw9XMplI",
+    "mapUrl": ""
+  },
+  {
+    "id": 34,
+    "name": "Beanthere Cafe",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "42/7 Hồ Hảo Hớn, Cô Giang, Quận 1, Hồ Chí Minh",
+    "fullAddress": "42/7 Hồ Hảo Hớn, Cô Giang, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe làm việc",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "60k-140k",
+    "rating": null,
+    "reviews": null,
+    "hours": "09:00 - 22:00",
+    "phone": "",
+    "goodReview": "Không gian yên tĩnh, có nhiều ổ cắm, phù hợp học tập và chạy deadline.",
+    "badReview": "",
+    "hasBad": false,
+    "tags": [
+      "Deadline",
+      "Yên tĩnh",
+      "Work-friendly",
+      "Cafe"
+    ],
+    "desc": "Beanthere Cafe nằm trong khu chung cư cũ tại Hồ Hảo Hớn, nổi bật với không gian yên tĩnh và nhiều ổ cắm điện.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212275/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/huoy4ry7qla44noinpnp.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212276/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/gpjrfccn9h0y4zxxe02n.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212278/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/neomnf88odlj6hnsfjy0.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212279/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/qekxf21hyfn52bpgmytb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212280/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/gjid8k94eb5hyz0aydx5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212281/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/tiqigntbvugkwzbu1t47.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212282/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/aobv9x3ya1wq1gasbrho.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212283/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Beanthere%20Cafe/ovcrgk7tqgnecyhd0xkd.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Học tập",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 35,
+    "name": "Cô Ba Đồng Khởi",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "4-6 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "4-6 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe view sông",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k+",
+    "rating": null,
+    "reviews": null,
+    "hours": "07:30 - 23:00",
+    "phone": "02838233196",
+    "goodReview": "View hướng sông Sài Gòn, không gian trong nhà và ngoài trời phù hợp hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "View sông",
+      "Check-in",
+      "Cafe"
+    ],
+    "desc": "Cô Ba Đồng Khởi là cafe có view hướng sông Sài Gòn, phù hợp cho coffee date.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212302/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/cdopjedqfhtxgix1hqmk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212303/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/osusiu9ktpptootni6hx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212304/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/jwhts8ypmpxw6pgk7h22.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212305/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/c95joweuhzs7q7gsj93r.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212306/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/tzhgj9q00twukozcacge.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212307/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/st7iw3i2xqgcgv191nw3.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212308/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/twnh1jmiagjixds2v3jo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212309/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%C3%B4%20Ba%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi/jw09hhlusb9wjtwnitrk.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Ngắm sông",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 36,
+    "name": "Miyama - Modern Tokyo Restaurant Cafe",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe phong cách Nhật",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k+",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian hiện đại theo phong cách Tokyo, phù hợp hẹn hò và ăn nhẹ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Japanese",
+      "Cafe",
+      "Check-in"
+    ],
+    "desc": "Miyama là mô hình cafe và restaurant phong cách Tokyo, phù hợp cho những buổi hẹn.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212328/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/m3m20ilq7n92p0e6y7io.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212329/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/iahexojhpoybhvoe9ebj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212330/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/b0rotgqwtstbjhxsh5w1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212331/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/rg3t3z6orgauvqpjccs6.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212332/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/iunneqbvxdf5jkwgkdh2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212333/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/vsamabslqrmhggebdjlt.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212334/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/ubgjnnvh1jtkhwmqyga1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212335/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Miyama%20-%20Modern%20Tokyo%20Restaurant%20Cafe/zfqr4dzxtnrrexxq4ib3.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Ăn nhẹ",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 37,
+    "name": "Saigon Oi Cafe",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe view phố",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": 4.1,
+    "reviews": 818,
+    "hours": "07:00 - 23:00",
+    "phone": "",
+    "goodReview": "View Nguyễn Huệ, phù hợp ngắm phố và trò chuyện.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "View phố",
+      "Check-in"
+    ],
+    "desc": "Saigon Oi Cafe là lựa chọn phổ biến trong chung cư 42 Nguyễn Huệ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212353/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/bf084sn7vyz61zi6yicu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212353/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/b4hgmkrbxbmrasgt597f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212354/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/cwejnbiv1142oxounssb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212355/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/jjol9vvoqnoi2sx1mrps.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212356/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/rkno1amn5uodjvisv6ul.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212357/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/fud3zuzkgrchknozy60n.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212357/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/x8kvqobj7oszcxltwwzk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212358/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Saigon%20Oi%20Cafe/pz6abekqa9omvpcthwcv.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Ngắm phố",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 38,
+    "name": "Đen Đá Cafe - Pasteur",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "182 Pasteur, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "182 Pasteur, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe 24h",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": null,
+    "reviews": null,
+    "hours": "24/24",
+    "phone": "",
+    "goodReview": "Không gian thuận tiện cho làm việc khuya và gặp gỡ.",
+    "badReview": "",
+    "hasBad": false,
+    "tags": [
+      "24/7",
+      "Deadline",
+      "Date",
+      "Cafe"
+    ],
+    "desc": "Đen Đá Cafe tại Pasteur là lựa chọn phù hợp nếu cần một nơi có thể ngồi làm việc vào buổi tối hoặc khuya.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212374/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/lfzbizg5wwj7nunc0kwi.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212375/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/kco9xrooofufmnque9yr.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212376/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/gxzwscv0iet3lplehio9.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212377/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/a4tlu0dusvgrvdj2dgan.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212379/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/qjjhh9hxwhqth54otibd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212380/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/ztjylwb8wlzaca6ksobo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212381/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/e6h967nvmbsz6zgez90f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212383/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/%C4%90en%20%C4%90%C3%A1%20Cafe%20-%20Pasteur/lfq7n8apsw9s8hh9qtfx.png"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Làm việc khuya",
+      "Hẹn hò"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "",
+    "mapUrl": ""
+  },
+  {
+    "id": 39,
+    "name": "Khóm Coffee & Tea",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "5 Trần Quý Khoách, Tân Định, Quận 1, Hồ Chí Minh",
+    "fullAddress": "5 Trần Quý Khoách, Tân Định, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe sân vườn",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "50k-120k",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian nhiều cây xanh, phù hợp trò chuyện và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Cây xanh",
+      "Chill",
+      "Cafe"
+    ],
+    "desc": "Khóm Coffee & Tea là cafe có không gian nhiều cây xanh, phù hợp coffee date.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212400/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/jm5icbrl3lldsgzivzte.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212402/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/bifx3cmp3d3kjihwqvym.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212403/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/e9jjw8c7b9lax8pyiylb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212404/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/k9jcoyrhh9xybtii34gr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212404/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/agzyxu4yisapcozpzi5a.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212406/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/luj4ixm0g5mpepmn87xu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212407/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/ufodxjdruabiwnbd4rle.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212408/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Kh%C3%B3m%20Coffee%20Tea/jzf4insce6vgg8kyb6pg.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Nói chuyện",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7934439,
+      "lng": 106.6891885
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Kh%C3%B3m+Coffee+%26+Tea/@10.7934439,106.6891885,17z/data=!3m1!4b1!4m6!3m5!1s0x317529ef1098aac7:0x84f1c3507f0ac453!8m2!3d10.7934439!4d106.6891885!16s%2Fg%2F11hdwbk8_s?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 40,
+    "name": "S'mores Saigon",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "47-49 Đặng Thị Nhu, Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+    "fullAddress": "47-49 Đặng Thị Nhu, Nguyễn Thái Bình, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe concept",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "50k-150k",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Cafe concept độc đáo, phù hợp hẹn hò và chụp ảnh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Concept",
+      "Check-in",
+      "Cafe"
+    ],
+    "desc": "S'mores Saigon là cafe concept phù hợp trải nghiệm và hẹn hò.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212427/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/gsf2xcfeguwndp62qzf8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212428/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/ilhwv9utyxhy8n4eypmu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212429/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/oxij293zeaqhxcllamzk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212431/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/qq4aogllqcwmv0gvz6jk.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212432/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/jc8dyrkemcnh0hwgrwrr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212433/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/bgscmhtvhrm3n46thsdm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212434/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/krwsuofmghiima0ugtsm.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212435/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/S%27mores%20Saigon/xvsgmknajxos5fvyn7uu.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Check-in",
+      "Nói chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7523719,
+      "lng": 106.6666739
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/S'mores+Saigon+-+Ch%E1%BB%A3+L%E1%BB%9Bn/@10.7523719,106.5904562,13z/data=!4m10!1m2!2m1!1zUydtb3JlcyBTYWlnb24gNDctNDkgxJDhurduZyBUaOG7iyBOaHUsIE5ndXnhu4VuIFRow6FpIELDrG5oLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmg!3m6!1s0x31752f919f3066d1:0xfe6d4d448903008c!8m2!3d10.7523719!4d106.6666739!15sClZTJ21vcmVzIFNhaWdvbiA0Ny00OSDEkOG6t25nIFRo4buLIE5odSwgTmd1eeG7hW4gVGjDoWkgQsOsbmgsIFF14bqtbiAxLCBI4buTIENow60gTWluaFpVIlNzIG1vcmVzIHNhaWdvbiA0NyA0OSDEkeG6t25nIHRo4buLIG5odSBuZ3V54buFbiB0aMOhaSBiw6xuaCBxdeG6rW4gMSBo4buTIGNow60gbWluaJIBC2NvZmZlZV9zaG9wmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJzeFZscHJjSEpqUjJNelpXeFJlV0ZWVG1GWFJYQlRZak5LZUZadFl4QULgAQD6AQQIABBG!16s%2Fg%2F11sbcvpxwy?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 41,
+    "name": "Heritage Indochine",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "151 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "151 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe Indochine",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "100k+",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian phong cách Indochine, thiên về trải nghiệm và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Indochine",
+      "Check-in",
+      "Cafe"
+    ],
+    "desc": "Heritage Indochine là cafe mang phong cách Đông Dương, phù hợp cho một buổi hẹn có yếu tố trải nghiệm.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212458/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Heritage%20Indochine/id8vnaaajlsi3ovzu0gd.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212459/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Heritage%20Indochine/rvtokzxt0lgj6g2bgwi2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212460/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Heritage%20Indochine/a8ooru7siocv0ljhofix.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212461/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Heritage%20Indochine/ur65qxpnynssz81hkd1p.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212462/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Heritage%20Indochine/bavkcodyhfqm3qitqanz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212463/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Heritage%20Indochine/rxa8zbosuhywqfkklktr.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Check-in",
+      "Nói chuyện"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7886626,
+      "lng": 106.6987457
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/Indochina+Heritage+Travel+Group/@10.7886626,106.6606369,14z/data=!4m10!1m2!2m1!1zSGVyaXRhZ2UgSW5kb2NoaW5lIDE1MSDEkOG7k25nIEto4bufaSwgQuG6v24gTmdow6ksIFF14bqtbiAxLCBI4buTIENow60gTWluaA!3m6!1s0x31752f0088a55f9b:0x9ac32d49e3191638!8m2!3d10.7886626!4d106.6987457!15sCkxIZXJpdGFnZSBJbmRvY2hpbmUgMTUxIMSQ4buTbmcgS2jhu59pLCBC4bq_biBOZ2jDqSwgUXXhuq1uIDEsIEjhu5MgQ2jDrSBNaW5oWksiSWhlcml0YWdlIGluZG9jaGluZSAxNTEgxJHhu5NuZyBraOG7n2kgYuG6v24gbmdow6kgcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQ10cmF2ZWxfYWdlbmN5mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDIwMU1GSnVhR0ZqYkZKMFUxVkdWRnBYYkVSUlZXeFVaR3hDUTFVeFJSQULgAQD6AQQIABAZ!16s%2Fg%2F11kk8_rn0s?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 42,
+    "name": "Cộng Cà Phê - Quận 1",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "26-28 Tôn Thất Thiệp, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "26-28 Tôn Thất Thiệp, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe concept Việt",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "50k-100k",
+    "rating": null,
+    "reviews": null,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Concept Việt Nam đặc trưng, phù hợp trò chuyện và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Date",
+      "Concept",
+      "Cafe",
+      "Check-in"
+    ],
+    "desc": "Cộng Cà Phê là chuỗi cafe có concept Việt Nam đặc trưng, phù hợp coffee date.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212484/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/euicgussdypfebndwvjj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212485/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/fum16ambyhl4sryclyce.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212486/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/vaha1f0yttlns3zzuaj1.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212487/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/txfau3gf5qnnuvcf0uit.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212488/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/kc8mrvrbau7z0sxunk6l.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212490/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/s0d4k8najwpirugwrmbu.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212491/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/jdrz81wuyno63ymxrhwc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212491/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/C%E1%BB%99ng%20C%C3%A0%20Ph%C3%AA%20-%20Qu%E1%BA%ADn%201/ulpfholxbwhprrqdtwb3.jpg"
+    ],
+    "quickActions": [
+      "Hẹn hò",
+      "Nói chuyện",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7782314,
+      "lng": 106.7010998
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/C%E1%BB%99ng+C%C3%A0+Ph%C3%AA/@10.7745011,106.6947624,16z/data=!4m10!1m2!2m1!1zQ-G7mW5nIEPDoCBQaMOqIC0gUXXhuq1uIDEgMjYtMjggVMO0biBUaOG6pXQgVGhp4buHcCwgQuG6v24gTmdow6ksIFF14bqtbiAxLCBI4buTIENow60gTWluaA!3m6!1s0x31752f480a29079d:0xfdf51f2dccc8dc71!8m2!3d10.7782314!4d106.7010998!15sCltD4buZbmcgQ8OgIFBow6ogLSBRdeG6rW4gMSAyNi0yOCBUw7RuIFRo4bqldCBUaGnhu4dwLCBC4bq_biBOZ2jDqSwgUXXhuq1uIDEsIEjhu5MgQ2jDrSBNaW5oIgOIAQFaWCJWY-G7mW5nIGPDoCBwaMOqIHF14bqtbiAxIDI2IDI4IHTDtG4gdGjhuqV0IHRoaeG7h3AgYuG6v24gbmdow6kgcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQtjb2ZmZWVfc2hvcJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSNE1sOXFUbFpuRUFF4AEA-gEFCKEBEEY!16s%2Fg%2F11c18hg756?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 43,
+    "name": "Soo Kafe - Phan Kế Bính",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "10 Phan Kế Bính, Đa Kao, Quận 1, Hồ Chí Minh",
+    "fullAddress": "10 Phan Kế Bính, Đa Kao, Quận 1, Hồ Chí Minh",
+    "tag": "Cafe làm việc",
+    "tagClass": "tag-cafe",
+    "category": "cafe",
+    "price": "1-100k",
+    "rating": null,
+    "reviews": null,
+    "hours": "08:00 - 23:00",
+    "phone": "",
+    "goodReview": "Không gian rộng, có tầng trên phù hợp học tập và hoàn thành deadline.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Deadline",
+      "Work-friendly",
+      "Date",
+      "Cafe"
+    ],
+    "desc": "Soo Kafe Phan Kế Bính có không gian phù hợp làm việc, đồng thời vẫn thích hợp gặp gỡ.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212511/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/rh1vr4y8opetxluitqvl.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212512/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/uj4aczgo2dcmjn685bm5.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212513/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/dfomcv1r8serkqdcaaml.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212514/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/di8e0xwmqkwiasb5nmmj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212516/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/gklqyaehpcqueatr5o3s.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212517/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/cdamonwrajjdgyo4y1dq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212518/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/wkc0oirgge2qb2cyzykn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787212519/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/c%C3%A0%20ph%C3%AA/Soo%20Kafe%20-%20Phan%20K%E1%BA%BF%20B%C3%ADnh/v2yrcgbmtvmrf0bghlt6.jpg"
+    ],
+    "quickActions": [
+      "Chạy deadline",
+      "Hẹn hò",
+      "Làm việc"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7907491,
+      "lng": 106.6982408
+    },
+    "fsqId": "",
+    "mapUrl": "https://www.google.com/maps/place/soo+coffee+%26+bakery+_+PKB/@10.7907491,106.6791864,15z/data=!4m10!1m2!2m1!1zU29vIEthZmUgLSBQaGFuIEvhur8gQsOtbmggMTAgUGhhbiBL4bq_IELDrW5oLCDEkGEgS2FvLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmg!3m6!1s0x317529000ac7c4df:0x773b7357e205f24e!8m2!3d10.7907491!4d106.6982408!15sClBTb28gS2FmZSAtIFBoYW4gS-G6vyBCw61uaCAxMCBQaGFuIEvhur8gQsOtbmgsIMSQYSBLYW8sIFF14bqtbiAxLCBI4buTIENow60gTWluaFpNIktzb28ga2FmZSBwaGFuIGvhur8gYsOtbmggMTAgcGhhbiBr4bq_IGLDrW5oIMSRYSBrYW8gcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQRjYWZlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5pZUhCMlduWkJSUkFC4AEA-gEECAAQRA!16s%2Fg%2F11w2b5dsmm?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

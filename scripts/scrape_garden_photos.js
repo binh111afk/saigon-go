@@ -13,7 +13,7 @@ cloudinary.config({
   secure: true
 });
 
-const SPOT_FILE = path.join(process.cwd(), 'src', 'data', 'spots', 'stroll.json');
+const SPOT_FILE = path.join(process.cwd(), 'src', 'data', 'spots', 'garden.json');
 
 const randomDelay = (min = 1200, max = 2200) =>
   new Promise((resolve) => setTimeout(resolve, Math.floor(Math.random() * (max - min + 1)) + min));
@@ -52,8 +52,8 @@ function extractGeoFromUrl(url) {
   return null;
 }
 
-async function runStrollScraper() {
-  console.log('🚀 Bắt đầu cào ĐỦ ẢNH GOOGLE MAPS CHO STROLL.JSON (16 ĐỊA ĐIỂM ĐI DẠO)...');
+async function runGardenScraper() {
+  console.log('🚀 Bắt đầu cào ĐỦ ẢNH GOOGLE MAPS CHO GARDEN.JSON (32 ĐỊA ĐIỂM SÂN VƯỜN)...');
 
   if (!fs.existsSync(SPOT_FILE)) return;
   let spots = JSON.parse(fs.readFileSync(SPOT_FILE, 'utf8'));
@@ -69,15 +69,15 @@ async function runStrollScraper() {
 
     if (venue.images && venue.images.length > 0) {
       console.log(`\n--------------------------------------------------`);
-      console.log(`[${i + 1}/${spots.length}] Địa điểm: ${venue.name} (Đã có ${venue.images.length} ảnh, bỏ qua cào lại)`);
+      console.log(`[${i + 1}/${spots.length}] Địa điểm sân vườn: ${venue.name} (Đã có ${venue.images.length} ảnh, bỏ qua cào lại)`);
       continue;
     }
 
     console.log(`\n--------------------------------------------------`);
-    console.log(`[${i + 1}/${spots.length}] Địa điểm: ${venue.name}`);
+    console.log(`[${i + 1}/${spots.length}] Địa điểm sân vườn: ${venue.name}`);
 
     const cleanName = venue.name.replace(/&/g, '').replace(/,/g, '').replace(/:/g, '').replace(/  +/g, ' ').trim();
-    const folderPath = `địa điểm/đi dạo/${cleanName}`;
+    const folderPath = `địa điểm/sân vườn/${cleanName}`;
 
     const page = await browser.newPage();
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36');
@@ -108,6 +108,26 @@ async function runStrollScraper() {
           await photoBtn.click();
           await randomDelay(2000, 3000);
         } catch (e) {}
+      }
+
+      const spaceTabSelectors = [
+        'button[aria-label*="Không gian"]',
+        'button[aria-label*="Bên ngoài"]',
+        'button[aria-label*="Bên trong"]',
+        'button[aria-label*="Atmosphere"]',
+        'button[aria-label*="Interior"]'
+      ];
+
+      for (const sel of spaceTabSelectors) {
+        const spaceBtn = await page.$(sel);
+        if (spaceBtn) {
+          try {
+            await spaceBtn.click();
+            console.log(`  🌿 Đã chọn TAB KHÔNG GIAN: ${sel}`);
+            await randomDelay(2000, 3000);
+            break;
+          } catch (e) {}
+        }
       }
 
       for (let scrollStep = 0; scrollStep < 8; scrollStep++) {
@@ -192,7 +212,7 @@ async function runStrollScraper() {
   }
 
   await browser.close();
-  console.log(`\n🎉 HOÀN THÀNH TOÀN BỘ CÀO ẢNH CHO STROLL.JSON!`);
+  console.log(`\n🎉 HOÀN THÀNH TOÀN BỘ CÀO ẢNH CHO GARDEN.JSON!`);
 }
 
-runStrollScraper();
+runGardenScraper();

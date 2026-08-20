@@ -174,7 +174,9 @@ export default function App() {
         } else if (cat === 'ăn vặt') {
           if (vCat !== 'snack' && !vTag.includes('ăn vặt')) return false;
         } else if (cat === 'ẩm thực') {
-          if (vCat !== 'food' && vCat !== 'restaurant' && !vTag.includes('ẩm thực') && !vTag.includes('nhà hàng')) return false;
+          if (vCat !== 'food' && vCat !== 'restaurant' && !vTag.includes('ẩm thực')) return false;
+        } else if (cat === 'nhà hàng' || cat === 'nha hang') {
+          if (vCat !== 'restaurant' && !vTag.includes('nhà hàng') && !vTag.includes('hải sản') && !vTag.includes('dê') && !v.name.toLowerCase().includes('nhà hàng')) return false;
         } else if (cat === 'giải trí') {
           if (vCat !== 'entertainment' && !vTag.includes('giải trí')) return false;
         } else if (cat === 'đi dạo') {

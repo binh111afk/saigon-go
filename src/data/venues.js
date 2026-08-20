@@ -2,6 +2,7 @@ import cafe from './spots/cafe.json';
 import garden from './spots/garden.json';
 import snack from './spots/snack.json';
 import food from './spots/food.json';
+import restaurant from './spots/restaurant.json';
 import entertainment from './spots/entertainment.json';
 import stroll from './spots/stroll.json';
 
@@ -11,6 +12,7 @@ export const venuesData = [
   ...garden,
   ...snack,
   ...food,
+  ...restaurant,
   ...entertainment,
   ...stroll
 ].sort((a, b) => a.id - b.id);

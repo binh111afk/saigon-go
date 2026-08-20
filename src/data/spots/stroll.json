@@ -418,5 +418,363 @@
     },
     "fsqId": "",
     "mapUrl": ""
+  },
+  {
+    "id": 10,
+    "name": "Công viên Tao Đàn",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Trương Định, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Trương Định, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.5,
+    "reviews": 15604,
+    "hours": "07:00 - 22:00",
+    "phone": "",
+    "goodReview": "Công viên lớn giữa trung tâm thành phố, nhiều cây xanh, phù hợp đi bộ, thư giãn, tập thể dục và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên",
+      "Cây xanh",
+      "Đi bộ",
+      "Tập thể dục",
+      "Hẹn hò"
+    ],
+    "desc": "Công viên Tao Đàn là một trong những công viên lớn và nổi tiếng nhất khu vực trung tâm TP.HCM.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211313/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/ewnnzwkqy8jm1jkfkhge.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211314/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/ysegglhy2k63zp1ascp2.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211315/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/lxjajogw0fijlimylkms.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211317/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/d5s5xvynwymsykzicrep.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211318/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/y3pr71dcgodjabnsrbjx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211319/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/gwrafnq1acw11mwcyfir.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211320/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/g1nn19eozf6yadorcvpo.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211321/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n/aakxbpgisuiuzp2odx7d.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Tập thể dục",
+      "Ngắm cảnh",
+      "Hẹn hò"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7755796,
+      "lng": 106.6920797
+    },
+    "fsqId": "ChIJsXOVajkvdTERcBdP0Xow8j4",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+Tao+%C4%90%C3%A0n/@10.7755796,106.6873161,17z/data=!4m10!1m2!2m1!1zQ8O0bmcgdmnDqm4gVGFvIMSQw6BuIFRyxrDGoW5nIMSQ4buLbmgsIELhur9uIFRow6BuaCwgUXXhuq1uIDEsIEjhu5MgQ2jDrSBNaW5o!3m6!1s0x31752f396a9573b1:0x3ef2307ad14f1770!8m2!3d10.7755796!4d106.6920797!15sCk5Dw7RuZyB2acOqbiBUYW8gxJDDoG4gVHLGsMahbmcgxJDhu4tuaCwgQuG6v24gVGjDoG5oLCBRdeG6rW4gMSwgSOG7kyBDaMOtIE1pbmhaTSJLY8O0bmcgdmnDqm4gdGFvIMSRw6BuIHRyxrDGoW5nIMSR4buLbmggYuG6v24gdGjDoG5oIHF14bqtbiAxIGjhu5MgY2jDrSBtaW5okgEEcGFya5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VObWRrcFFXVEpCUlJBQuABAPoBBQjFAhBD!16s%2Fg%2F121tymxf?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 11,
+    "name": "Công viên 23 tháng 9",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Đường Phạm Ngũ Lão - Lê Lai, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Đường Phạm Ngũ Lão - Lê Lai, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.4,
+    "reviews": 10405,
+    "hours": "24/24",
+    "phone": "",
+    "goodReview": "Công viên trung tâm gần chợ Bến Thành và phố Tây, có nhiều cây xanh, không gian đi bộ và các khu ăn uống, mua sắm xung quanh.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên",
+      "Đi bộ",
+      "Ăn uống",
+      "Mua sắm",
+      "Hẹn hò",
+      "Check-in"
+    ],
+    "desc": "Công viên 23 tháng 9 nằm giữa đường Lê Lai và Phạm Ngũ Lão, trải dài từ khu vực Bến Thành về phía Nguyễn Trãi.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211335/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/oezsdhg9ar8kpy2illxf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211336/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/pcxzgr7kkdsmbje9amqy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211338/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/vosaft2gab257z4gmpcg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211339/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/chuj1r7ht1omzzxxjtb8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211340/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/f0rnujzrvu0m2f0re9ne.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211341/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/wzk2f2rwnqcgrsifjgwc.png",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211342/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/b4qqpymemxtr1qwbpods.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211343/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2023%20th%C3%A1ng%209/hzgfjbkqjl8tx9nqykyz.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Ăn vặt",
+      "Check-in",
+      "Hẹn hò"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJu4YK_j4vdTERfSn0egKOyug",
+    "mapUrl": ""
+  },
+  {
+    "id": 12,
+    "name": "Công viên Bến Bạch Đằng",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh",
+    "tag": "Công viên ven sông",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.4,
+    "reviews": 8902,
+    "hours": "09:00 - 19:00",
+    "phone": "",
+    "goodReview": "Không gian ven sông thoáng mát, phù hợp đi dạo, ngắm sông, chụp ảnh và hẹn hò.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên",
+      "Ven sông",
+      "Ngắm cảnh",
+      "Check-in",
+      "Đi bộ",
+      "Hẹn hò"
+    ],
+    "desc": "Công viên Bến Bạch Đằng nằm dọc đường Tôn Đức Thắng bên bờ sông Sài Gòn, là một trong những không gian công cộng nổi bật của trung tâm thành phố.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211364/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/dpoxodi5pjrd1lqq3vdg.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211365/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/mupse1dpcecc6cmjdf51.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211366/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/hkwnlplb6byubx3pvgcn.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211367/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/wf36ezuxs7i0xkcmilcx.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211369/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/aruz8rygmpycsir7neaf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211370/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/sdyr0t8v5feuy0quxvka.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211371/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/so6vzbagb47ku3oxpnyz.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211372/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng/swyykwidui8caaqquwoe.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Ngắm sông",
+      "Chụp ảnh",
+      "Hẹn hò"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7731999,
+      "lng": 106.7067289
+    },
+    "fsqId": "ChIJqVawLjgvdTERy0WoSbe7qgA",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+B%E1%BA%BFn+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng/@10.7731999,106.7019653,17z/data=!4m10!1m2!2m1!1zQ8O0bmcgdmnDqm4gQuG6v24gQuG6oWNoIMSQ4bqxbmcgVMO0biDEkOG7qWMgVGjhuq9uZywgQuG6v24gTmdow6ksIFF14bqtbiAxLCBI4buTIENow60gTWluaA!3m6!1s0x3175270022ccff97:0x61057d52c00bb901!8m2!3d10.7731999!4d106.7067289!15sCltDw7RuZyB2acOqbiBC4bq_biBC4bqhY2ggxJDhurFuZyBUw7RuIMSQ4bupYyBUaOG6r25nLCBC4bq_biBOZ2jDqSwgUXXhuq1uIDEsIEjhu5MgQ2jDrSBNaW5oWloiWGPDtG5nIHZpw6puIGLhur9uIGLhuqFjaCDEkeG6sW5nIHTDtG4gxJHhu6ljIHRo4bqvbmcgYuG6v24gbmdow6kgcXXhuq1uIDEgaOG7kyBjaMOtIG1pbmiSAQRwYXJrmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5UVU4zYUdWUVowZG5FQUXgAQD6AQQIABBD!16s%2Fg%2F11whyntdzl?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": 13,
+    "name": "Công viên 30/4",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "6 Lê Duẩn, Quận 1, Hồ Chí Minh",
+    "fullAddress": "6 Lê Duẩn, Quận 1, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.7,
+    "reviews": 103,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Công viên trung tâm nằm gần Nhà thờ Đức Bà và các công trình nổi tiếng trên đường Đồng Khởi - Lê Duẩn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": true,
+    "tags": [
+      "Công viên",
+      "Cây xanh",
+      "Đi bộ",
+      "Check-in",
+      "Hẹn hò"
+    ],
+    "desc": "Công viên 30/4 nằm trên đường Lê Duẩn, gần Nhà thờ Đức Bà và khu vực trung tâm Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211388/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/sbdswm4nvc90jhh8j0ia.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211389/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/tng4td3qrrmty1n4fnn6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211390/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/l4npgxm8c5g2amd6meia.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211391/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/g3pnrm9d4qo4mrgeof5b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211392/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/guuwxinpdvxpz07t9bce.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211393/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/ljmbeiigsclmq1961nkj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211394/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/pnecowsbyhxqtve2d0l6.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211395/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%2030/4/xwckyn4ezxrzbwg26ri3.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Check-in",
+      "Ngắm cảnh",
+      "Hẹn hò"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJJQvJcGUvdTERSBh-wwYaj3g",
+    "mapUrl": ""
+  },
+  {
+    "id": 14,
+    "name": "Công viên Chi Lăng",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "72 Lê Thánh Tôn, Quận 1, Hồ Chí Minh",
+    "fullAddress": "72 Lê Thánh Tôn, Quận 1, Hồ Chí Minh",
+    "tag": "Công viên lưu niệm",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.2,
+    "reviews": 318,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian công cộng nhỏ giữa khu trung tâm, thuận tiện kết hợp tham quan và đi bộ quanh khu Đồng Khởi - Lê Thánh Tôn.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên",
+      "Đi bộ",
+      "Trung tâm",
+      "Tham quan"
+    ],
+    "desc": "Công viên Chi Lăng nằm trên đường Lê Thánh Tôn, khu vực trung tâm Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211411/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/gotkgepnhrablwmqunsi.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211412/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/o90l7kyromi20uuszv4f.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211413/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/qdfzdzcjbvcm4zmdp6k3.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211414/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/kf58lmhrbedrvfmaslpf.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211415/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/tmoyysu4xbvocxvtikoy.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211416/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/c60uajrflskztgujkk2r.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211417/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/aio302xkpvic3kvcifux.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211418/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Chi%20L%C4%83ng/i0ercdiwlfdi9qfayio4.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Tham quan",
+      "Check-in"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJqU883EcvdTERTCif2vLuiAI",
+    "mapUrl": ""
+  },
+  {
+    "id": 15,
+    "name": "Công viên Nguyễn Thị Nghĩa",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Nguyễn Thị Nghĩa, Bến Thành, Quận 1, Hồ Chí Minh",
+    "fullAddress": "Nguyễn Thị Nghĩa, Bến Thành, Quận 1, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.2,
+    "reviews": 38,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian công viên nhỏ tại khu vực Bến Thành, thuận tiện nghỉ chân và đi bộ.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên",
+      "Đi bộ",
+      "Nghỉ chân",
+      "Trung tâm"
+    ],
+    "desc": "Công viên Nguyễn Thị Nghĩa nằm tại khu vực Bến Thành, Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211435/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/xygrw2hzihub0zijzjll.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211436/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/wlbm570lm0nke2obdbkq.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211438/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/bpvop6z3qzokkdwlac6b.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211438/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/qgqdx8gyucejukrevrma.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211439/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/hyuhurvtizxmqnfbbmod.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211441/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/fl1n5ku4o0mibycvhlmh.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211442/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/wajzaxdwuro9bar1ljbs.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211443/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ngh%C4%A9a/eh1mqsxrtojqm2gkcnwn.jpg"
+    ],
+    "quickActions": [
+      "Đi dạo",
+      "Nghỉ chân"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": null,
+      "lng": null
+    },
+    "fsqId": "ChIJKx11cd0vdTERMWN2lOz2fmY",
+    "mapUrl": ""
+  },
+  {
+    "id": 16,
+    "name": "Công viên Bách Tùng Diệp",
+    "district": "Quận 1",
+    "group": "Quận 1",
+    "address": "Quận 1, Hồ Chí Minh",
+    "fullAddress": "Quận 1, Hồ Chí Minh",
+    "tag": "Công viên",
+    "tagClass": "tag-stroll",
+    "category": "stroll",
+    "price": "Miễn phí",
+    "rating": 4.3,
+    "reviews": 61,
+    "hours": "",
+    "phone": "",
+    "goodReview": "Không gian xanh nhỏ trong khu vực trung tâm thành phố.",
+    "badReview": "",
+    "hasBad": false,
+    "viewDep": false,
+    "tags": [
+      "Công viên",
+      "Cây xanh",
+      "Đi bộ",
+      "Nghỉ chân"
+    ],
+    "desc": "Công viên Bách Tùng Diệp là một không gian công cộng xanh tại khu vực trung tâm Quận 1.",
+    "images": [
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211460/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/d8fowxwa9hdx5gzaqet8.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211461/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/vnzdzufyyx1mltgpmmsr.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211462/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/hgjqnxoyiamdeuzdg1ue.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211463/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/ghqlxdvxl8ehqcbfx2ls.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211464/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/rm9ooiculirqyffiplfj.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211465/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/xm6dcdyz2bsmlcpcrdfc.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211466/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/o6smjp9gllpzq0pdjkvb.jpg",
+      "https://res.cloudinary.com/dikychaux/image/upload/v1787211468/%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m/%C4%91i%20d%E1%BA%A1o/C%C3%B4ng%20vi%C3%AAn%20B%C3%A1ch%20T%C3%B9ng%20Di%E1%BB%87p/qxpezoncnr58nyc523u9.jpg"
+    ],
+    "quickActions": [
+      "Đi bộ",
+      "Nghỉ chân"
+    ],
+    "menu": [],
+    "reviewList": [],
+    "geo": {
+      "lat": 10.7763855,
+      "lng": 106.6992953
+    },
+    "fsqId": "ChIJAwJpXSkvdTERELFnDrgLv0M",
+    "mapUrl": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+B%C3%A1ch+T%C3%B9ng+Di%E1%BB%87p/@10.7763855,106.6992953,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f295d690203:0x43bf0bb80e67b110!8m2!3d10.7763855!4d106.6992953!16s%2Fg%2F11hzwcg_kk?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]
